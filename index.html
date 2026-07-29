@@ -3,7 +3,35 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>bin'scope — 정부지원 사업을 한눈에</title>
+<title>bin'scope — 정부지원사업 공고 모아보기 | 기업마당·K-Startup 통합 검색</title>
+
+<!-- 검색엔진 -->
+<meta name="description" content="전국 정부·공공 지원사업 공고 1,700여 건을 매일 자동으로 모아 한눈에 보여드립니다. 기업마당·K-Startup 등 공식 오픈API 기반으로 마감일·지원분야·지역·신청자격을 정리하고, 공고문 첨부파일까지 바로 내려받을 수 있습니다.">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="https://swbing.github.io/binscope/">
+
+<!-- 공유(카카오톡·페이스북 등) 미리보기 -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="bin'scope">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:url" content="https://swbing.github.io/binscope/">
+<meta property="og:title" content="bin'scope — 정부지원사업 공고 모아보기">
+<meta property="og:description" content="전국 정부·공공 지원사업 공고를 매일 자동 수집해 마감일·지역·자격까지 정리해 보여드립니다. 우리 회사 조건을 넣으면 맞는 공고만 골라줍니다.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="bin'scope — 정부지원사업 공고 모아보기">
+<meta name="twitter:description" content="전국 정부·공공 지원사업 공고를 매일 자동 수집해 한눈에 보여드립니다.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "bin'scope",
+  "alternateName": "빈스코프 정부지원사업 대시보드",
+  "url": "https://swbing.github.io/binscope/",
+  "inLanguage": "ko",
+  "description": "전국 정부·공공 지원사업 공고를 매일 자동 수집해 마감일·지원분야·지역·신청자격과 함께 보여주는 무료 대시보드."
+}
+</script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@latest/dist/web/static/pretendard.min.css">
 <style>
   *{ box-sizing:border-box; margin:0; padding:0; }
@@ -272,6 +300,20 @@
 </style>
 </head>
 <body>
+
+<!-- 자바스크립트가 꺼진 환경(일부 크롤러 포함)에서도 무엇을 하는 곳인지 읽히도록 -->
+<noscript>
+  <div style="max-width:760px;margin:40px auto;padding:0 20px;line-height:1.7">
+    <h1>bin'scope — 정부지원사업 공고 모아보기</h1>
+    <p>전국 정부·공공 지원사업 공고를 매일 자동으로 모아 한눈에 보여드리는 무료 대시보드입니다.
+       기업마당(bizinfo)과 K-Startup의 공식 오픈API를 기반으로 수집하며, 공고마다 마감일·지원분야·지역·신청자격을
+       정리하고 공고문 첨부파일 다운로드 링크까지 연결합니다.</p>
+    <p>회사 정보(설립일·업종·소재지·매출·인증)를 입력하면 신청 자격이 되는 공고만 골라 보여주고,
+       관심 키워드를 등록하면 우리 회사와 맞는 순서로 정렬해 줍니다.</p>
+    <p>지원분야: 금융 · 기술 · R&amp;D · 제작 · 인력 · 글로벌 · 교육 · 컨설팅 · 네트워크 · 마케팅 · 창업 · 디자인 · 컨텐츠</p>
+    <p>이 페이지는 자바스크립트가 켜져 있어야 공고 목록이 표시됩니다.</p>
+  </div>
+</noscript>
 
 <!-- 인트로 스플래시 -->
 <div id="splash" class="splash" onclick="skipSplash()">
