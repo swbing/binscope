@@ -21,6 +21,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124616",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "사회연대경제 청년 일경험 시범사업 참여기업 모집 수정 공고(7.22.).pdf",
@@ -53,6 +55,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124590",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[별첨서식 제1호] 수요기업 참여확약서.hwp",
@@ -85,6 +89,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124531",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년 안양 소공인 지원사업_신청양식 각 1부.Zip",
@@ -121,6 +127,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124529",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[붙임]사업 참가 신청서.hwp",
@@ -153,6 +161,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124519",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[붙임2]제출서류양식일체_4차.zip",
@@ -189,6 +199,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124517",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026 중국 스마트팜 로드쇼 참가신청서.hwp",
@@ -221,6 +233,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124435",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임+2.+지원+신청서.hwp",
@@ -257,6 +271,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124430",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2.+사업신청서(양식).hwp",
@@ -301,6 +317,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124418",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2. [신청서] 2026년 경기도 노사상생 우수기업 신청서 및 동의서(최종)_.hwp",
@@ -337,6 +355,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124408",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2.+신청서류+양식.hwp",
@@ -373,6 +393,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124384",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2026년+부산+수출+스타기업+점프업+지원사업+일본+오사카+기계요소+전시회+부산관+참가기업+사업신청서(양식).hwp",
@@ -405,6 +427,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124363",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2. 질의응답.pdf",
@@ -437,6 +461,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124317",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "2026년백년소상공인 모집(재지정) 대상자_백년가게.pdf",
@@ -473,6 +499,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124313",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "신청서식_2026 경기 스타트업 서밋 Invest Connect(2차).hwp",
@@ -509,6 +537,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124297",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -541,6 +571,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124296",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -573,6 +605,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124294",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -605,6 +639,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124293",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -637,6 +673,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124291",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -669,6 +707,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124289",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -701,6 +741,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124226",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -733,6 +775,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124200",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "26UKNOCK_USA_신청서.zip",
@@ -765,6 +809,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000124103",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2-1._울주군_청년_스마트팜_설비지원_신청서_2026년.hwp",
@@ -805,6 +851,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-29",
+  "sid": "biz-PBLN_000000000123987",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "[공고문]제8회 창업투자경진대회 B-스타트업 챌린지.hwp",
@@ -845,6 +893,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260729",
+  "posted": "2026-07-21",
+  "sid": "ks-178647",
   "files": [
    {
     "name": "[공고문] 2026년 부산 창업기업 액셀러레이팅 프로그램 참여기업 모집 공고문(양식 포함).hwp",
@@ -881,6 +931,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260729",
+  "posted": "2026-07-15",
+  "sid": "ks-178630",
   "files": []
  },
  {
@@ -904,6 +956,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260729",
+  "posted": "2026-07-16",
+  "sid": "ks-178585",
   "files": [
    {
     "name": "(공고문) 성북 ON 창업교육 프로그램.pdf",
@@ -944,24 +998,9 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260729",
-  "files": [
-   {
-    "name": "1. 2026년 서울창업허브 창동-조이시티 오픈이노베이션 참가기업 모집 공고문.pdf",
-    "url": "https://www.k-startup.go.kr/afile/fileDownload/nJcLn"
-   },
-   {
-    "name": "2. 서울창업허브 창동-조이시티 오픈이노베이션 참가신청서.hwp",
-    "url": "https://www.k-startup.go.kr/afile/fileDownload/iIcLn"
-   },
-   {
-    "name": "3. 2026년 서울창업허브 창동-조이시티 오픈이노베이션 모집 포스터.png",
-    "url": "https://www.k-startup.go.kr/afile/fileDownload/AJcLn"
-   },
-   {
-    "name": "4. 2026년 서울창업허브 창동-조이시티 오픈이노베이션 모집 문구.txt",
-    "url": "https://www.k-startup.go.kr/afile/fileDownload/0KcLn"
-   }
-  ]
+  "posted": "2026-07-15",
+  "sid": "ks-178566",
+  "files": []
  },
  {
   "id": 20125,
@@ -984,6 +1023,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260729",
+  "posted": "2026-07-13",
+  "sid": "ks-178532",
   "files": [
    {
     "name": "모집공고_2026 경기 스타트업 서밋 Invest Connect(2차).hwp",
@@ -1016,6 +1057,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260729",
+  "posted": "2026-07-13",
+  "sid": "ks-178525",
   "files": []
  },
  {
@@ -1039,6 +1082,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260703 ~ 20260729",
+  "posted": "2026-07-03",
+  "sid": "ks-178435",
   "files": [
    {
     "name": "2026년 제주 중장년 기술창업센터 입주기업 모집 공고문.pdf",
@@ -1071,6 +1116,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260729",
+  "posted": "2026-07-01",
+  "sid": "ks-178368",
   "files": [
    {
     "name": "[공고문]제8회 창업투자경진대회 B-스타트업 챌린지.hwp",
@@ -1107,6 +1154,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260624 ~ 20260729",
+  "posted": "2026-06-24",
+  "sid": "ks-178241",
   "files": [
    {
     "name": "(양식)3기 전담멘티 참여 신청서_신청자명(수정).hwp",
@@ -1147,6 +1196,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.07.29",
+  "posted": null,
+  "sid": "cw-21887",
   "files": []
  },
  {
@@ -1170,6 +1221,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124784",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임 2. 모집공고신청서류.hwp",
@@ -1202,6 +1255,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124757",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[신청서식] IT EXPO BUSAN 2026_우수기업 해외바이어 초청 지원 사업.hwp",
@@ -1234,6 +1289,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124756",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임. 2026 홍콩 소비재 메가쇼 전시회 수출컨소시엄 참가기업 2차 모집공고.hwp",
@@ -1266,6 +1323,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124741",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "신청서 서식 및 참고자료3차.hwp",
@@ -1298,6 +1357,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124730",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "3. 제출서류.hwp",
@@ -1330,6 +1391,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124723",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(붙임1) 2026 KTSC도쿄-공공기관 공동 개최 데모데이 행사 개요.pdf",
@@ -1370,6 +1433,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124704",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 전남 청년 근속장려금 지원사업 참여기업 추가모집 공고문(영암군).hwpx",
@@ -1398,6 +1463,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124698",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "1.+사업신청서2차.hwp",
@@ -1438,6 +1505,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124632",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 기업도약지원사업 중국 심천 하이테크 박람회 참가기업 추가 모집공고.pdf",
@@ -1466,6 +1535,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124630",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "(첨부1) 중국 국제 중소기업 박람회 한국관 참가신청서.xlsx",
@@ -1498,6 +1569,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124598",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. 사업계획서 및 제출서류 서식.hwp",
@@ -1530,6 +1603,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124594",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. 참가신청서.hwp",
@@ -1566,6 +1641,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124580",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[붙임1] 지정요건， 심사기준 및 사업비 편성기준.hwpx",
@@ -1602,6 +1679,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124573",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "국내외우수인증획득_지원사업_관련_서식.zip",
@@ -1634,6 +1713,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124498",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "태백 청년 예비창업자 및 기창업자 컨설팅 연장 모집 공고 양식.hwp",
@@ -1666,6 +1747,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124497",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "(한국발명진흥회_공고_제2026-244호)_2026년_투자유치설명회_및_컨설팅_지원사업_공고.hwp",
@@ -1702,6 +1785,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124475",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "★+[신청서식]+2026년+세종+지역기업+성장브릿지정부과제+기획지원사업.hwp",
@@ -1738,6 +1823,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124456",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2026년_맞춤형창업지원사업_사업화_마케팅_2차_신청서 및 부대서류 .hwp",
@@ -1770,6 +1857,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124446",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2026년 한국환경공단 중소기업 ESG 지원사업 공고문.hwp",
@@ -1798,6 +1887,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124421",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(신청서) 2026년 GSMP 지원기업 신청서.hwpx",
@@ -1830,6 +1921,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124417",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "[붙임1] 참가 신청서 및 계획서.hwp",
@@ -1866,6 +1959,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124385",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "1. (필수제출) 2026년 지식재산 긴급지원 사업 신청서(업체명000).hwp",
@@ -1906,6 +2001,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124353",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "4. 신청서 양식.hwp",
@@ -1938,6 +2035,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-17 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124329",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "참가신청 서식_대만 해외시장개척단.hwp",
@@ -1970,6 +2069,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124215",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[붙임 2] 지원신청서 및 필수 작성서식_2026년 경기 지역자원 활용 미드폼 제작지원.hwp",
@@ -2014,6 +2115,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-07 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000124138",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "[신청서] 2026 충북청주 강소특구 x 심텍 AI 제조혁신 오픈이노베이션 운영 사업 모집.hwp",
@@ -2046,6 +2149,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000123957",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "붙임1. 산업혁신기반구축 사업 시제품 개발 지원 공고문_최종.pdf",
@@ -2074,6 +2179,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-30 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000123846",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "붙임2-1_RFP1_군용전지 상호운용성 확보를 위한 표준화 연구.hwpx",
@@ -2118,6 +2225,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-30",
+  "sid": "biz-PBLN_000000000123671",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "[양식]1.2026년혁신성장R&D+사업(2차)계획서.hwp",
@@ -2154,6 +2263,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260730",
+  "posted": "2026-07-21",
+  "sid": "ks-178625",
   "files": [
    {
     "name": "[붙임] 글로벌 시장을 위한 AI 마이크로 서비스 제작 실전.jpeg",
@@ -2186,6 +2297,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260730",
+  "posted": "2026-07-20",
+  "sid": "ks-178613",
   "files": [
    {
     "name": "(협성대학교)2026 ESG 기반 산업안전 컨설팅 제출 서식.hwp",
@@ -2214,6 +2327,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260730",
+  "posted": "2026-07-13",
+  "sid": "ks-178599",
   "files": [
    {
     "name": "1_2026년 AI융합창업보육센터 2차 인큐베이팅룸 입주기업 모집 계획(안)_v9_3_공고문.pdf",
@@ -2254,6 +2369,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260710 ~ 20260730",
+  "posted": "2026-07-10",
+  "sid": "ks-178510",
   "files": [
    {
     "name": "2026_스타트업영그라운드 MVP 개발 해커톤_모집공고.hwp",
@@ -2290,6 +2407,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260730",
+  "posted": "2026-07-09",
+  "sid": "ks-178499",
   "files": [
    {
     "name": "(공모요강) 2026 아트코리아랩 입주기업 모집 공모요강.pdf",
@@ -2326,6 +2445,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260730",
+  "posted": "2026-07-09",
+  "sid": "ks-178491",
   "files": [
    {
     "name": "[별지1] 연구인프라 활용 계획.hwp",
@@ -2378,6 +2499,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260730",
+  "posted": "2026-07-08",
+  "sid": "ks-178473",
   "files": [
    {
     "name": "1. [동국대학교 창업보육센터] 2026 동국대학교 창업보육센터 신규 입주기업 모집 공고.pdf",
@@ -2422,6 +2545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260630 ~ 20260730",
+  "posted": "2026-06-30",
+  "sid": "ks-178369",
   "files": [
    {
     "name": "1. 2026년 대학(원)생 한의약 창업 아이디어 공모전 공고문.pdf",
@@ -2462,6 +2587,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260630 ~ 20260730",
+  "posted": "2026-06-30",
+  "sid": "ks-178357",
   "files": []
  },
  {
@@ -2485,6 +2612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124822",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(붙임2)「2026년 제30차 세계한인경제인대회」 참가 신청서(양식).hwp",
@@ -2521,6 +2650,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124821",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2.1.신청서식(안)_(별지 1호) 컨소시엄 구성현황.xlsx",
@@ -2557,6 +2688,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124820",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2.1.신청서식(안)_(별지 1호) 컨소시엄 구성현황.xlsx",
@@ -2593,6 +2726,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124818",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2.1.신청서식(안)_(별지 1호) 컨소시엄 구성현황.xlsx",
@@ -2629,6 +2764,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124815",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "대전광역시-퀘벡주 양자산업 공동연구 사업 지원컨소시엄 모집공고 (변경).pdf",
@@ -2657,6 +2794,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124774",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "필수 제출서류(1~3).zip",
@@ -2689,6 +2828,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124759",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "사업화(비R&D) 분야 추가 모집(1개사) 지원 신청서 양식.hwp",
@@ -2721,6 +2862,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124758",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "도쿄게임쇼 2026 부산공동관 참가신청서.hwpx",
@@ -2753,6 +2896,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-30 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124755",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "☆[붙임1] 사물인터넷 측정기기 부착지원 신청서(IoT만 지원).hwpx",
@@ -2797,6 +2942,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124738",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[붙임]2026년_고령군_사회연대경제_창업경진대회_신청서류(0).hwp",
@@ -2829,6 +2976,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124722",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "과업세부 내용서(PD)_IP경영진단구축_특허맵_디자인맵.hwp",
@@ -2865,6 +3014,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124715",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임. 참가신청서(양식).pdf",
@@ -2901,6 +3052,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124711",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "[첨부] 2026년 전북 지역 RnD IP 전략지원 활용계획서 양식.hwp",
@@ -2933,6 +3086,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124696",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(필수제출) 2026 수출 붐업코리아 스마트팜 쇼케이스 참가신청서_F.xlsx",
@@ -2965,6 +3120,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124691",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 나주시 착한가격업소 신규 추가 모집 공고(하반기).pdf",
@@ -2993,6 +3150,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124684",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 해외 방송 PPL 및 팝업 마케팅 지원 참여기업 모집공고문.pdf",
@@ -3021,6 +3180,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124683",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2._[SBA]_「CES_2027_서울통합관(구로구_소재)」_전시_참가_신청서.hwp",
@@ -3053,6 +3214,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-03 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124682",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임2. [신청서 동의서] 성남 바이오헬스케어 국제컨벤션.hwp",
@@ -3089,6 +3252,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124675",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[붙임2] 융자신청서 및 구비서류 등.hwpx",
@@ -3125,6 +3290,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124670",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "신청서_2026 클라우드 엑스포 코리아 전시기업 모집.hwp",
@@ -3157,6 +3324,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124660",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026_교통분야_원스톱_수출환경_구축사업_웹포스터.pdf",
@@ -3189,6 +3358,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124647",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임 1. 2026년 석탄산업전환지역 주민주도형 사업 활성화 신청서 양식.hwp",
@@ -3225,6 +3396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124646",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026 스마트시티 솔루션 테크서밋 참가 신청서.hwp",
@@ -3257,6 +3430,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124634",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 온라인수출플랫폼 사업(고비즈 수출지원) 참여기업 2차 모집 공고.pdf",
@@ -3285,6 +3460,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124623",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. 참가신청서.zip",
@@ -3317,6 +3494,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124620",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임2.__신청서__AW베트남_2026_전시회_참가_지원사업_참여기업_모집공고_신청서_양식_FN.hwp",
@@ -3349,6 +3528,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124619",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임자료일체.zip",
@@ -3381,6 +3562,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124618",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026년 SBA-신용보증기금 혁신 스타트업 보증지원 사업 참가기업 모집 공고_포스터.pdf",
@@ -3417,6 +3600,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124613",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "첨부3. 바이오·헬스케어 오픈이노베이션 프로그램 모집공고_부가서류.hwp",
@@ -3453,6 +3638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124609",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(붙임2) 플랜트 수출상담회 조사표(기업명)_중동·아프리카.xlsx",
@@ -3493,6 +3680,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124584",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. Plug in Fukuoka #13 제출서류 양식[붙임 1~3].hwp",
@@ -3529,6 +3718,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124575",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[별첨]_2026년_인천_스마트공장_DX견학공장_모집공고_및_신청서식.hwp",
@@ -3557,6 +3748,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124574",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "『2026 K-보안 스타트업 일본 시장개척단』 참가기업 모집 공고.hwp",
@@ -3589,6 +3782,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124568",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[붙임2]사업분야별 사업계획서(지식산업센터).hwpx",
@@ -3625,6 +3820,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124532",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임 2026 중국 상하이 소비재 수출상담회 참가 기업 모집 공고문(안).hwp",
@@ -3653,6 +3850,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124530",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[별첨1] 로봇산업 특수분류 제4차 개정(정의서 및 연계표).xlsx",
@@ -3689,6 +3888,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124521",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[붙임1]2026년전북지역기술혁신허브맞춤형기술지원참여기업모집3차통합공고신청서(기업명).hwp",
@@ -3725,6 +3926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124515",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임2. 지역중소기업 밀집지역 생태계 공동회복 지원 수요기업 모집 공고_신청서식.hwpx",
@@ -3761,6 +3964,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124506",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "[별첨 1] 게임콘텐츠 멀티부스팅 지원 신청서.hwp",
@@ -3793,6 +3998,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124504",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "(서식3) 2026 일본 나고야 유통망 입점 지원사업 참가신청 기업정보(서식).xlsx",
@@ -3825,6 +4032,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124491",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "모집_공고문(안)(연장).hwpx",
@@ -3857,6 +4066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124490",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "중국 난닝 아세안 박람회 참가기업 모집(참가서식).zip",
@@ -3893,6 +4104,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124489",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "붙임. 사업신청서 외(양식).hwp",
@@ -3925,6 +4138,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124488",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "02_[별첨]+전시회참가+사업신청서+및+사업계획서+양식.hwp",
@@ -3957,6 +4172,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124485",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2. 26년 신청서 및 계획서(미래차 전환 컨설팅).hwp",
@@ -3993,6 +4210,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-17 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124481",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2026 Mexico GBC 특화프로그램 참여기업 모집공고.hwp",
@@ -4025,6 +4244,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124480",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "121030475107_기업 소개서 1부.hwp",
@@ -4061,6 +4282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124461",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "신청서식.zip",
@@ -4093,6 +4316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124454",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2. 2026 인천스타트업파크 부스트 스타트업(RESI Boston) 참가신청서 양식.hwp",
@@ -4125,6 +4350,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124451",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "[붙임1]+참여+신청서.hwp",
@@ -4165,6 +4392,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124448",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(붙임2) 신청서식.hwp",
@@ -4197,6 +4426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124432",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "해외바이어 초청 연수 사업 참여기업 모집공고하반기.pdf",
@@ -4225,6 +4456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124431",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2. 「2026년 공영홈쇼핑 우수 장애인기업제품 코칭·상담회」 지원서 양식.hwp",
@@ -4257,6 +4490,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124428",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "지원사업 신청서 등 양식 및 붙임 서식.hwp",
@@ -4289,6 +4524,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124426",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2. 신청서식 2026년 KSD나눔재단의 장애소상공인 영업환경 개선사업 지원신청서.hwp",
@@ -4321,6 +4558,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124424",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(공고문)2026년도 이차전지 소재부품 기업대상 기술개발 패키지 지원프로그램 참여기업 모집 공고 (추가).pdf",
@@ -4349,6 +4588,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124420",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(별첨) 참가신청서 및 개인정보 동의서.hwpx",
@@ -4381,6 +4622,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124416",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "★2026년_국내외_전시회_참가기업_지원사업_서식.hwpx",
@@ -4413,6 +4656,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124415",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(붙임2)_26년_소규모_기업환경_개선사업_심사기준_(2).hwpx",
@@ -4449,6 +4694,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124397",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "포스터_리워드형_크라우드펀딩.pdf",
@@ -4477,6 +4724,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124396",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "신청양식.zip",
@@ -4509,6 +4758,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124395",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "신청양식.zip",
@@ -4541,6 +4792,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124393",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "신청양식.zip",
@@ -4573,6 +4826,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124391",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "신청양식.zip",
@@ -4605,6 +4860,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124390",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -4637,6 +4894,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124386",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "[첨부] 2026년 지식재산 긴급지원 사업 신청 양식_필요한 사업만 작성.zip",
@@ -4677,6 +4936,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124374",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "[양식1] 지원 신청서(시제품제작지원 기술지도).hwp",
@@ -4721,6 +4982,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124372",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임 2026 인도네시아 산업기계전 참가 기업 모집 공고문(안).hwpx",
@@ -4749,6 +5012,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124356",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "(기타)생산근로환경개선과제 공고_안내문.pdf",
@@ -4789,6 +5054,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124349",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "신청제반서식.zip",
@@ -4821,6 +5088,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124328",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "붙임2._소상공인24_가입_및_사업_신청방법_안내.pdf",
@@ -4857,6 +5126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124324",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "참가신청서.zip",
@@ -4889,6 +5160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124319",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "(첨부2) 탄소중립설비 지원사업 운영지침 개정 전문.hwpx",
@@ -4921,6 +5194,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124316",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "1. (기업명)_ 사업 신청서 양식.xlsx",
@@ -4961,6 +5236,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124312",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "동물세포기반 백신 공공 CDMO 전략적 육성 및 바이오텍 생산지원사업 수혜기업 선정 모집 공고_서식별지 포함_260713.hwp",
@@ -4993,6 +5270,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-10 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124311",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "01_공고문_2026년 제3차 기업부설창작연구소(전담부서) 인정신청 공고문.hwp",
@@ -5021,6 +5300,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124261",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "2026년_환경일자리_으뜸기업_선정_공고문(260709).hwp",
@@ -5049,6 +5330,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124247",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "02_[신청서식]+2026년+제주+로컬브랜드+x+YesAsia+콜라보레이션.hwp",
@@ -5081,6 +5364,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124243",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "02_[신청서식]+2026+제주+로컬브랜드+x+에이비티제주+콜라보레이션.hwp",
@@ -5113,6 +5398,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-09 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124234",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "붙임2. 컨설팅 지원사업 통합 신청서 양식.hwp",
@@ -5149,6 +5436,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124198",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "붙임_2026년 녹색경영 우수기업 시상 공모 안내서.hwp",
@@ -5177,6 +5466,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124188",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "★(공고문)2026년+여수+석유화학산업+고용위기+대응+기업지원사업(고정노동비용)+2차.hwpx",
@@ -5209,6 +5500,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124182",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "★(공고문)2026년+석유화학+취업채용장려금+추가+공고_경진원.hwpx",
@@ -5237,6 +5530,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124125",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "★ 2026 ESMO 사절단 신청서 및 개인정보동의서.hwpx",
@@ -5269,6 +5564,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124118",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "[붙임 2] 2026년 중소기업 국내 물류비 지원사업 신청서식 .hwp",
@@ -5305,6 +5602,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124087",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2026년 향토뿌리기업 및 산업유산 지정 신청서식.hwpx",
@@ -5337,6 +5636,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124073",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "붙임 1. 글로벌 강소기업 육성 해외 경영기술 연수 사업 신청 서식.hwp",
@@ -5373,6 +5674,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000124049",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2. 입점 신청서_2026원주시 중소기업 제품 전시판매장.hwp",
@@ -5409,6 +5712,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123958",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "붙임2 2026년 스타트업 투자유치 및 컨설팅 지원사업 신청서.hwp",
@@ -5441,6 +5746,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123933",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "(공고문) 26년 들안아트몰 참가기업 모집 공고.pdf",
@@ -5469,6 +5776,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123931",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "아시아 창업 엑스포(FLY ASIA 2026) 글로벌 스케일업 챔피언스 어워즈 모집공고_최종.hwp",
@@ -5497,6 +5806,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-30 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123920",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "「2026_중국_바이어_초청상담회」_참가신청서_등_파일모음.zip",
@@ -5529,6 +5840,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123919",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "제2026-269호_2026년+고위험산업+사각지대+집중관리사업+3차+추가모집+공고문_재정지원.hwp",
@@ -5561,6 +5874,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123917",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "(붙임2) 2026년 철도역을 활용한 장애인 일자리 플랫폼 사업 신청서류.hwp",
@@ -5597,6 +5912,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123896",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "붙임. 2026년 제5차 수출용 홍보자료샘플 지원 사업 신청 서류.zip",
@@ -5629,6 +5946,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123881",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "[사례집] 2025년.pdf",
@@ -5673,6 +5992,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123875",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "클린사업장 신청서 서식.hwpx",
@@ -5705,6 +6026,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123872",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "신청서류 양식.hwp",
@@ -5737,6 +6060,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123870",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "2. 신청서식_자동차부품산업 경쟁력강화.hwp",
@@ -5769,6 +6094,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123856",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "2026년 베트남 시장개척단 파견 단원 모집 공고문 및 신청서류 양식.hwp",
@@ -5797,6 +6124,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123836",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "[신청서식] 2026 중소기업 지식재산 지원 사업 신청 서식.pdf",
@@ -5833,6 +6162,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123834",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "[신청서식] 2026 유해물질 시험분석 수수료 지원사업 신청서.hwp",
@@ -5865,6 +6196,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123821",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "화성시 소셜벤처 창업 아이디어 경진대회 참가신청서(기창업자용).hwpx",
@@ -5905,6 +6238,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123802",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "2. 신청서 및 관련서식.hwp",
@@ -5941,6 +6276,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-29 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123798",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "2. 수행기관별 세부공고내용.zip",
@@ -5977,6 +6314,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-03 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123716",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "(개인정보보호위원회 공고 제2026-76호) 개인정보 보호 활용 기술 대상 모집 공고.hwpx",
@@ -6013,6 +6352,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123650",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "2026-5795_2026 경기도 반려동물산업 중소기업 온라인마케팅 지원사업 제출서류.hwpx",
@@ -6045,6 +6386,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-24 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123615",
+  "posted": "2026-06-25",
   "files": [
    {
     "name": "붙임2. 2026년 독서경영 우수 직장 인증 제출서류 양식.zip",
@@ -6077,6 +6420,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-18 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123549",
+  "posted": "2026-06-24",
   "files": [
    {
     "name": "(별첨5) 용인기업지원시스템 사업 신청 매뉴얼.pdf",
@@ -6125,6 +6470,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-16 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123407",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "[참여동의서]+퍼실리테이션+-+v1.hwp",
@@ -6161,6 +6508,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123310",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "울산 여성창업기업육성 _참가신청서.hwpx",
@@ -6193,6 +6542,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-15 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000123200",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "1-1. 세부 신청 내역서.xlsx",
@@ -6237,6 +6588,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-08 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000122935",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "2026 동유럽(불가리아 헝가리) 시장개척단 파견 참가기업 모집 공고문.hwpx",
@@ -6273,6 +6626,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-04 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000122793",
+  "posted": "2026-06-05",
   "files": [
    {
     "name": "별첨1~4.Zip",
@@ -6313,6 +6668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-07-31",
+  "sid": "biz-PBLN_000000000119777",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "2026 전통문화 크라우드 펀딩 연계 지원_공고문 및 제출양식.hwp",
@@ -6341,6 +6698,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260731",
+  "posted": "2026-07-24",
+  "sid": "ks-178668",
   "files": [
    {
     "name": "2026년도 교통분야 원스톱 수출환경 구축사업 참여기업 모집 공고_.hwp",
@@ -6369,6 +6728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260731",
+  "posted": "2026-07-21",
+  "sid": "ks-178640",
   "files": [
    {
     "name": "붙임 1. Plug in Fukuoka #13 참가 스타트업 모집공고.pdf",
@@ -6409,6 +6770,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178619",
   "files": [
    {
     "name": "붙임1. 지역주도형 AI 대전환 지원사업 참여기업 모집공고(연장).pdf",
@@ -6441,6 +6804,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178616",
   "files": [
    {
     "name": "1. 2026년 서울창업허브 창동-동아사이언스 오픈이노베이션 참가기업 모집 공고문.pdf",
@@ -6481,6 +6846,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178612",
   "files": [
    {
     "name": "26년 진주시 스타트업 디지털마케팅 모집 포스터.pdf",
@@ -6521,6 +6888,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178611",
   "files": [
    {
     "name": "공고용 2026 충남지식재산센터 43기 IP창업교육 여성특화 과정 교육생 모집 공고문.pdf",
@@ -6549,6 +6918,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260731",
+  "posted": "2026-07-13",
+  "sid": "ks-178608",
   "files": [
    {
     "name": "SBA-신용보증기금 혁신 스타트업 보증지원 사업 공고문.pdf",
@@ -6577,6 +6948,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178605",
   "files": [
    {
     "name": "(붙임1) 「민관협력 오픈이노베이션 지원」 2026년 제2차 민간 선별추천형 창업기업 모집공고.pdf",
@@ -6613,6 +6986,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178601",
   "files": [
    {
     "name": "2026 강동50플러스센터 공유사무실 모집공고문.hwpx",
@@ -6649,6 +7024,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178594",
   "files": [
    {
     "name": "붙임1. 2026년 2차 창업보육센터 입주기업 모집 공고.hwp",
@@ -6697,6 +7074,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260731",
+  "posted": "2026-07-16",
+  "sid": "ks-178582",
   "files": [
    {
     "name": "[공고문] 2026-05호 제주센터 입주기업 모집 공고.hwp",
@@ -6729,6 +7108,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260731",
+  "posted": "2026-07-15",
+  "sid": "ks-178569",
   "files": [
    {
     "name": "0. 공고문_투자 특화 프로그램(투자 상담회)_IR 라운드(1회차).pdf",
@@ -6765,6 +7146,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260731",
+  "posted": "2026-07-15",
+  "sid": "ks-178564",
   "files": [
    {
     "name": "붙임1. 지역주도형 AI 대전환 지원사업 참여기업 모집공고(연장).pdf",
@@ -6797,6 +7180,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260731",
+  "posted": "2026-07-15",
+  "sid": "ks-178553",
   "files": [
    {
     "name": "[서식 1호] AI 클러스터 오픈이노베이션 연계·실증 프로그램 참여신청서.hwpx",
@@ -6841,6 +7226,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260731",
+  "posted": "2026-07-20",
+  "sid": "ks-178546",
   "files": [
    {
     "name": "2026년 9차 특허출원등록비용 지원사업 시행계획 공고문.pdf",
@@ -6877,6 +7264,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260731",
+  "posted": "2026-07-15",
+  "sid": "ks-178544",
   "files": [
    {
     "name": "1. [공고문] 문화예술분야 스타트업 지원 모집 공고.pdf",
@@ -6909,6 +7298,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260731",
+  "posted": "2026-07-15",
+  "sid": "ks-178535",
   "files": [
    {
     "name": "언론 홍보 지원사업 안내문 및 보도문안 양식_2026년.hwp",
@@ -6937,6 +7328,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260731",
+  "posted": "2026-07-06",
+  "sid": "ks-178512",
   "files": [
    {
     "name": "스타트업OI 지역실증_썸네일A.txt",
@@ -6969,6 +7362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260731",
+  "posted": "2026-07-09",
+  "sid": "ks-178493",
   "files": []
  },
  {
@@ -6992,6 +7387,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178488",
   "files": [
    {
     "name": "[양식] 전북센터 2026년 BI입주신청서 및 사업계획서.hwp",
@@ -7024,6 +7421,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260731",
+  "posted": "2026-07-08",
+  "sid": "ks-178471",
   "files": [
    {
     "name": "2026 진주시 창업아이디어 경진대회 공고문 (1).hwpx",
@@ -7064,6 +7463,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260731",
+  "posted": "2026-07-08",
+  "sid": "ks-178450",
   "files": [
    {
     "name": "(붙임1)2026년 중소기업 동행교육 계획(배포용).pdf",
@@ -7112,6 +7513,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260707 ~ 20260731",
+  "posted": "2026-07-07",
+  "sid": "ks-178438",
   "files": [
    {
     "name": "1. 모집 공고문.pdf",
@@ -7156,6 +7559,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260731",
+  "posted": "2026-07-06",
+  "sid": "ks-178428",
   "files": [
    {
     "name": "로그인로컬(#Login Local) 지역실증형 오픈이노베이션 포스터.hwpx",
@@ -7192,6 +7597,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178424",
   "files": [
    {
     "name": "(주)벙커샷컴퍼니 2026년 컴퍼니빌딩 배치 3기 모집.png",
@@ -7224,6 +7631,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260703 ~ 20260731",
+  "posted": "2026-07-03",
+  "sid": "ks-178418",
   "files": [
    {
     "name": "1.(필수)_글로벌 G테크벤처센터 입주기업 요약서.pdf",
@@ -7260,6 +7669,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260702 ~ 20260731",
+  "posted": "2026-07-02",
+  "sid": "ks-178390",
   "files": [
    {
     "name": "화성시 공고 제2026_2386 화성시 소셜벤처 창업 아이디어 경진대회』 참여(예비)기업 모집 공고.pdf",
@@ -7304,6 +7715,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178388",
   "files": [
    {
     "name": "1. (모집공고) 2026 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업 융복합 소재부품 분야 창업기업 및 예비창업자 모집.pdf",
@@ -7336,6 +7749,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178384",
   "files": [
    {
     "name": "공고문.pdf",
@@ -7376,6 +7791,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260702 ~ 20260731",
+  "posted": "2026-07-02",
+  "sid": "ks-178376",
   "files": [
    {
     "name": "벤처확인인증 사전진단&일대일 무료 밋업 지원사업.jpg",
@@ -7408,6 +7825,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178358",
   "files": [
    {
     "name": "(2026.6.30.) 2026년 협성대학교 창업보육센터 하반기 신규 입주기업 모집공고.pdf",
@@ -7444,6 +7863,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260630 ~ 20260731",
+  "posted": "2026-06-30",
+  "sid": "ks-178355",
   "files": [
    {
     "name": "아시아 창업 엑스포(FLY ASIA 2026) 해외 어워즈 참여기업 모집공고(국문)_최종.hwp",
@@ -7476,6 +7897,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260630 ~ 20260731",
+  "posted": "2026-06-30",
+  "sid": "ks-178349",
   "files": [
    {
     "name": "아시아 창업 엑스포(FLY ASIA 2026) 글로벌 스케일업 챔피언스 어워즈 모집공고_최종.pdf",
@@ -7504,6 +7927,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260630 ~ 20260731",
+  "posted": "2026-06-30",
+  "sid": "ks-178347",
   "files": [
    {
     "name": "1인창업가_포스터_6기.png",
@@ -7536,6 +7961,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178346",
   "files": [
    {
     "name": "2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업.jpg",
@@ -7568,6 +7995,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260731",
+  "posted": "2026-07-01",
+  "sid": "ks-178343",
   "files": [
    {
     "name": "2026년 스타 IR데모데이 모집공고(3차).hwp",
@@ -7600,6 +8029,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260629 ~ 20260731",
+  "posted": "2026-06-29",
+  "sid": "ks-178334",
   "files": [
    {
     "name": "★2026 하반기 청년식품 창업캠프 모집 공고문.hwp",
@@ -7628,6 +8059,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.07.31",
+  "posted": null,
+  "sid": "cw-21287",
   "files": []
  },
  {
@@ -7651,6 +8084,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.07.31",
+  "posted": null,
+  "sid": "cw-20541",
   "files": []
  },
  {
@@ -7674,6 +8109,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.07.31",
+  "posted": null,
+  "sid": "cw-20267",
   "files": []
  },
  {
@@ -7697,6 +8134,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-02",
+  "sid": "biz-PBLN_000000000124569",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "서식 노사상생 우수기업 발굴 및 지원.hwpx",
@@ -7729,6 +8168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260802",
+  "posted": "2026-07-20",
+  "sid": "ks-178617",
   "files": [
    {
     "name": "1. 혁신지원거점센터 입주자 모집 공고문.hwp",
@@ -7765,6 +8206,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260802",
+  "posted": "2026-07-06",
+  "sid": "ks-178590",
   "files": [
    {
     "name": "핀넥트_대체텍스트.txt",
@@ -7801,6 +8244,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260802",
+  "posted": "2026-07-14",
+  "sid": "ks-178537",
   "files": [
    {
     "name": "[공고] SMART X-LAB 14기_참여기업 모집 공고.pdf",
@@ -7833,6 +8278,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260802",
+  "posted": "2026-07-13",
+  "sid": "ks-178529",
   "files": [
    {
     "name": "[캠퍼스x융합 네트워킹] 8월 포스터_최종.png",
@@ -7865,6 +8312,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260703 ~ 20260802",
+  "posted": "2026-07-03",
+  "sid": "ks-178422",
   "files": [
    {
     "name": "1. 창업교육스튜디오 입주자 모집 공고문.hwp",
@@ -7901,6 +8350,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260629 ~ 20260802",
+  "posted": "2026-06-29",
+  "sid": "ks-178325",
   "files": [
    {
     "name": "2026년 스타트업지원센터 입주 모집공고.pdf",
@@ -7957,6 +8408,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.08.02",
+  "posted": null,
+  "sid": "cw-20603",
   "files": []
  },
  {
@@ -7980,6 +8433,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.08.02",
+  "posted": null,
+  "sid": "cw-20538",
   "files": []
  },
  {
@@ -8003,6 +8458,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124814",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[연장] [서식 1~3호] 강소연구개발특구 글로벌 협력 지원사업_참가 신청서 및 사업 계획서(서식).hwp",
@@ -8039,6 +8496,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124796",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년 동남아 스마트팜 로드쇼 참가기업 모집 공고.pdf",
@@ -8067,6 +8526,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124764",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[사업신청서]+융복합+가전산업+기업+브랜드+강화+지원+4차+모집.hwp",
@@ -8103,6 +8564,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124749",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "251110_2026년 마을기업 육성사업 시행지침_m.hwpx",
@@ -8139,6 +8602,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124733",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임 2. (포스터) 2026 두바이 뷰티월드 전시회.pdf",
@@ -8171,6 +8636,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124655",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 금산군 미국 소비촉진 사업 참가신청서류(최종).hwp",
@@ -8203,6 +8670,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124621",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "별지_1.__참가기업신청서__2026년_맞춤형_방폭안전관리_역량강화_사업.hwp",
@@ -8235,6 +8704,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124595",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026년 첨단의료복합단지 메디코어 지원사업-수요맞춤형 사업화 지원사업 공고_첨부파일.Zip",
@@ -8267,6 +8738,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124593",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026 대만 국제 의료기기 수입 쇼케이스 신청서_기업명.xlsx",
@@ -8299,6 +8772,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-30 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124577",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(공고문)2027년+전북특별자치도+우수상품+선정+재공고.hwpx",
@@ -8331,6 +8806,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124546",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "(주)한진 서비스 소개자료.pdf",
@@ -8371,6 +8848,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124516",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[불임2] 2026년 수행계획서.hwp",
@@ -8403,6 +8882,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124513",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임.[2026고령친화산업수요기반맞춤형기업지원사업(2차)]신청서.hwp",
@@ -8435,6 +8916,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124495",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "붙임2 경기국방벤처센터 사업지원협약 신청서.hwpx",
@@ -8467,6 +8950,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124462",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임_1._데이터_파이프라인_구축_사업계획서_양식.hwp",
@@ -8507,6 +8992,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124050",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "별첨 1. 핵심전략기술 및 핵심전략기술과 관련된 품목  핵심전략기술 선정·재검토 세부절차 등에 관한 고시 등.zip",
@@ -8551,6 +9038,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-03 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124032",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2026도자기수요처발굴협업판매지원사업신청서1.hwpx",
@@ -8583,6 +9072,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-03",
+  "sid": "biz-PBLN_000000000124017",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "[매뉴얼] 2026년 프렙 아카데미 하반기(11기) 신청 매뉴얼.pdf",
@@ -8623,6 +9114,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260803",
+  "posted": "2026-07-22",
+  "sid": "ks-178650",
   "files": [
    {
     "name": "(공고)2026-9회 호남권 엔젤투자 피칭룸 in 전남광주 공고문.pdf",
@@ -8651,6 +9144,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260803",
+  "posted": "2026-07-09",
+  "sid": "ks-178644",
   "files": [
    {
     "name": "2026 GH 베이스캠프 참여기업 모집공고(최종).pdf",
@@ -8687,6 +9182,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260803",
+  "posted": "2026-07-20",
+  "sid": "ks-178595",
   "files": [
    {
     "name": "2026. 마을 청년공유플랫폼 하반기 예비창업팀 추가모집 공고.hwp",
@@ -8727,6 +9224,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260803",
+  "posted": "2026-07-15",
+  "sid": "ks-178587",
   "files": [
    {
     "name": "성공 창업 스쿨 재도전 과정 포스터.txt",
@@ -8763,6 +9262,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260803",
+  "posted": "2026-07-16",
+  "sid": "ks-178584",
   "files": [
    {
     "name": "2026 북경대창업훈련캠프 글로벌 창업대회.png",
@@ -8795,6 +9296,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260803",
+  "posted": "2026-07-15",
+  "sid": "ks-178568",
   "files": [
    {
     "name": "아이디어 솔버톤 포스터.png",
@@ -8827,6 +9330,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260803",
+  "posted": "2026-07-13",
+  "sid": "ks-178534",
   "files": [
    {
     "name": "(최종) 2026년 서울핀테크랩 오픈이노베이션Ⅷ_KB Innovation HUB_포스터.png",
@@ -8859,6 +9364,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260803",
+  "posted": "2026-07-13",
+  "sid": "ks-178515",
   "files": [
    {
     "name": "[붙임]`26년 5회차 개인 및 5인미만 소기업대상 초청 교육 안내문.pdf",
@@ -8891,6 +9398,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260803",
+  "posted": "2026-07-13",
+  "sid": "ks-178514",
   "files": []
  },
  {
@@ -8914,6 +9423,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260707 ~ 20260803",
+  "posted": "2026-07-07",
+  "sid": "ks-178456",
   "files": [
    {
     "name": "『신한 스퀘어브릿지』 신한 오픈이노베이션 12기 모집_포스터.pdf",
@@ -8942,6 +9453,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260803",
+  "posted": "2026-07-06",
+  "sid": "ks-178432",
   "files": [
    {
     "name": "[공고문] 2026년 프렙 아카데미 하반기(11기) 공개모집 공고.pdf",
@@ -8982,6 +9495,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260625 ~ 20260803",
+  "posted": "2026-06-25",
+  "sid": "ks-178275",
   "files": [
    {
     "name": "(공고문)2026 창업오디션 모집_수정.pdf",
@@ -9030,6 +9545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.08.03",
+  "posted": null,
+  "sid": "cw-21627",
   "files": []
  },
  {
@@ -9053,6 +9570,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124867",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(첨부2) 베트남 무역사절단 참가 신청서 (1) (1).hwp",
@@ -9085,6 +9604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124828",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2. 신청서 (디자인-기술협업 전주기 지원사업).hwp",
@@ -9125,6 +9646,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124753",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "2026년 제주산 주요 농산물 물류비 지원사업 추진계획(3차).hwpx",
@@ -9157,6 +9680,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124751",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[기업모집]2026년 일본 시장 진출 크라우드펀딩 지원사업  참여기업 모집 안내.pdf",
@@ -9189,6 +9714,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124740",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "서식 1 2.hwp",
@@ -9221,6 +9748,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124718",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(롯데중앙연구소) [참여신청서] 스타트업 오픈이노베이션 챌린지 2026.hwp",
@@ -9257,6 +9786,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124712",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2. (양식)2026년 서울지식재산센터 IP디딤돌프로그램 후속지원 양식모음_(이름).hwp",
@@ -9289,6 +9820,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124680",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(붙임) 2026년 「글로벌 진출기업 역량강화 지원사업」 시행계획 수정 공고(안)_게시용.hwpx",
@@ -9317,6 +9850,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124678",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "별첨_CEATEC_2026_플로어 맵(7H214 7홀 중간부분).pdf",
@@ -9349,6 +9884,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124674",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "(붙임2) 참여신청서 등.hwpx",
@@ -9389,6 +9926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124662",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임 2. 사업신청서 외(양식).hwp",
@@ -9421,6 +9960,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124649",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[붙임] 「2026년 전남 농수산식품 세계 일류 상품화 지원사업」 참여기업 추가 모집 공고문 및 신청 제출서류 각 1부.hwp",
@@ -9449,6 +9990,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124615",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임2.Age-Tech기업역량진단및맞춤형성장지원사업_신청서.hwp",
@@ -9481,6 +10024,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124600",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[신청서식] 2026 일본 바이어 초청 수출상담회 참가기업 모집.hwp",
@@ -9513,6 +10058,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124579",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임1._사업_안내서.hwp",
@@ -9553,6 +10100,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124540",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년_소상공인_협업활성화_공동사업_2차_공고.hwpx",
@@ -9593,6 +10142,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124533",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임2. 2026 2차 경북 게임 맞춤형 지원사업 신청서류.hwp",
@@ -9629,6 +10180,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124509",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년_중소기업_챌린지진단_지원사업_공고(제2026-460호).hwpx",
@@ -9661,6 +10214,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124444",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2. (서식1) 2026 로봇 액셀러레이팅 프로그램 지원신청서.hwp",
@@ -9705,6 +10260,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124439",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "[별첨_1]_군·수요기업_과제소개서.pdf",
@@ -9749,6 +10306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124259",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[참고] WelCon 행사참가신청 매뉴얼.pdf",
@@ -9789,6 +10348,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124231",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "붙임2. 신청서  (양식).hwp",
@@ -9821,6 +10382,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124204",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "260707145736신청서류.zip",
@@ -9857,6 +10420,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124068",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2. 2026년 규제혁신 로봇 실증사업 지원안내서(2차).hwp",
@@ -9897,6 +10462,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-04",
+  "sid": "biz-PBLN_000000000124066",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2. (양식) 2026년 서비스로봇 실증사업(2차) 신청서류.zip",
@@ -9937,6 +10504,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260804",
+  "posted": "2026-07-23",
+  "sid": "ks-178658",
   "files": [
    {
     "name": "2026 CEATEC 전시회 참가기업 모집 공고문.pdf",
@@ -9969,6 +10538,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260804",
+  "posted": "2026-07-22",
+  "sid": "ks-178652",
   "files": [
    {
     "name": "(롯데중앙연구소) [공고문] 스타트업 오픈이노베이션 챌린지 2026.hwp",
@@ -10001,6 +10572,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260804",
+  "posted": "2026-07-22",
+  "sid": "ks-178646",
   "files": [
    {
     "name": "[해냄센터] 전문분야 창업 멘토링 8월 포스터.png",
@@ -10033,6 +10606,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260804",
+  "posted": "2026-07-21",
+  "sid": "ks-178639",
   "files": [
    {
     "name": "국토교통 창업지원센터 평면도.pdf",
@@ -10077,6 +10652,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260804",
+  "posted": "2026-07-15",
+  "sid": "ks-178631",
   "files": []
  },
  {
@@ -10100,6 +10677,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260804",
+  "posted": "2026-07-15",
+  "sid": "ks-178576",
   "files": [
    {
     "name": "[마포청년나루] 창업특강(창업가를 위한 세무·회계 기초).pdf",
@@ -10128,6 +10707,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260804",
+  "posted": "2026-07-06",
+  "sid": "ks-178538",
   "files": [
    {
     "name": "1. 2026년 규제혁신 로봇 실증사업 공고문(2차).hwp",
@@ -10156,6 +10737,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260804",
+  "posted": "2026-07-16",
+  "sid": "ks-178516",
   "files": [
    {
     "name": "「민관협력 오픈이노베이션 지원」 2026년 제2차 방산 스타트업 챌린지(모두의 챌린지–방산) 창업기업 모집공고.pdf",
@@ -10204,6 +10787,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260804",
+  "posted": "2026-07-09",
+  "sid": "ks-178394",
   "files": [
    {
     "name": "[모집공고문] Slush 2026 참가지원.pdf",
@@ -10232,6 +10817,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260629 ~ 20260804",
+  "posted": "2026-06-29",
+  "sid": "ks-178332",
   "files": [
    {
     "name": "[재직자 과정 2기]생성형 AI 기반 영문 계약서 검토 및 무역 컴플라이언스 최적화 과정_포스터.png",
@@ -10264,6 +10851,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124876",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 국제의료기기전시회 참가기업 모집 통합 참가신청서 양식.hwp",
@@ -10296,6 +10885,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124871",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(서식1) 참가신청서 강남구 2026 LA K 프리미엄 소비재전.xlsx",
@@ -10336,6 +10927,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124865",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 경상북도 향토뿌리기업 맞춤형 역량 강화 지원사업 신청서식.hwpx",
@@ -10368,6 +10961,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124864",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 경상북도 향토뿌리기업 마케팅 역량 강화 지원사업 신청서식.hwpx",
@@ -10400,6 +10995,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124863",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 경상북도 향토뿌리기업 디자인 역량 강화 지원사업 신청서식.hwpx",
@@ -10432,6 +11029,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124862",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 경상북도 향토뿌리기업 기술혁신 역량 강화 지원사업 신청서식.hwpx",
@@ -10464,6 +11063,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124848",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "공고문.pdf",
@@ -10492,6 +11093,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124825",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "참가기업 모집 공고문(2026 러시아 종합 무역사절단).pdf",
@@ -10520,6 +11123,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124724",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026 해외 규격인증 획득지원 사업 참가기업 추가 모집공고.hwp",
@@ -10548,6 +11153,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124667",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[서식2] 2026 한-태국 시장개척단 신청서.hwp",
@@ -10584,6 +11191,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124659",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임_(서식) 2026 고령군 해외무역사절단 참가 신청 서식.hwp",
@@ -10620,6 +11229,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124652",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임2.[2026 경북 소상공인 새바람체인지업] 서식1~6.hwp",
@@ -10656,6 +11267,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124645",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[붙임]+2026년+대구시+사회적경제기업+온라인판로+기초지원사업+신청서식.hwpx",
@@ -10688,6 +11301,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124628",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "주된업종별_평균매출액등의_소기업_규모_기준.hwpx",
@@ -10732,6 +11347,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124627",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "3. 참여기업 모집공고 포스터_2026 KDAY TOKYO_최종.pdf",
@@ -10764,6 +11381,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124608",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임2. 2026년 지원과제 신청 사업계획서(양식) (2).hwp",
@@ -10796,6 +11415,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124591",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(붙임) 「2026 콘텐츠 제작 지원사업」 소상공인 3차 모집 공고문.pdf",
@@ -10824,6 +11445,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124588",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(붙임) 2026년 상세페이지 제작지원사업 참여기업 3차 모집 공고문.pdf",
@@ -10852,6 +11475,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124586",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "참가신청서(양식).hwp",
@@ -10884,6 +11509,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124585",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "02. 참가 신청 서류_2026 북유럽 시장개척단.hwp",
@@ -10920,6 +11547,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124582",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(붙임) 2026년 상품개선지원사업 소상공인 3차 모집 공고문.pdf",
@@ -10948,6 +11577,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124567",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "공고문(2026년 제주수산물 수출마케팅 지원)_4차.hwpx",
@@ -10976,6 +11607,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124557",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년 제1차 우수 중소기업제품 특별판매전(춘천금빛장터) 참여기업 모집공고(최종).hwpx",
@@ -11004,6 +11637,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124524",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2. 제출서류(양식).hwp",
@@ -11036,6 +11671,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124470",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "(신청서_유형1) 2026년 기후테크 특화 오픈이노베이션 참여기업 추가모집.hwpx",
@@ -11072,6 +11709,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124466",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2. 제출서류(양식).hwp",
@@ -11104,6 +11743,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124453",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "서약서 및 개인정보수집동의서(해외시장개척단).hwpx",
@@ -11140,6 +11781,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124429",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "[붙임2] 기술지원사업 신청서식.hwp",
@@ -11172,6 +11815,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124331",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "2026년 선택형 지원사업 신청서식.hwp",
@@ -11204,6 +11849,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124256",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[서식 1호] 실증화 지원 사업계획서.hwp",
@@ -11240,6 +11887,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124059",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2. 사업 운영 지침.hwp",
@@ -11280,6 +11929,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-05",
+  "sid": "biz-PBLN_000000000124042",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2026년 청정제조기반구축사업 통합 공고문.hwpx",
@@ -11308,6 +11959,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260805",
+  "posted": "2026-07-22",
+  "sid": "ks-178648",
   "files": [
    {
     "name": "양식_입주신청서및사업계획서.hwp",
@@ -11340,6 +11993,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260805",
+  "posted": "2026-07-21",
+  "sid": "ks-178642",
   "files": [
    {
     "name": "01. 모집공고문_2026 북유럽 시장개척단_00706.hwp",
@@ -11372,6 +12027,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260805",
+  "posted": "2026-07-16",
+  "sid": "ks-178596",
   "files": [
    {
     "name": "[별첨1] 1인 창조기업 인정범위 및 확인절차_2607.hwp",
@@ -11408,6 +12065,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260805",
+  "posted": "2026-07-15",
+  "sid": "ks-178583",
   "files": [
    {
     "name": "[공고문] 「2026 연구 아이디어 기술사업화 챌린지」 참가자 모집 공고 연장.hwpx",
@@ -11448,6 +12107,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260805",
+  "posted": "2026-07-15",
+  "sid": "ks-178580",
   "files": [
    {
     "name": "[마포청년나루×서울청년센터 마포] 창업특강(스타트업 제안 및 영업 전략).pdf",
@@ -11476,6 +12137,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260625 ~ 20260805",
+  "posted": "2026-06-25",
+  "sid": "ks-178292",
   "files": [
    {
     "name": "2026 글로벌 공공조달 DX·AX 혁신 리더 과정(2기) 세미나 모집_포스터.png",
@@ -11508,6 +12171,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124817",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임2. LED 조명제품 전과정평가(LCA) 지원_참여기업 신청서.pdf",
@@ -11544,6 +12209,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124744",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "신청서+및+제출서류1.zip",
@@ -11576,6 +12243,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124705",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "★2026년 하반기 착한가격업소 신규 지정 신청 공고.hwpx",
@@ -11604,6 +12273,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124703",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임 2.신청서 및 관련 양식.hwp",
@@ -11636,6 +12307,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-23 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124565",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2607201332552026+하반기+Core기업+모집공고.pdf",
@@ -11668,6 +12341,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124520",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년도 혁신제품 지정기간 연장(2차 연장) 공고 .hwpx",
@@ -11696,6 +12371,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124437",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2026년_중소기업_CBAM대응_인프라구축_사업_참여기업_2차_모집공고.hwpx",
@@ -11728,6 +12405,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124373",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2026 울산 창업 U-시리즈 신청서식(2차추가공고).hwp",
@@ -11764,6 +12443,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000124242",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[붙임2] 참가신청서 및 개인정보이용동의서(양식).hwp",
@@ -11796,6 +12477,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-08-06",
+  "sid": "biz-PBLN_000000000123445",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "2.붙임.신청서식2026년.hwp",
@@ -11828,6 +12511,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260806",
+  "posted": "2026-07-20",
+  "sid": "ks-178614",
   "files": [
    {
     "name": "2026 BIO-HEALTH GLOBAL BRIDGE _AHN_ff.jpg",
@@ -11860,6 +12545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260806",
+  "posted": "2026-07-09",
+  "sid": "ks-178531",
   "files": [
    {
     "name": "[붙임1] 2026년 광주투자액셀러레이팅(G-IN Next Level) 13기 모집공고문.pdf",
@@ -11892,6 +12579,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124878",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(별첨+양식)+참가신청서+및+개인정보+수집·이용+동의서.hwpx",
@@ -11928,6 +12617,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124872",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[공고문+및+신청서]+시제품제작.hwpx",
@@ -11956,6 +12647,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124857",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(서식) 2026년도 제조DX 확산기술 지원사업 신청서식.zip",
@@ -11988,6 +12681,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-29 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124855",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "美 공인 관세사 1대1 화상상담회 참가신청서_기업명.xlsx",
@@ -12020,6 +12715,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124843",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[붙임2] 2026년 스토어36.5 도매 할인 공급 프로모션(2차) 참여신청서.hwp",
@@ -12056,6 +12753,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124829",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(붙임2)+2026년+수출+도전기업+IP위험+대응역량+강화사업+위험대응+유형+3차+모집공고+붙임자료.zip",
@@ -12092,6 +12791,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124827",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "「2026 지역특화 AX 지원사업」 신청서식.hwpx",
@@ -12128,6 +12829,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124824",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임 2. AI어장 현장실증(시설_ 제품 고도화) 지원 신청서식 일체(양식).hwp",
@@ -12164,6 +12867,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124819",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임4. 신청서 및 사업계획서 양식.hwp",
@@ -12196,6 +12901,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-29 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124813",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[붙임2] 2026년 1인 창조기업 지원센터 선택형사업 신청서식.hwp",
@@ -12228,6 +12935,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124810",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임2._사업지원_신청서식.zip",
@@ -12260,6 +12969,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124805",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임-공고문_및_지원서식_WeBusan_기업역량강화지원사업.hwp",
@@ -12292,6 +13003,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124804",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[공고문]AI기반+리사이클+디자인+플랫폼+활용+제품개발+및+시제품+제작+지원기업+모집공고.hwpx",
@@ -12324,6 +13037,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124799",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "포항_4차_2026년 지식재산 긴급지원 사업 공고.zip",
@@ -12356,6 +13071,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124798",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "★참가 품목 유의사항_대구경북.hwpx",
@@ -12388,6 +13105,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124797",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "경북_4차_2026년 지식재산 긴급지원 사업 공고.zip",
@@ -12420,6 +13139,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124793",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[신청서]2026 충북청주강소특구 글로벌 통합 지원사업 모집(트랙 1).hwp",
@@ -12456,6 +13177,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124790",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(신청서)2026년_경상남도_일자리_종합_박람회_구인기업_채용관_참가신청서(260727).hwpx",
@@ -12488,6 +13211,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124775",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년 3차 자동차 대체부품 장비사용기업 모집공고.hwp",
@@ -12524,6 +13249,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124772",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년_IP사업화연계_지식재산평가_지원사업_3차_공고_신청서류.hwp",
@@ -12556,6 +13283,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124765",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "★(참고) 2026 멜버른 소비재 주요 트렌드.pdf",
@@ -12588,6 +13317,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124748",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[붙임]+26년+해외+온라인+플랫폼+물류지원+소상공인+모집공고.hwp",
@@ -12620,6 +13351,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124746",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "(공고문)_2026_K-브랜드_챌린지_참여기업_모집_공고★.hwpx",
@@ -12652,6 +13385,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124737",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "「2026년 지역특화 스타상품 판로지원 사업」참여신청서.hwpx",
@@ -12684,6 +13419,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124736",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[붙임] 판로플랫폼 2026년 추석 사회적기업 상품 기획전 참여모집 공고문.pdf",
@@ -12712,6 +13449,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124728",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2. (제출서식) 기업 및 제품정보_oo기업명.xlsx",
@@ -12744,6 +13483,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124714",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임 2. 2026 JCEP 콘텐츠기업 엑셀러레이팅 프로그램 참가신청서(양식).hwp",
@@ -12776,6 +13517,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124707",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "위린국제에너지 전시회 공식 소개자료.pdf",
@@ -12816,6 +13559,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124690",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(참가신청서) 2026 벨라루스 K-Food 파트너십 데이.xlsx",
@@ -12848,6 +13593,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124673",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[붙임1] 2026년도 오픈이노베이션 프로그램 지원사업 소개자료.pdf",
@@ -12888,6 +13635,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124672",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2._사업_신청서_등_서식.zip",
@@ -12920,6 +13669,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124668",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "1. 2026 한국전자전(KES) 참여기업 참가 신청서.hwpx",
@@ -12960,6 +13711,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124658",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. (양식)사업신청서 및 계획서(~8.7).hwp",
@@ -12992,6 +13745,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124656",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "(최종)붙임 「2026 K-외식산업 기반구축 지원」 신청서.hwp",
@@ -13028,6 +13783,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-02 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124640",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. (양식) 사업신청서 및 서식.hwp",
@@ -13060,6 +13817,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124638",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임+2.+제품+양산+패키지+신청서.hwpx",
@@ -13096,6 +13855,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124637",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임+2.+제조+AI+기술+사업화+지원+신청서.hwpx",
@@ -13132,6 +13893,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124633",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. 참가 신청서(기업명).xlsx",
@@ -13168,6 +13931,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124626",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. 정보보호(신규 비즈니스 모델 발굴 및 유망기업 지원) 신청서 양식.hwp",
@@ -13200,6 +13965,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124624",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. 정보보호기업 성장지원(특화산업 사업화 지원) 신청서 양식.hwp",
@@ -13232,6 +13999,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-03 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124605",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "사업신청서+양식(사업화+지원).hwpx",
@@ -13272,6 +14041,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124592",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. 사업 신청서_인플루언서 협업 홍보 지원사업.hwp",
@@ -13304,6 +14075,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124587",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[붙임2] 「2026년 안동시 수출기업 역량강화 지원사업」 세부지원 내용.hwp",
@@ -13340,6 +14113,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124566",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026년 안양시 산업안전보건 우수기업 공모 제출서류 목록표 및 신청 서식.pdf",
@@ -13376,6 +14151,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124563",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2.사업지원서류양식.hwpx",
@@ -13420,6 +14197,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124541",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년 창업기업 오프라인 팝업스토어 및 기획전 입점기업 모집 제출서류 서식(일괄).hwp",
@@ -13456,6 +14235,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124525",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2. (양식) 제출서류 양식_컨설팅.hwp",
@@ -13488,6 +14269,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124523",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2. (양식) 기타 서류 양식 및 사업계획서_실증지원.hwp",
@@ -13520,6 +14303,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124522",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2. (양식) 기타 서류 양식 및 사업계획서_기술개발.hwp",
@@ -13552,6 +14337,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124511",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026 여주시 중화권 해외시장개척단 시장성평가 신청내역서.xlsx",
@@ -13588,6 +14375,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124503",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "붙임2. 전주형 가상융합 얼라이언스 수요조사서.hwp",
@@ -13620,6 +14409,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124487",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "(양식)하반기 신청서 및 수행계획서.hwpx",
@@ -13652,6 +14443,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124478",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "260720 2026년도 농업농촌형 예비사회적기업 지정 공고문.pdf",
@@ -13680,6 +14473,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124387",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임문서. (제1~5호 서식) 「산업 인공지능(AI) 전환 및 확산기반조성 사업」 AX 미니프로젝트 실증 수요기업 신청서식.hwp",
@@ -13712,6 +14507,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124371",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임 3. 국내바이어 초청 지원사업신청서.hwp",
@@ -13748,6 +14545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124354",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "(붙임1) 미국 뉴욕 투자유치 지원 프로그램_참가신청서.hwp",
@@ -13784,6 +14583,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124327",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "제4회+청년창업+아이디어+경진대회+참가+신청서류(팀명_팀장명).hwpx",
@@ -13820,6 +14621,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124288",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "【붙임 2】품질경영대상(우수)기업 지정신청서.hwpx",
@@ -13856,6 +14659,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124281",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "붙임 2. 2026 강원 미래모빌리티 기업지원프로그램 지원 신청서 및 계획서(양식).hwp",
@@ -13888,6 +14693,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124178",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "2027년 시설원예분야 보조사업 신청서.hwpx",
@@ -13920,6 +14727,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-07 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124149",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "공고문 및 신청서.hwp",
@@ -13952,6 +14761,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000124038",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2026년 NCS 기업활용 우수사례 경진대회 홍보 포스터(최종).pdf",
@@ -13988,6 +14799,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-02 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000123949",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "2026 미디어아트 콘텐츠 공모전 참가신청서.hwp",
@@ -14020,6 +14833,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000123886",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "붙임 1. 특수유공자 부문 및 추천기관 현황.hwpx",
@@ -14064,6 +14879,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-03 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000123633",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "2026년 부산 세일 페스타(온라인) 참여 소상공인 신청서.hwp",
@@ -14100,6 +14917,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-19 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000123556",
+  "posted": "2026-06-24",
   "files": [
    {
     "name": "경진대회 웹포스터.jpg",
@@ -14136,6 +14955,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-03 ~ 2026-08-07",
+  "sid": "biz-PBLN_000000000123205",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "신청서류_2026년 국내외 IP 출원 및 인증 지원사업 신청서류.hwp",
@@ -14172,6 +14993,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260729 ~ 20260807",
+  "posted": "2026-07-29",
+  "sid": "ks-178700",
   "files": [
    {
     "name": "붙임 1. 입주모집 공고문.pdf",
@@ -14204,6 +15027,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260807",
+  "posted": "2026-07-22",
+  "sid": "ks-178674",
   "files": [
    {
     "name": "붙임1. 공고문.pdf",
@@ -14244,6 +15069,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260807",
+  "posted": "2026-07-23",
+  "sid": "ks-178664",
   "files": [
    {
     "name": "공고문(2026 아이디어 챌린지).hwpx",
@@ -14284,6 +15111,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260807",
+  "posted": "2026-07-23",
+  "sid": "ks-178659",
   "files": [
    {
     "name": "2026 한국전자전(KES) 참여기업 모집 공고.pdf",
@@ -14324,6 +15153,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260807",
+  "posted": "2026-07-22",
+  "sid": "ks-178655",
   "files": [
    {
     "name": "붙임 1. 제조 AI 기술 사업화 지원 모집공고.pdf",
@@ -14356,6 +15187,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260807",
+  "posted": "2026-07-22",
+  "sid": "ks-178654",
   "files": [
    {
     "name": "붙임 1. 제품 양산 패키지 모집공고.pdf",
@@ -14388,6 +15221,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260807",
+  "posted": "2026-07-01",
+  "sid": "ks-178653",
   "files": [
    {
     "name": "(포스터)W-Venture 창업경진대회.jpg",
@@ -14432,6 +15267,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260807",
+  "posted": "2026-07-21",
+  "sid": "ks-178649",
   "files": [
    {
     "name": "1. (공고)2026년 대구 스타트업 오픈이노베이션 자율제안형(상향식) 실증 프로그램 지원기업 모집 공고.hwp",
@@ -14468,6 +15305,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260807",
+  "posted": "2026-07-23",
+  "sid": "ks-178645",
   "files": [
    {
     "name": "KAIST 딥테크 유망랩 라운드 테이블_홍보 포스터.pdf",
@@ -14504,6 +15343,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260807",
+  "posted": "2026-07-22",
+  "sid": "ks-178636",
   "files": [
    {
     "name": "_WEROUND 입주공간소개자료.pdf",
@@ -14548,6 +15389,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260807",
+  "posted": "2026-07-22",
+  "sid": "ks-178635",
   "files": [
    {
     "name": "2026 제3차 WEROUND 신규 입주기업 모집 포스터.png",
@@ -14592,6 +15435,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260807",
+  "posted": "2026-07-21",
+  "sid": "ks-178623",
   "files": [
    {
     "name": "2026 07월 KICXUP_서울_입주기업_모집공고.hwp",
@@ -14620,6 +15465,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260807",
+  "posted": "2026-07-20",
+  "sid": "ks-178618",
   "files": [
    {
     "name": "(공고문) 2026년 성북구 중장년 기술창업센터 입주기업 모집공고 2차.pdf",
@@ -14656,6 +15503,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260807",
+  "posted": "2026-07-14",
+  "sid": "ks-178549",
   "files": [
    {
     "name": "(공고문) 미국 뉴욕 투자유치 지원 프로그램 참여기업 모집 공고.pdf",
@@ -14688,6 +15537,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260807",
+  "posted": "2026-07-14",
+  "sid": "ks-178541",
   "files": [
    {
     "name": "★ 제4회 청년창업 아이디어 경진대회 참여자 모집 공고문(최종).hwpx",
@@ -14724,6 +15575,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260807",
+  "posted": "2026-07-13",
+  "sid": "ks-178501",
   "files": [
    {
     "name": "창조경제혁신센터 공동 Open Innovation Day 포스터.hwpx",
@@ -14756,6 +15609,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260709 ~ 20260807",
+  "posted": "2026-07-09",
+  "sid": "ks-178498",
   "files": [
    {
     "name": "★고속도로 무형자산 활용 사업화 지원사업 세부 공고문.hwpx",
@@ -14812,6 +15667,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260807",
+  "posted": "2026-07-08",
+  "sid": "ks-178476",
   "files": [
    {
     "name": "(공고) 2026년 기업지원센터 제2회 중소벤처기업 입주모집 공고 및 신청서.hwp",
@@ -14840,6 +15697,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260807",
+  "posted": "2026-07-08",
+  "sid": "ks-178475",
   "files": [
    {
     "name": "(공고) 2026년 기업지원센터 제2회 1인창조기업 모집 공고문 및 신청서.hwp",
@@ -14868,6 +15727,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-09",
+  "sid": "biz-PBLN_000000000124875",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "붙임2_작성양식(수정).hwp",
@@ -14900,6 +15761,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-09",
+  "sid": "biz-PBLN_000000000124874",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026_김해스타트업_창업캠프_모집공고최종.hwp",
@@ -14928,6 +15791,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-09",
+  "sid": "biz-PBLN_000000000124786",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(기후에너지환경부 공고 제2026-739호) 26년 제3차 전력산업정책개발 신규과제 재공고.hwpx",
@@ -14956,6 +15821,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-09",
+  "sid": "biz-PBLN_000000000124496",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "[서식] 2026년 「제3회 강원 여성 창업 아이디어 공모전」 신청서식.hwp",
@@ -14988,6 +15855,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-09",
+  "sid": "biz-PBLN_000000000124067",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "참여기업 모집 공고문.hwpx",
@@ -15016,6 +15885,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260809",
+  "posted": "2026-07-01",
+  "sid": "ks-178371",
   "files": [
    {
     "name": "굿스타터 포스터.png",
@@ -15048,6 +15919,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124847",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026 사회적경제기업 해외수출 지원사업 신청서 서식 [1~4].hwp",
@@ -15080,6 +15953,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124844",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "1. 시흥바이오 소부장 캡스톤 경진대회 공고문 및 서류 양식_최종.hwp",
@@ -15108,6 +15983,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124830",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(붙임2)+2026년+수출+도전기업+IP위험+대응역량+강화사업+6차+모집공고+붙임자료.zip",
@@ -15144,6 +16021,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124811",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(신청양식)2026년 블록체인 융복합 타운 조성 블록체인 기술컨설팅 및 사업화 전략 지원 기업 모집 신청서 및 양식.hwp",
@@ -15176,6 +16055,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124809",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임2. 사업계획서(양식).hwp",
@@ -15212,6 +16093,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124803",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[첨부1] (양식) ITEA PO Days 파트너링 사절단 참가 신청서.hwpx",
@@ -15252,6 +16135,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124794",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026 A.C.E 경진대회 오픈리그 포스터.pdf",
@@ -15292,6 +16177,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124785",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년도 연안선박 현대화 이차보전사업 2차 공모(안).hwpx",
@@ -15320,6 +16207,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124776",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2-(공모안내서) 2026년 블록체인 API 개발 자금 지원사업 모집 2차 공고.hwpx",
@@ -15360,6 +16249,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124763",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "2026 하반기 김해온몰 상세페이지 제작지원사업 모집 공고문 및 신청서.hwpx",
@@ -15388,6 +16279,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124750",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "(붙임)+「2026년+전국우수시장박람회」+참가시장+모집+공고.hwp",
@@ -15420,6 +16313,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124729",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임2. 사업 신청 안내서(제출서식 및 사업비 예산편성지침).hwp",
@@ -15452,6 +16347,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124578",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(양식) 2026년 대구특구 글로벌 딥테크 지원사업 참가신청서.hwp",
@@ -15488,6 +16385,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124570",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[붙임2] 신청서류 양식.zip",
@@ -15524,6 +16423,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124534",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년도 한·이스라엘 국제공동기술개발사업 신규 과제(라이트하우스) 재공고.hwpx",
@@ -15552,6 +16453,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124499",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "3. [포스터]2026 Tri Nexus AI 딥테크 오픈이노베이션.pdf",
@@ -15588,6 +16491,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124472",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "[지원신청서_1_레벨업_시드(하반기)]기업명.hwpx",
@@ -15632,6 +16537,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124377",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "(공고문)_26년_프리_팁스_2차_창업기업_모집공고.hwpx",
@@ -15668,6 +16575,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124336",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "[양식] 지원신청서 및 개인정보동의서기업명_프로그램명사업화전환.hwp",
@@ -15700,6 +16609,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124326",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "(첨부2) 제11회 소상공인 쇼케이스데이 참가신청서류.hwp",
@@ -15736,6 +16647,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000124258",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "03. 개인정보 활용동의서_2026 스웨덴 게임 컨퍼런스.hwp",
@@ -15780,6 +16693,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-23 ~ 2026-08-10",
+  "sid": "biz-PBLN_000000000123938",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "2026 대한민국 Digital Innovation Award 표창 수여계획 공고(과학기술정보통신부 공고 제2026–0718호).hwp",
@@ -15812,6 +16727,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260810",
+  "posted": "2026-07-20",
+  "sid": "ks-178609",
   "files": [
    {
     "name": "1. [공고문]2026 Tri Nexus  AI 딥테크 오픈이노베이션.pdf",
@@ -15852,6 +16769,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260810",
+  "posted": "2026-07-16",
+  "sid": "ks-178606",
   "files": [
    {
     "name": "2026 대구특구 글로벌 딥테크 스케일업 지원사업 포스터 텍스트 파일.hwpx",
@@ -15892,6 +16811,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260810",
+  "posted": "2026-07-16",
+  "sid": "ks-178581",
   "files": [
    {
     "name": "[모집공고문]2026년 경기 레벨업 프로그램(하반기) 지원기업 모집 통합공고.hwpx",
@@ -15948,6 +16869,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260810",
+  "posted": "2026-07-14",
+  "sid": "ks-178542",
   "files": [
    {
     "name": "[무료선착순] 대구데이터역량강화교육 AI Agent 개발.jpg",
@@ -15980,6 +16903,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260810",
+  "posted": "2026-07-14",
+  "sid": "ks-178539",
   "files": [
    {
     "name": "(첨부1) 제11회 소상공인 쇼케이스데이 참가기업 모집공고문.pdf",
@@ -16012,6 +16937,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260710 ~ 20260810",
+  "posted": "2026-07-10",
+  "sid": "ks-178481",
   "files": [
    {
     "name": "(공고문) '26년 프리 팁스 2차 창업기업 모집공고.hwpx",
@@ -16048,6 +16975,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-11",
+  "sid": "biz-PBLN_000000000124854",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "20260727135601289_hscity90_(공고문) 2026년 중소기업 노동자 기숙사 임차비 지원사업 추가모집 공고.hwp",
@@ -16084,6 +17013,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-11",
+  "sid": "biz-PBLN_000000000124838",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "1. 지원사업 참가계획서(신청서).hwp",
@@ -16124,6 +17055,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-11",
+  "sid": "biz-PBLN_000000000124836",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "★[K-MEDI hub] UAE 두바이 국제 의료기기 전시회(WHX Dubai) 케이메디허브 공동관 참가신청서(양식).hwp",
@@ -16156,6 +17089,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-11",
+  "sid": "biz-PBLN_000000000124236",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "서식.zip",
@@ -16188,6 +17123,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-25 ~ 2026-08-11",
+  "sid": "biz-PBLN_000000000123739",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "붙임. 26-4차 무기체계 부품국산화개발 지원사업(상생협력부품국산화) 과제·연구개발기관 모집 공고문.hwpx",
@@ -16216,6 +17153,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260722 ~ 20260811",
+  "posted": "2026-07-22",
+  "sid": "ks-178661",
   "files": [
    {
     "name": "[붙임1]입주신청서 및 사업계획서_기업명.hwp",
@@ -16256,6 +17195,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260811",
+  "posted": "2026-07-15",
+  "sid": "ks-178578",
   "files": [
    {
     "name": "[마포청년나루] 창업특강(창업가를 위한 법률 기초 및 계약서 실전).pdf",
@@ -16284,6 +17225,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20260811",
+  "posted": "2026-07-01",
+  "sid": "ks-178372",
   "files": [
    {
     "name": "코칭데이 포스터.pdf",
@@ -16312,6 +17255,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124873",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2. [지원서] 2026년 청년디자이너_소상공인 협업 디자인 프로젝트 지원서 및 정보제공동의서_.hwp",
@@ -16348,6 +17293,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124807",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "1._POST-BI기업_26년_울산성장사다리지원사업_신청서.hwp",
@@ -16388,6 +17335,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124791",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "[신청서] 2026 충북청주 강소특구 이노테크 기업 육성 통합지원사업 모집.hwp",
@@ -16420,6 +17369,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124743",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "(제2026–469호)_2026년_방산_특화_창업중심대학_창업기업_모집_공고.hwpx",
@@ -16452,6 +17403,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124727",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임 2. 제출서식 및 예산편성지침안 [2026 충북 특화콘텐츠 마케팅 지원사업(국내외형)].hwp",
@@ -16484,6 +17437,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124702",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "[붙임1] 기술닥터 지원 프로그램 상세내역 및 관련양식.hwp",
@@ -16520,6 +17475,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124657",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "[서식1] 2026년 인천광역시 항공 선도기업 선정 신청서(신규).hwp",
@@ -16560,6 +17517,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124644",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임2. 후속지원 사업 통합신청서 및 세부추진 활용계획서.hwp",
@@ -16596,6 +17555,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124643",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임1. 참가신청서(계획서) 등 참가신청 서류_해외전시회.hwp",
@@ -16628,6 +17589,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124642",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년_공공기관-중소기업_상생협력_구매상담회_기업모집_안내문_및_신청_서식.hwpx",
@@ -16660,6 +17623,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124629",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임 2. 사전기획지원 신청서식.hwp",
@@ -16696,6 +17661,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-12 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124539",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "0. 2026년 모범 장애경제인 및 유공자 포상 신청 연장 공고 추진계획최종.hwp",
@@ -16732,6 +17699,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000124389",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2026 대구광역시 중소기업대상 공고문.hwpx",
@@ -16764,6 +17733,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-10 ~ 2026-08-12",
+  "sid": "biz-PBLN_000000000122495",
+  "posted": "2026-05-28",
   "files": [
    {
     "name": "04. 각종 서식.zip",
@@ -16804,6 +17775,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260812",
+  "posted": "2026-07-24",
+  "sid": "ks-178671",
   "files": [
    {
     "name": "[한국여성경제인협회] 여성CEO 비즈니스 아카데미 권역별교육_경상권역 시즌 1.pdf",
@@ -16836,6 +17809,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260812",
+  "posted": "2026-07-24",
+  "sid": "ks-178662",
   "files": [
    {
     "name": "[붙임] 2026년 방산 특화 창업중심대학 창업기업 모집 공고.hwpx",
@@ -16900,6 +17875,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260812",
+  "posted": "2026-07-21",
+  "sid": "ks-178634",
   "files": [
    {
     "name": "(양식)2026년 ICT콤플렉스 제3회 투자상담회 참가신청서.hwp",
@@ -16928,6 +17905,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124839",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 통합IR데이 공고문.hwp",
@@ -16956,6 +17935,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124816",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임. (지역특화) 사업계획서 및 제출서류 양식.zip",
@@ -16988,6 +17969,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124752",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[붙임2] 26년 창업기업 홍보 콘텐츠 제작 지원사업 참가신청서 서식.hwp",
@@ -17024,6 +18007,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124739",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임2. 웹상세페이지 디자인 지원(3차)_신청서식.hwp",
@@ -17064,6 +18049,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124726",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임 2. 제출서식 및 예산편성지침안 [2026 충북 특화콘텐츠 마케팅지원사업(팝업운영)].hwp",
@@ -17096,6 +18083,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124710",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 수산분야 FTA 피해보전직불금 사업 신청 공고.hwpx",
@@ -17124,6 +18113,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124709",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 FTA 피해보전직불금 사업시행지침.pdf",
@@ -17156,6 +18147,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124692",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "1. 2026 Inside HONDA 신청양식(기업명).xlsx",
@@ -17192,6 +18185,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124688",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 FTA 피해보전직불금 사업신청 공고문.hwpx",
@@ -17220,6 +18215,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124571",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임2. 신청서(양식).hwp",
@@ -17252,6 +18249,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-10 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124550",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026 옥천군 중소기업 경쟁력 강화사업 비R&D 신청서(2차).hwp",
@@ -17288,6 +18287,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124528",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "양식_2_ 지능형 제조혁신 개선지원_개선.hwp",
@@ -17324,6 +18325,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124526",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2-1_ 양식_대체부품 개발 지원.hwp",
@@ -17360,6 +18363,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124419",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2. 2026. 청년창업 아이디에이션 4.0 참가신청서 및 개인정보동의서(양식).hwpx",
@@ -17396,6 +18401,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000124208",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "2026 경기스타트업서밋 참가모집 안내서.pdf",
@@ -17428,6 +18435,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-26 ~ 2026-08-13",
+  "sid": "biz-PBLN_000000000123847",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "붙임 2. 2026년 ｢평택시 우수기업 선정 지원사업｣ 신청서식.hwpx",
@@ -17460,6 +18469,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260813",
+  "posted": "2026-07-24",
+  "sid": "ks-178667",
   "files": [
    {
     "name": "[붙임1]26년 홍보 콘텐츠 제작 지원사업 모집 연장 공고문.pdf",
@@ -17496,6 +18507,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260813",
+  "posted": "2026-07-23",
+  "sid": "ks-178665",
   "files": [
    {
     "name": "[공고]2026년 제1차 인천센터 입주기업 모집공고.pdf",
@@ -17528,6 +18541,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260813",
+  "posted": "2026-07-23",
+  "sid": "ks-178643",
   "files": [
    {
     "name": "여성 1인 창조기업 지원센터 신규입주기업 모집 공고문(사업계획서 등 포함).hwp",
@@ -17556,6 +18571,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260813",
+  "posted": "2026-07-20",
+  "sid": "ks-178598",
   "files": [
    {
     "name": "붙임1. 공고문.pdf",
@@ -17588,6 +18605,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260706 ~ 20260813",
+  "posted": "2026-07-06",
+  "sid": "ks-178551",
   "files": [
    {
     "name": "붙임1. 2026. 청년창업 아이디에이션 4.0 참가자 모집 공고문.pdf",
@@ -17628,6 +18647,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260813",
+  "posted": "2026-07-15",
+  "sid": "ks-178548",
   "files": [
    {
     "name": "2026 논산시 사회적경제 창업 아카데미.jpg",
@@ -17660,6 +18681,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260813",
+  "posted": "2026-07-13",
+  "sid": "ks-178497",
   "files": [
    {
     "name": "2026 경기스타트업서밋 참가모집 안내서.pdf",
@@ -17696,6 +18719,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260707 ~ 20260813",
+  "posted": "2026-07-07",
+  "sid": "ks-178458",
   "files": [
    {
     "name": "『신한 스퀘어브릿지』 글로벌 2026 참여 스타트업 모집_포스터.pdf",
@@ -17724,6 +18749,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124879",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[붙임 2]충남 소상공인.자영업자 재기지원사업 신청서 및 관련 서식(게시용).hwp",
@@ -17756,6 +18783,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124808",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임 2. 2026년 제조 AI 현장 적용 지원 사업 신청 양식.zip",
@@ -17792,6 +18821,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124778",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "26년스테이션C투자및팁스추천프로그램신청서및개인정보동의서.hwp",
@@ -17824,6 +18855,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124769",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "2. [양식] 2026년 푸드테크 연구지원센터 구축(세포배양식품) 실증 및 사업화 지원사업(3차) 기업모집_신청서식.hwp",
@@ -17860,6 +18893,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124766",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[서식 1-1] (글로벌 리더형) 신청서 양식.hwp",
@@ -17904,6 +18939,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124745",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "(붙임1)+수출업체+참가+부류+구분+가이드1.pdf",
@@ -17944,6 +18981,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124735",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "사회연대경제협력모델 공모 포스터(사회적기업진흥원 협업).pdf",
@@ -17984,6 +19023,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124734",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임.기술창업성장패키지지원붙임서류.zip",
@@ -18016,6 +19057,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124732",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[신청서] 2026 충북청주 강소특구 X SK텔레콤 AI 오픈이노베이션 지원사업 2차 모집.hwp",
@@ -18048,6 +19091,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124731",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "★_2026년_중소기업_R&D_우수성과_50선_모집_연장_공고.hwpx",
@@ -18080,6 +19125,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124666",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "우체국쇼핑 창구전시판매 히트상품 공개모집 안내문(2026년).pdf",
@@ -18116,6 +19163,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124614",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. 사업계획서 및 기타 서류 양식_최종.hwp",
@@ -18148,6 +19197,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124606",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "붙임 2. 지원과제 신청서_특허컨설팅..hwp",
@@ -18180,6 +19231,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124602",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026  강원 영동권 관광 가치이음 지원사업 2차 모집 공고.hwp",
@@ -18212,6 +19265,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124564",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[제출서류]_정보보호제품_성능평가_지원_공모_사업_제출서류.hwpx",
@@ -18244,6 +19299,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124561",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "(공고문)2026년ILP서비스기술연결수요기업모집공고(6차).pdf",
@@ -18272,6 +19329,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124542",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "신청서.docx",
@@ -18308,6 +19367,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124505",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2026년 적층제조 산업발전 유공자 포상 공고(안).hwpx",
@@ -18336,6 +19397,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-17 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124493",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "[붙임2] 수요기업 신청서 양식.hwp",
@@ -18380,6 +19443,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124460",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "26-1차_광주국방벤처센터_협약기업_모집_공고문.hwpx",
@@ -18412,6 +19477,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124441",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(신청서) 광양시 지역산업 위기대응 맞춤형 지원.hwp",
@@ -18444,6 +19511,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124427",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임 2. [신청양식 및 참고자료] 2026년 경상북도 소공인 클린제조환경조성 사업.hwpx",
@@ -18476,6 +19545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124425",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "1-2_ 신청양식_기술개발지원(컨소시엄 범용)_미래 상용차 대응 핵심기술 내재화 기술개발 지원_260715.hwp",
@@ -18508,6 +19579,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124422",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2-2_ 신청양식_수요기술 공급지원 컨설팅_미래 상용차 대응 핵심기술 내재화 기술개발 지원_260715.hwp",
@@ -18540,6 +19613,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124392",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "※ 신청서류.zip",
@@ -18576,6 +19651,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124378",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "첨부1_2026년 시군구연고산업육성사업(고성군) 지원기업 사업신청서.hwp",
@@ -18616,6 +19693,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124376",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2026년도 녹색인증 유공자 포상 신청 공고.hwpx",
@@ -18644,6 +19723,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124375",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "(공고문)2026년_해외규격인증획득지원사업(일반지원)_참여기업_모집공고(2차).hwpx",
@@ -18676,6 +19757,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124359",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "2026 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업_참여신청서_F.hwp",
@@ -18712,6 +19795,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124357",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임2. [신청서 서식] 권역별 핵심산업 신규입직자 정착 지원.hwp",
@@ -18744,6 +19829,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124347",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "2026년 산학융합지구 조성사업(기업밀착형 산학융합촉진)] 프로젝트LAB  지원사업 공고.pdf",
@@ -18772,6 +19859,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124333",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "2026년 산학융합지구 조성사업(기업밀착형 산학융합촉진)] 산학융합R&D 지원사업 공고.pdf",
@@ -18800,6 +19889,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124315",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "문의처.pdf",
@@ -18832,6 +19923,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124299",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "별첨. GR인증 신청서 서식.zip",
@@ -18864,6 +19957,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124295",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "웹자보_우체국쇼핑몰.pdf",
@@ -18896,6 +19991,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-10 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124266",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "(첨부1) 참가 업체 정보_2026 대구 동남아 기계부품 무역사절단.xlsx",
@@ -18932,6 +20029,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000124089",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "지정신청서 등(서식).hwpx",
@@ -18964,6 +20063,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000123733",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "[붙임 2] 신청서식 및 참고자료(모집공고).hwp",
@@ -18996,6 +20097,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-24 ~ 2026-08-14",
+  "sid": "biz-PBLN_000000000123626",
+  "posted": "2026-06-25",
   "files": [
    {
     "name": "(서식3) 2026 중국(난징. 충칭) 시장개척단 파견 참가신청 기업정보(서식).xlsx",
@@ -19028,6 +20131,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260814",
+  "posted": "2026-07-20",
+  "sid": "ks-178621",
   "files": [
    {
     "name": "[붙임1]  공공기술활용 창업 경진대회 모집 공고.pdf",
@@ -19068,6 +20173,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260814",
+  "posted": "2026-07-15",
+  "sid": "ks-178579",
   "files": [
    {
     "name": "[마포청년나루] 창업특강(특허·상표 지식재산권 실무).pdf",
@@ -19096,6 +20203,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260814",
+  "posted": "2026-07-15",
+  "sid": "ks-178559",
   "files": [
    {
     "name": "2026 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업_모집 공고문_F.hwp",
@@ -19136,6 +20245,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260814",
+  "posted": "2026-07-14",
+  "sid": "ks-178557",
   "files": [
    {
     "name": "[서울시50플러스재단] 2026 서울시 중장년 채용박람회 권역별 참여기업 모집.jpg",
@@ -19168,6 +20279,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260816",
+  "posted": "2026-07-21",
+  "sid": "ks-178637",
   "files": []
  },
  {
@@ -19191,6 +20304,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-17",
+  "sid": "biz-PBLN_000000000124866",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026 신청사업 사용계획서 서식(hwp).hwp",
@@ -19223,6 +20338,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-17",
+  "sid": "biz-PBLN_000000000124768",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "(붙임 1-4) 필수 제출서류.pdf",
@@ -19259,6 +20376,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-17",
+  "sid": "biz-PBLN_000000000124572",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(신청서) 로컬 스타트업 챌린지 의정부 2026_신청서_시티온 트랙.docx",
@@ -19295,6 +20414,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-17",
+  "sid": "biz-PBLN_000000000124552",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "제출서식(양식).hwp",
@@ -19327,6 +20448,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260817",
+  "posted": "2026-07-21",
+  "sid": "ks-178629",
   "files": [
    {
     "name": "(공고문) 로컬 스타트업 챌린지, 의정부 2026_공모내용_시티온 트랙_.pdf",
@@ -19367,6 +20490,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-03 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124868",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "​2026년 하반기 전주 영화 후반제작지원사업 공고.pdf",
@@ -19403,6 +20528,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124858",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "붙임_02_공고요지.pdf",
@@ -19435,6 +20562,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124845",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "참여 신청서식_2026년 소규모 점포 시설개선 지원사업.hwp",
@@ -19471,6 +20600,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124788",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "대학+기술활용+사업화+지원.zip",
@@ -19503,6 +20634,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124771",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임파일.zip",
@@ -19535,6 +20668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124770",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "붙임파일.zip",
@@ -19567,6 +20702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-18",
+  "sid": "biz-PBLN_000000000124650",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "달성창업성공패키지_포스터.pdf",
@@ -19603,6 +20740,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260710 ~ 20260818",
+  "posted": "2026-07-10",
+  "sid": "ks-178513",
   "files": [
    {
     "name": "[재직자 과정 3기]생성형 AI 기반 글로벌 특허분석 및 지식재산권 우회,리스크 최적화 과정_포스터.png",
@@ -19635,6 +20774,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-19",
+  "sid": "biz-PBLN_000000000124877",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -19667,6 +20808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-19",
+  "sid": "biz-PBLN_000000000124834",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "서리풀 소상공인 창업 클리닉.pdf",
@@ -19695,6 +20838,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-19",
+  "sid": "biz-PBLN_000000000124806",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "사업신청_서식_동의서_관련규정_메뉴얼.zip",
@@ -19727,6 +20872,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-19",
+  "sid": "biz-PBLN_000000000124802",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "사업신청_서식_동의서_관련규정_메뉴얼 등.zip",
@@ -19759,6 +20906,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-19",
+  "sid": "biz-PBLN_000000000124404",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임3. 개인정보동의서.hwp",
@@ -19803,6 +20952,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260819",
+  "posted": "2026-07-21",
+  "sid": "ks-178627",
   "files": [
    {
     "name": "성동_새싹_썸네일.png",
@@ -19835,6 +20986,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124780",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년 인천공항 중소벤처 일본진출 지원사업 공고.pdf",
@@ -19871,6 +21024,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124767",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "공고_2026 미래 전략 산업혁신 투자포럼 참가기업 모집.hwp",
@@ -19907,6 +21062,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-17 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124713",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2026년 음식점 조리장 환경개선 지원 참여 업소 모집 공고안 (기한연장).hwpx",
@@ -19935,6 +21092,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-30 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124677",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "★제출서식.hwpx",
@@ -19967,6 +21126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124669",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. 상담품목 요약서.xlsx",
@@ -20011,6 +21172,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124597",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026년 경기게임오디션(제21회) 참가사 모집 공고문.hwp",
@@ -20039,6 +21202,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-04 ~ 2026-08-20",
+  "sid": "biz-PBLN_000000000124576",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "「농림식품신기술(NET) 인증제」 2026년도 하반기 시행계획 공고+.pdf",
@@ -20067,6 +21232,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260721 ~ 20260820",
+  "posted": "2026-07-21",
+  "sid": "ks-178426",
   "files": [
    {
     "name": "(제2026-462호) 14회 재도전 사례 공모전 공고문.hwp",
@@ -20107,6 +21274,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124870",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "02. (서식) 2026년도 전남형 스마트공장(기초단계) 보급확산사업 사업계획서.hwp",
@@ -20147,6 +21316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124869",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "기타서류.zip",
@@ -20179,6 +21350,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124860",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "공고문(2026 세계한인경제인대회 전남광주통합특별시 공동관 참가기업 모집).hwpx",
@@ -20207,6 +21380,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124852",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "20260727211007989_hscity91_[붙임1] 공고 2674 2026년 공공기관 해외지사화 참가지원사업 신청서 양식.hwpx",
@@ -20247,6 +21422,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124850",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026 중소기업 해외지사화 지원사업 4차 모집공고문(안).hwp",
@@ -20279,6 +21456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124832",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2. 재취업지원서비스 원하청 중소산단 공동컨설팅 신청서(양식).hwp",
@@ -20315,6 +21494,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124826",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "★(붙임)참가신청서.계획서.hwpx",
@@ -20347,6 +21528,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124787",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "「2026_경기지역_스마트제조_AXDX_우수사례_공모전」_안내문.hwpx",
@@ -20379,6 +21562,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124754",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[붙임 2] 신청서_2026년도 충청남도 장애인기업 마케팅홍보물 제작 지원사업.hwp",
@@ -20415,6 +21600,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124701",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "GYshop_instore_guide.zip",
@@ -20451,6 +21638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124695",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(붙임) 별첨서식.zip",
@@ -20483,6 +21672,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-07 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124664",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업 공고.Zip",
@@ -20515,6 +21706,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124636",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년도 하반기 환경분야 혁신제품 신규지정 공고.hwpx",
@@ -20547,6 +21740,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124625",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "20260721091951363_hipa115_2026 오프라인 판매기획전 신청서 일체.zip",
@@ -20583,6 +21778,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124599",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2026 마닐라 스마트시티 로드쇼.pdf",
@@ -20611,6 +21808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000124558",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임._제2회_제조AI_솔루션_공모전_공고.hwpx",
@@ -20639,6 +21838,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-08 ~ 2026-08-21",
+  "sid": "biz-PBLN_000000000122858",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "[붙임1]2. 온라인쇼핑몰 구축 참여신청서_2026.hwp",
@@ -20679,6 +21880,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260821",
+  "posted": "2026-07-24",
+  "sid": "ks-178666",
   "files": [
    {
     "name": "숭실 스타트업 아카데미_포스터.jpg",
@@ -20711,6 +21914,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260821",
+  "posted": "2026-07-20",
+  "sid": "ks-178615",
   "files": [
    {
     "name": "붙임1.디지털콘텐츠기업_성장지원센터_입주기업_모집(2026-1차)_공고문.hwp",
@@ -20751,6 +21956,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260821",
+  "posted": "2026-07-20",
+  "sid": "ks-178610",
   "files": [
    {
     "name": "입주기업 모집 공고문(4차).pdf",
@@ -20787,6 +21994,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260821",
+  "posted": "2026-07-20",
+  "sid": "ks-178593",
   "files": [
    {
     "name": "(2026 ConTech) 공모전 포스터_메인_f.jpg",
@@ -20819,6 +22028,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260821",
+  "posted": "2026-07-16",
+  "sid": "ks-178556",
   "files": [
    {
     "name": "2026년 벤처확인 도전기업 일대일 비대면 밋업 참여기업 모집.pdf",
@@ -20855,6 +22066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260822",
+  "posted": "2026-07-23",
+  "sid": "ks-178651",
   "files": [
    {
     "name": "이노베이션 어워즈 2P 0610.pdf",
@@ -20887,6 +22100,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260823",
+  "posted": "2026-07-16",
+  "sid": "ks-178603",
   "files": [
    {
     "name": "일대일 창업 멘토링 참여자 모집.pdf",
@@ -20915,6 +22130,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-08-24",
+  "sid": "biz-PBLN_000000000124853",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년 3차 마케팅 구매상담회 참여기업 모집.pdf",
@@ -20947,6 +22164,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-11 ~ 2026-08-24",
+  "sid": "biz-PBLN_000000000124782",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년도 하반기 혁신제품 지정제도 시행계획 공고.hwpx",
@@ -20975,6 +22194,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-24",
+  "sid": "biz-PBLN_000000000124549",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "온라인쇼핑몰 판매지원 세부 지원내용 .pdf",
@@ -21015,6 +22236,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-24",
+  "sid": "biz-PBLN_000000000124128",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "붙임2. 참가 신청서식(v1.0).hwp",
@@ -21059,6 +22282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260824",
+  "posted": "2026-07-15",
+  "sid": "ks-178505",
   "files": [
    {
     "name": "2026 지역창업특화지원 여성CEO특화 난혼자사업한다(1차) 교육 안내.jpg",
@@ -21091,6 +22316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260708 ~ 20260824",
+  "posted": "2026-07-08",
+  "sid": "ks-178464",
   "files": []
  },
  {
@@ -21114,6 +22341,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260702 ~ 20260824",
+  "posted": "2026-07-02",
+  "sid": "ks-178389",
   "files": [
    {
     "name": "[붙임] 전문 창업교육 프로그램(하반기)_공고문.pdf",
@@ -21142,6 +22371,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-25",
+  "sid": "biz-PBLN_000000000124833",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임2. 참가신청서.hwp",
@@ -21174,6 +22405,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260825",
+  "posted": "2026-07-14",
+  "sid": "ks-178555",
   "files": [
    {
     "name": "2026년 제7회 제대군인 창업 워크숍 포스터.pdf",
@@ -21202,6 +22435,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-26",
+  "sid": "biz-PBLN_000000000124800",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(제2026-473호) 2026년 재창업 활성화 유공포상 모집공고.hwp",
@@ -21242,6 +22477,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-26",
+  "sid": "biz-PBLN_000000000124694",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "1. 신청서 양식(기업명).xlsx",
@@ -21274,6 +22511,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-26",
+  "sid": "biz-PBLN_000000000124601",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "2. 2026년 삼성전자 기술나눔 목록(202건).xlsx",
@@ -21306,6 +22545,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-08-26",
+  "sid": "biz-PBLN_000000000124271",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "2026_대한민국발명특허대전_출품_신청_안내(상세본).hwp",
@@ -21346,6 +22587,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-08-05 ~ 2026-08-26",
+  "sid": "biz-PBLN_000000000124085",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2026년 제3차 고령친화우수식품 신규지정 공고 계획 공고문.hwp",
@@ -21378,6 +22621,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260727 ~ 20260826",
+  "posted": "2026-07-27",
+  "sid": "ks-178506",
   "files": [
    {
     "name": "(제2026-473호) 2026년 재창업 활성화 유공포상 모집공고.hwp",
@@ -21418,6 +22663,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260623 ~ 20260826",
+  "posted": "2026-06-23",
+  "sid": "ks-178283",
   "files": [
    {
     "name": "[공고문] 제64차 리더스포럼 IR피칭 참여기업 모집 공고.pdf",
@@ -21450,6 +22697,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-27",
+  "sid": "biz-PBLN_000000000124508",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "첨부2. 2026년 기술확보지원사업 공급망안정화지원 신청서류.hwp",
@@ -21482,6 +22731,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-08-27",
+  "sid": "biz-PBLN_000000000124332",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "1.1._경북국방벤처 2026년 하반기 협약기업 모집 공고문.hwpx",
@@ -21514,6 +22765,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000124773",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임 2.[WORLD-OKTA] 2026 KOREA BUSINESS EXPO SHENZHEN 기업 참가신청서 (일반용 수출바우처 미사용시).hwp",
@@ -21546,6 +22799,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000124654",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임. 컨설팅 제출 서류 양식.zip",
@@ -21578,6 +22833,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000124547",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년 충청북도&충청권 내일이음 취업박람회 기업모집 공고.hwp",
@@ -21606,6 +22863,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-24 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000124272",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "2. 국제발명전시회 온라인 신청 매뉴얼.pdf",
@@ -21642,6 +22901,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-07 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000124121",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "붙임1. 국내 전시회(공동관) 참가 신청서.hwp",
@@ -21682,6 +22943,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-24 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000123810",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "붙임2. 제출서류 및 서식.hwp",
@@ -21714,6 +22977,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-10 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000123096",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "2026 『부산국제신발섬유패션전시회(PFB패패부산)』 참가신청서.hwp",
@@ -21746,6 +23011,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-06 ~ 2026-08-28",
+  "sid": "biz-PBLN_000000000120783",
+  "posted": "2026-04-14",
   "files": [
    {
     "name": "2026 기업협력프로젝트 신청서 양식.hwp",
@@ -21778,6 +23045,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260710 ~ 20260828",
+  "posted": "2026-07-10",
+  "sid": "ks-178526",
   "files": [
    {
     "name": "[달구벌여성인력개발센터] 2026년 투자유치 역량강화지원사업 공고.hwp",
@@ -21806,6 +23075,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260624 ~ 20260828",
+  "posted": "2026-06-24",
+  "sid": "ks-178284",
   "files": [
    {
     "name": "붙임1. 공고문.hwp",
@@ -21838,6 +23109,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-08 ~ 2026-08-30",
+  "sid": "biz-PBLN_000000000121794",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "[메인비즈협회]2026년 미래내일일경험 인턴형 기업모집 공고.pdf",
@@ -21870,6 +23143,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124812",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임1_신청서식.hwp",
@@ -21902,6 +23177,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124781",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "공고문_첨부파일_(동두천시).zip",
@@ -21934,6 +23211,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124761",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "2026년 청년 고용 우수기업 근로환경 개선사업 신청 서식.hwp",
@@ -21966,6 +23245,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124685",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "2-1. [양식.1] 수혜기업 자가진단표. 현황표.hwp",
@@ -22010,6 +23291,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124641",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임1._환경정보공개_제도_개요.pdf",
@@ -22054,6 +23337,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124639",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "공고문_첨부파일_(양주시).zip",
@@ -22086,6 +23371,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124518",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "해외규격인증 취득 절차 심층 컨설팅.pdf",
@@ -22114,6 +23401,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124423",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "[서식1] ROBEX 2026 (제15회 대구국제로봇산업전)_신청서.xlsx",
@@ -22150,6 +23439,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124380",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "26년 경기 우수벤처기업 표차 공고문 및 신청양식.zip",
@@ -22182,6 +23473,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-09 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124254",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "신청서식.hwp",
@@ -22214,6 +23507,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000124020",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2026년도_윈윈_아너스(WIN-WIN_HONORS)프로젝트_추진계획_공고(2차)_(최종).hwpx",
@@ -22246,6 +23541,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123961",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "제2026-270호_2026년+고위험산업+사각지대+집중관리사업+3차+추가모집+공고문_안전보호구+지원.hwp",
@@ -22278,6 +23575,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-02 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123939",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "2026 중소기업 해외인증 획득 지원사업 제출서류 목록 (항목에 맞게 저장 후 ZIP파일 제출요망).zip",
@@ -22314,6 +23613,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123874",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "ULSAN EXPORT PLAZA 2026 해외바이어 초청 수출상담회 참가기업 모집공고.hwp",
@@ -22342,6 +23643,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123814",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "2. (관리지침) 온실가스 국제감축사업 관리지침(2026.3.)_수정.hwpx",
@@ -22386,6 +23689,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123766",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "붙임 1. 2026년 충청북도 스마트공장 구축 자부담금 지원사업 수혜기업 모집 공고.hwp",
@@ -22422,6 +23727,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-23 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123648",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "붙임2._기업지원_신청서_산업혁신기반구축사업.hwp",
@@ -22454,6 +23761,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-23 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123640",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "붙임2._기업지원_신청서_산업혁신기반구축사업.hwp",
@@ -22486,6 +23795,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-18 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000123420",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "2026년 경북PRIDE기업 _글로벌 비즈니스 스케일업 지원사업 양식.hwp",
@@ -22518,6 +23829,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000122800",
+  "posted": "2026-06-05",
   "files": [
    {
     "name": "목포형+여성친화기업+지원사업+기업환경개선+참여기업+신청서.hwp",
@@ -22550,6 +23863,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-26 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000122474",
+  "posted": "2026-05-27",
   "files": [
    {
     "name": "신청사업 사용계획서_비배포문서(2026).hwp",
@@ -22582,6 +23897,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-16 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000120032",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "G-FAIR KOREA 2026 참가기업 모집 안내문(브로슈어).pdf",
@@ -22610,6 +23927,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-13 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000119432",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "붙임. 신청서_ 2026 농식품 수출 인증통관검역 지원사업(해외지사화).hwp",
@@ -22642,6 +23961,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-08-31",
+  "sid": "biz-PBLN_000000000117357",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "(공고문)2026년 중소기업 온라인 플랫폼 판매지원 참여기업 상시 모집.hwp",
@@ -22670,6 +23991,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260724 ~ 20260831",
+  "posted": "2026-07-24",
+  "sid": "ks-178672",
   "files": [
    {
     "name": "[재직자 과정 4기] 생성형 AI기반, 글로벌 마케팅 자동화 및 현지화 에이전트 구축_포스터.png",
@@ -22702,6 +24025,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260714 ~ 20260831",
+  "posted": "2026-07-14",
+  "sid": "ks-178543",
   "files": [
    {
     "name": "포스터_취약분야 상시 컨설팅_2026년.txt",
@@ -22734,6 +24059,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260710 ~ 20260831",
+  "posted": "2026-07-10",
+  "sid": "ks-178519",
   "files": [
    {
     "name": "(참고용)IR발표자료 작성가이드.pdf",
@@ -22774,6 +24101,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260702 ~ 20260831",
+  "posted": "2026-07-02",
+  "sid": "ks-178400",
   "files": [
    {
     "name": "(양식)_청주지식산업센터_입주신청서 등.hwp",
@@ -22830,6 +24159,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260626 ~ 20260831",
+  "posted": "2026-06-26",
+  "sid": "ks-178295",
   "files": [
    {
     "name": "[소방청 공고 제2026-92호] 소방장비·용품 공공조달 컨설팅 지원사업 참여업체 모집 공고.pdf",
@@ -22862,6 +24193,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-09-01",
+  "sid": "biz-PBLN_000000000124607",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(공통양식1)_모음.zip",
@@ -22898,6 +24231,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260902",
+  "posted": "2026-07-15",
+  "sid": "ks-178571",
   "files": [
    {
     "name": "2026년도 제3차 보건신기술 신청 접수 공고.hwpx",
@@ -22930,6 +24265,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20260903",
+  "posted": "2026-07-20",
+  "sid": "ks-178622",
   "files": [
    {
     "name": "1.2026년 성장플러스 창업사업화 지원사업 공고.pdf",
@@ -22962,6 +24299,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-09-04",
+  "sid": "biz-PBLN_000000000124443",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(참조4) 2026년 수출프론티어기업 인증 심사 선정표.hwp",
@@ -22998,6 +24337,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-09-04",
+  "sid": "biz-PBLN_000000000124438",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "(참조1) 2026년 우수수출기업 및 유공자 표창계획 (자격요건 및 선정기준).hwp",
@@ -23042,6 +24383,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260723 ~ 20260905",
+  "posted": "2026-07-23",
+  "sid": "ks-178575",
   "files": [
    {
     "name": "bts_1차 수정_웹.jpg",
@@ -23078,6 +24421,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-09-11",
+  "sid": "biz-PBLN_000000000124699",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "260703_2026년+소상공인+카드수수료+지원사업+신청자+모집(공고문)_.pdf",
@@ -23106,6 +24451,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-30 ~ 2026-09-15",
+  "sid": "biz-PBLN_000000000124665",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 제2차(하반기) 서울시 예비사회적기업 지정 계획 공고문.hwp",
@@ -23134,6 +24481,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-16 ~ 2026-09-16",
+  "sid": "biz-PBLN_000000000124473",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "(공고문)2026년_온라인수출_물류_지원사업_참여기업_2차_모집공고.hwpx",
@@ -23166,6 +24515,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260716 ~ 20260917",
+  "posted": "2026-07-16",
+  "sid": "ks-178589",
   "files": [
    {
     "name": "2026 여성창업사업화지원사업(2차) 공고문.pdf",
@@ -23198,6 +24549,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260920",
+  "posted": "2026-07-15",
+  "sid": "ks-178547",
   "files": [
    {
     "name": "[웹포스터] 2026 제5회 유니버설디자인 공모전.png",
@@ -23238,6 +24591,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-09-22",
+  "sid": "biz-PBLN_000000000124742",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "국제발명전시회_온라인_신청_매뉴얼.pdf",
@@ -23270,6 +24625,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-18 ~ 2026-09-25",
+  "sid": "biz-PBLN_000000000122329",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "붙임_1._2026년_제조데이터_기반_AI_활용_컨설팅_신청서.hwp",
@@ -23310,6 +24667,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-14 ~ 2026-09-28",
+  "sid": "biz-PBLN_000000000124360",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임 4. 시스템반도체 개발지원센터 계측장비 사용료.pdf",
@@ -23350,6 +24709,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-21 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000124835",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "20260727085540129_hipa17_2. 한국나노기술원 실증 장비지원 목록.pdf",
@@ -23386,6 +24747,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000124697",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(참고1) 현장맞춤형 컨설팅 분야별 주요내용.hwpx",
@@ -23422,6 +24785,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-22 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000124622",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "(양식) 기업 위기대응 원스톱 에이전트 참여기업 신청서.hwp",
@@ -23454,6 +24819,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000124537",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "2026년도 소규모 사업장 방지시설 설치 지원 국고보조금 업무처리지침26.1월.pdf",
@@ -23498,6 +24865,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000124171",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "[붙임]휴머노이드 로봇시험 및 기술지원 신청서.hwp",
@@ -23530,6 +24899,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000123719",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "2. 품질보증조달물품 지정계획 공고 별첨문서(3차).zip",
@@ -23562,6 +24933,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-19 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000123478",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "[첨부1]+공동활용+연구장비+목록+(수수료+및+문의처).pdf",
@@ -23602,6 +24975,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-09 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000123155",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "우체국 국제특급우편(EMS) 할인서비스 이용 희망기업 모집 공고.png",
@@ -23630,6 +25005,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000122875",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "(별첨) 소상공인 정책자금 융자제외 대상 업종.hwp",
@@ -23662,6 +25039,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-30 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000121787",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "2026-1046_(공고문) 2026년 사회적가치지표(SVI) 측정 교육 및 컨설팅 참여기업 모집 공고(최종).pdf",
@@ -23690,6 +25069,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-09 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000120887",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "26년 소공인 공동판로개척사업 공고문.hwp",
@@ -23722,6 +25103,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-18 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000120201",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "(공고문)_2026년_포천시_신소재개발_프로그램_지원사업_모집공고_20260303.hwp",
@@ -23750,6 +25133,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-19 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000120089",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "2026년 OK FTA 컨설팅_사업진행 및 정보제공 동의서.hwp",
@@ -23790,6 +25175,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-19 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000120088",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "2026년 FTA 커스터마이징 컨설팅_사업 참여 신청서.hwp",
@@ -23830,6 +25217,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-18 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000120010",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "식품안심업소(음식점)+평가+신청+가이드.pdf",
@@ -23866,6 +25255,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-10 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000119394",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "배너_26년 DNA 융합제품서비스 해외진출 지원사업.jpg",
@@ -23902,6 +25293,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-05 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000119234",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "(첨부양식)2026년도 안전관리 우수연구실 인증제 신청서 등 서류.hwpx",
@@ -23934,6 +25327,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-05 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000118294",
+  "posted": "2026-02-06",
   "files": [
    {
     "name": "영주시 공공배달앱 활성화 지원사업 참여업체 모집공고(배달료 지원).pdf",
@@ -23962,6 +25357,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-10 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000118207",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "농어촌진흥기금 융자지원(이차보전비) 지침.hwp",
@@ -23994,6 +25391,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-07 ~ 2026-09-30",
+  "sid": "biz-PBLN_000000000117232",
+  "posted": "2026-01-08",
   "files": [
    {
     "name": "2026년 식품진흥기금 시설개선자금 융자계획 공고문.hwp",
@@ -24022,6 +25421,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20260930",
+  "posted": "2026-07-15",
+  "sid": "ks-178561",
   "files": [
    {
     "name": "1. 2026년 체육인 직업안정 사업(창업교육과정) 참여자 추가모집 공고문.pdf",
@@ -24062,6 +25463,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260713 ~ 20260930",
+  "posted": "2026-07-13",
+  "sid": "ks-178536",
   "files": [
    {
     "name": "2026년 국민안전 LBS 솔루션 대상 모집요강.jpg",
@@ -24094,6 +25497,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.09.30",
+  "posted": null,
+  "sid": "cw-21921",
   "files": []
  },
  {
@@ -24117,6 +25522,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.09.30",
+  "posted": null,
+  "sid": "cw-20605",
   "files": [
    {
     "name": "1. 2026 바이오메디컬 맞춤형 패키지 지원 프로그램 공고_.hwp",
@@ -24149,6 +25556,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-08 ~ 2026-10-06",
+  "sid": "biz-PBLN_000000000124154",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "(공고문)2026년+중소기업+빅데이터+분석+활용+지원사업(데이터+가치평가)+참가기업+모집.hwpx",
@@ -24177,6 +25586,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-15 ~ 2026-10-15",
+  "sid": "biz-PBLN_000000000124837",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "20260714153251426_hipa109_2. 신청서식(하반기 인증).hwp",
@@ -24213,6 +25624,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-20 ~ 2026-10-15",
+  "sid": "biz-PBLN_000000000121107",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "(붙임3) 권역별 SVI 활용사업 현황 및 향후 활용 계획.xlsx",
@@ -24257,6 +25670,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-15 ~ 2026-10-15",
+  "sid": "biz-PBLN_000000000117368",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "(공고문) 2026년 밀키트 판매업소 포장재 지원사업장 모집(기존업소).hwp",
@@ -24285,6 +25700,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-15 ~ 2026-10-15",
+  "sid": "biz-PBLN_000000000117367",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "(공고문) 2026년 밀키트 판매업소 장비 지원사업장 모집(기존업소).hwp",
@@ -24313,6 +25730,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-04 ~ 2026-10-23",
+  "sid": "biz-PBLN_000000000119158",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "2026년 초등학부모 10시 출근제 도입 중소기업 지원 참가신청서.hwp",
@@ -24345,6 +25764,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260720 ~ 20261027",
+  "posted": "2026-07-20",
+  "sid": "ks-178597",
   "files": [
    {
     "name": "의왕시 ESG 교육 포스터_7.8_v.3.jpg",
@@ -24377,6 +25798,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-28 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000124856",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "2026년+여성기업+경쟁력+강화를+위한+부산+여성기업+전시회(마케팅)+지원+참여희망기업+모집.pdf",
@@ -24413,6 +25836,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000124783",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "친환경인증선박 보급지원사업 시행지침 260713 .hwpx",
@@ -24445,6 +25870,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-24 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000124708",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "(붙임2)+TP+생산장비+고도화기술지원+신청서+및+계획서_부산테크노파크.hwp",
@@ -24477,6 +25904,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-13 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000124341",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "붙임2-2026년-온라인-K-SEAFOOD-판매-전용관-운영-사업-입점-지원-신청서.hwp",
@@ -24509,6 +25938,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000124309",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "붙임 2. 신청서류.hwp",
@@ -24541,6 +25972,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-10 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000123852",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "디지털+제품(서비스)+컨설팅+및+테스팅+지원+신청서.hwp",
@@ -24573,6 +26006,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-25 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000123736",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "2026년 퇴직공무원 사회공헌사업 컨설팅 참여기업 모집 공고문(2차).hwp",
@@ -24601,6 +26036,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-25 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000123661",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "(붙임1) 「2026년도 유해화학물질 취급시설 안전관리 지원사업」모집 안내.hwp",
@@ -24633,6 +26070,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-09 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000123327",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "서식1.+참여신청서(법인사업자용).hwp",
@@ -24681,6 +26120,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-10 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000123050",
+  "posted": "2026-06-11",
   "files": [
    {
     "name": "2. [붙임1] 참가신청서 양식.hwp",
@@ -24717,6 +26158,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-02 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000122910",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "붙임+2.+신청서+양식(공통서식+및+일반서식).zip",
@@ -24749,6 +26192,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-06 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000122866",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "붙임. (양식) 2026년 연구조직 설립·확대 지원사업 지원신청서.hwp",
@@ -24781,6 +26226,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-30 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000122587",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "신청서 양식(변경).hwpx",
@@ -24813,6 +26260,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-07 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000121868",
+  "posted": "2026-05-12",
   "files": [
    {
     "name": "붙임2._자주_하는_질문(FAQ).hwp",
@@ -24849,6 +26298,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-24 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000121389",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "(참고)+원클릭+활용+매뉴얼2.pdf",
@@ -24897,6 +26348,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000120591",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "[공고문]2026년 조선해양 배관 및 시운전(commissioning) 장비 공동활용 지원 사업.pdf",
@@ -24925,6 +26378,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000120588",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "[공고문]2026 해양플랜트산업지원센터 보유 시험장비-교육설비 활용지원사업.hwp",
@@ -24953,6 +26408,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-31 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000120355",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "[붙임_1-2]_2026년도_미래환경산업융성융자_사업_안내서.pdf",
@@ -24989,6 +26446,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-27 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000119050",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "우주항공청 이주직원 가족 소상공인 창업 지원사업 신청서식.hwp",
@@ -25021,6 +26480,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-23 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000119026",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "(한글양식) 2026년도 연구실 안전관리 컨설팅 신청양식.hwpx",
@@ -25057,6 +26518,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-25 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000118906",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "건설공사 하도급대금 지급 보증수수료 지원사업.hwp",
@@ -25085,6 +26548,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-29 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000118133",
+  "posted": "2026-02-03",
   "files": [
    {
     "name": "지원신청서 및 확약서 시험항목표.zip",
@@ -25117,6 +26582,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2025-12-01 ~ 2026-10-30",
+  "sid": "biz-PBLN_000000000116832",
+  "posted": "2025-12-17",
   "files": [
    {
     "name": "[사업 안내문] 2026년 미래내일 일경험 지원사업인턴형·기업탐방형.hwp",
@@ -25145,6 +26612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260703 ~ 20261030",
+  "posted": "2026-07-03",
+  "sid": "ks-178408",
   "files": [
    {
     "name": "경기도 포스터_07.02_v.5_1.jpg",
@@ -25177,6 +26646,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260623 ~ 20261030",
+  "posted": "2026-06-23",
+  "sid": "ks-178247",
   "files": [
    {
     "name": "[공고문] 2026년 Ready To Scale 프로그램 참여기업 모집 공고문.hwp",
@@ -25221,6 +26692,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000124120",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2026년 산업부 혁신제품 지정 컨설팅 지원사업 참여기업 모집공고.hwp",
@@ -25253,6 +26726,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-09 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000123277",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "2026 AI훈련확산 지원사업 안내 리플렛.pdf",
@@ -25289,6 +26764,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000122640",
+  "posted": "2026-06-01",
   "files": [
    {
     "name": "붙임 2. 「2026년도 기술닥터제 활성화 지원사업」 현장애로기술지원 신청서 및 제출서류.hwp",
@@ -25325,6 +26802,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-14 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000122114",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "(공고문)국가산단 소규모 영세사업장 안전컨설팅 지원사업 참여기업 모집공고.hwpx",
@@ -25357,6 +26836,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-07 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000122042",
+  "posted": "2026-05-15",
   "files": [
    {
     "name": "붙임 3. (서식2) 기술닥터 신청기업 정보수집․이용에 관한 동의서.hwp",
@@ -25393,6 +26874,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-20 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000121498",
+  "posted": "2026-04-30",
   "files": [
    {
     "name": "0422 농업용 면세유 지원(최종) (1).jpg",
@@ -25421,6 +26904,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-10 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000120827",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "2026 전북특별자치도소상공인희망센터 컨설팅 지원 양식.hwp",
@@ -25453,6 +26938,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-26 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000120459",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "[공고문] 사천 스마트제조 고급인력양성 사업 수요기업 모집 공고.hwp",
@@ -25489,6 +26976,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-17 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000120145",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "2026년 국제의료기기전시회 참가기업 모집 2차 통합 참가신청서 양식.hwp",
@@ -25521,6 +27010,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-25 ~ 2026-10-31",
+  "sid": "biz-PBLN_000000000118875",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "첨부2 신청서양식-에기평E융복합.hwp",
@@ -25561,6 +27052,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-11-01",
+  "sid": "biz-PBLN_000000000123098",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "2026년디자인공모전출품지원사업신청서양식.hwp",
@@ -25593,6 +27086,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-27 ~ 2026-11-10",
+  "sid": "biz-PBLN_000000000124851",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[신청서] 2026 마을기업 통합 홍보물 패키지 제작 지원.hwp",
@@ -25621,6 +27116,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-10 ~ 2026-11-13",
+  "sid": "biz-PBLN_000000000123260",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "[붙임1] 2026년도 지역산업위기대응 이차보전 지원사업 신청서식.hwpx",
@@ -25657,6 +27154,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-06 ~ 2026-11-13",
+  "sid": "biz-PBLN_000000000121769",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "(양식) 지원신청서_제주다양성영화 후반단계 작품 인프라 활용 지원사업.hwp",
@@ -25693,6 +27192,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-02 ~ 2026-11-13",
+  "sid": "biz-PBLN_000000000117127",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "(양식) 관광기금 신용보증부 운영자금 특별융자 신청서.hwp",
@@ -25725,6 +27226,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2025-12-17 ~ 2026-11-13",
+  "sid": "biz-PBLN_000000000117068",
+  "posted": "2025-12-31",
   "files": [
    {
     "name": "붙임 2. [신청양식] 「금호 이웃사촌마을 조성사업」 청년하우스 주거 지원사업 신청 양식.hwp",
@@ -25757,6 +27260,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-11-15",
+  "sid": "biz-PBLN_000000000123900",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "2026년 고양시 영상기업 활용 인센티브 사업 관리지침.hwp",
@@ -25793,6 +27298,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-11-20",
+  "sid": "biz-PBLN_000000000124635",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "Stand-alone 고출력 EUV 검사기 장비 기술 및 EUV 검사기 인프라 구축 사업 기술지원기업 모집 공고 안내.pdf",
@@ -25821,6 +27328,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-11-20",
+  "sid": "biz-PBLN_000000000117490",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "2026년 남원시 중소기업육성기금 지원 공고문.hwp",
@@ -25849,6 +27358,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-15 ~ 2026-11-20",
+  "sid": "biz-PBLN_000000000117502",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "(서식)신청서.hwp",
@@ -25881,6 +27392,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260624 ~ 20261122",
+  "posted": "2026-06-24",
+  "sid": "ks-178234",
   "files": [
    {
     "name": "[열매나눔재단] 사회적기업 시설·운영비 지원사업.jpg",
@@ -25913,6 +27426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-27 ~ 2026-11-27",
+  "sid": "biz-PBLN_000000000118028",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "개별바이어 초청 수출상담회 지원사업 신청 공고.hwp",
@@ -25941,6 +27456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-06 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000124214",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "붙임2. 2026년 기업SW 컨설팅 신청서 양식.hwp",
@@ -25981,6 +27498,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-30 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000123800",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "붙임_2. [포스터] 2026년 중소기업 정보보호 지원사업 수요기업 모집 홍보.pdf",
@@ -26013,6 +27532,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-24 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000123587",
+  "posted": "2026-06-25",
   "files": [
    {
     "name": "(양식)동남정보보호클러스터 보안테스트베드 이용신청서_GNTP(수정).hwp",
@@ -26045,6 +27566,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-19 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000123412",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "붙임2. 기업지원 신청서_책임보험.hwp",
@@ -26077,6 +27600,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-16 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000123334",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "2026년 소상공인 무료 법률·세무·노무 간편상담 지원사업 안내.pdf",
@@ -26105,6 +27630,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-04 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000123095",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "[붙임2]2026년가명정보활용컨설팅지원수요조사서.hwp",
@@ -26137,6 +27664,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-08 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000122952",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "2026년+영세소상공인+중소금융권+금융비용+지원사업+신청서식.hwpx",
@@ -26169,6 +27698,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-05 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000122914",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "붙임2. 2026 거점기관 개방형혁신사업 장비 및 인프라 신청서.hwp",
@@ -26201,6 +27732,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-08 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000122877",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "[서식 제1호] 현장애로기술 컨설팅 신청서.hwp",
@@ -26241,6 +27774,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-20 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000122273",
+  "posted": "2026-05-21",
   "files": [
    {
     "name": "26년+찾아가는+1대1+디지털+교육+소상공인+모집공고.hwp",
@@ -26273,6 +27808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-03 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000121038",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "2026년 IoT_보안인증_인증시험 수수료_지원_안내문.hwpx",
@@ -26301,6 +27838,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-13 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000120821",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "2026년 디지털커머스 전문기관(소담스퀘어강원) 소상공인 모집 공고.jpg",
@@ -26333,6 +27872,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000119947",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "2026년 충남FTA통상진흥센터 수출기업 현장 컨설팅 참여기업 모집공고.pdf",
@@ -26361,6 +27902,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-01 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000119762",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "[KMAC] 2026 일터혁신 상생컨설팅 지원사업 브로셔 _ 26.03.10.pdf",
@@ -26393,6 +27936,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-20 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117774",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "[강동가죽제조지원센터] 가죽·패션산업 소공인 장비지원 사업 신청서.hwp",
@@ -26429,6 +27974,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-21 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117737",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "온라인+접수방법.pdf",
@@ -26469,6 +28016,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-16 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117599",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "미국 현지 전문가 온라인 상담 공고문.hwp",
@@ -26501,6 +28050,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117546",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "미국 관세정책 대응 심층 컨설팅 사업 안내문.pdf",
@@ -26533,6 +28084,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117463",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "서류제출 안내.hwp",
@@ -26573,6 +28126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117454",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "서류제출 안내.hwp",
@@ -26613,6 +28168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117330",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "직무발명규정_도입_여부_확인제_신청안내_자료.pdf",
@@ -26645,6 +28202,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-05 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117297",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 상반기 무료 직무발명제도 컨설팅 신청 안내.jpg",
@@ -26673,6 +28232,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000117085",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "2026년 시니어인턴십 기업신청서류.zip",
@@ -26705,6 +28266,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-02 ~ 2026-11-30",
+  "sid": "biz-PBLN_000000000116853",
+  "posted": "2025-12-17",
   "files": [
    {
     "name": "2.+[별첨]+기업훈련+탄력운영제+참여신청+전산+매뉴얼.pdf",
@@ -26737,6 +28300,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-01 ~ 2026-12-01",
+  "sid": "biz-PBLN_000000000123743",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "2026년_포천시_중소기업_전시(박람)회_출전_지원사업(2차)_신청서_양식.hwp",
@@ -26769,6 +28334,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-02 ~ 2026-12-01",
+  "sid": "biz-PBLN_000000000118285",
+  "posted": "2026-02-06",
   "files": [
    {
     "name": "붙임+2.+제출서류(양식)+각+1부.zip",
@@ -26805,6 +28372,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-22 ~ 2026-12-04",
+  "sid": "biz-PBLN_000000000123494",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "첨부2. 2026년 CDMO 사전상담 프로그램 신청서.hwp",
@@ -26849,6 +28418,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-12-04",
+  "sid": "biz-PBLN_000000000123307",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "(사용자매뉴얼-대민포털)_여성농업인특수건강검진 온라인신청편.pdf",
@@ -26889,6 +28460,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-31 ~ 2026-12-04",
+  "sid": "biz-PBLN_000000000120498",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "(사업지침서) 2026년 GAP 안전성 분석 지원.pdf",
@@ -26929,6 +28502,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-18 ~ 2026-12-10",
+  "sid": "biz-PBLN_000000000123429",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "별첨. 해외 항공권 및 숙박 기준 해외영화제 목록.pdf",
@@ -26977,6 +28552,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-06 ~ 2026-12-10",
+  "sid": "biz-PBLN_000000000121777",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "2026년 소상공인 산재보험료 지원사업 공고문.hwp",
@@ -27009,6 +28586,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-26 ~ 2026-12-10",
+  "sid": "biz-PBLN_000000000120387",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "2026년 소상공인 고용보험료 지원사업 공고문.hwp",
@@ -27041,6 +28620,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-19 ~ 2026-12-11",
+  "sid": "biz-PBLN_000000000122516",
+  "posted": "2026-05-28",
   "files": [
    {
     "name": "침해사고 예방을 위한 취약점 점검 무료 지원.pdf",
@@ -27069,6 +28650,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-13 ~ 2026-12-11",
+  "sid": "biz-PBLN_000000000120959",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "붙임. 신청자료 서식.hwp",
@@ -27101,6 +28684,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-03 ~ 2026-12-11",
+  "sid": "biz-PBLN_000000000120694",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "[양식] 신청사업 사용계획서.hwp",
@@ -27141,6 +28726,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-07 ~ 2026-12-12",
+  "sid": "biz-PBLN_000000000117730",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "2026년 음식점 위생등급제 지정업소 청소비지원 모집공고.hwp",
@@ -27169,6 +28756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-11 ~ 2026-12-18",
+  "sid": "biz-PBLN_000000000123973",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "붙임. 2026년 마이데이터 전문가 상시자문 지원 안내문.pdf",
@@ -27197,6 +28786,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-01 ~ 2026-12-18",
+  "sid": "biz-PBLN_000000000122713",
+  "posted": "2026-06-02",
   "files": [
    {
     "name": "(붙임2) 신청서식.zip",
@@ -27229,6 +28820,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-28 ~ 2026-12-18",
+  "sid": "biz-PBLN_000000000122589",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "제출서류+양식+일체.zip",
@@ -27261,6 +28854,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-22 ~ 2026-12-18",
+  "sid": "biz-PBLN_000000000121288",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "2026년 라이브커머스 운영 지원 웹포스터.png",
@@ -27297,6 +28892,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-07 ~ 2026-12-18",
+  "sid": "biz-PBLN_000000000117365",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "[붙임 2] 지원금 청구서 서식.hwp",
@@ -27333,6 +28930,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-29 ~ 2026-12-24",
+  "sid": "biz-PBLN_000000000118467",
+  "posted": "2026-02-12",
   "files": [
    {
     "name": "[신청서] 중소기업 ISO 인증 지원사업 신청서.xlsx",
@@ -27365,6 +28964,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-07 ~ 2026-12-27",
+  "sid": "biz-PBLN_000000000120474",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "2026년 판판셀러 지원사업 온라인쇼핑몰 통합관리시스템 모집 공고.png",
@@ -27393,6 +28994,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-02 ~ 2026-12-29",
+  "sid": "biz-PBLN_000000000117303",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 조선협력사 중소기업 육성자금 연장 지원 공고문.hwp",
@@ -27421,6 +29024,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260707 ~ 20261230",
+  "posted": "2026-07-07",
+  "sid": "ks-178453",
   "files": [
    {
     "name": "[공고] 2026년 영산대 그린창업보육센터 창업자 및 예비창업자 모집 안내.pdf",
@@ -27457,6 +29062,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-23 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000124859",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(서식) 미래자동차 탑승자 중심 편의부품 평가 기반구축 _기업지원 신청서.hwp",
@@ -27489,6 +29096,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-20 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000124661",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2. (서식1호)오픈랩장비활용기술지원신청서.hwp",
@@ -27525,6 +29134,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000124379",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "무역구제 조사·상담 컨설팅 지원 접수 안내.pdf",
@@ -27553,6 +29164,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-07-03 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123983",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "2026년 컨설팅 신청서.hwp",
@@ -27589,6 +29202,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123922",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "2026 중소·중견기업 ڸ 232조 등 新유형 관세 대응 컨설팅 신청서_.hwp",
@@ -27629,6 +29244,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-30 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123797",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "기업회원용 사업신청 매뉴얼 (소담상회).pdf",
@@ -27661,6 +29278,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-29 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123753",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "(붙임2)신청양식_컨설팅 신청서 동의서.hwp",
@@ -27693,6 +29312,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123385",
+  "posted": "2026-06-19",
   "files": [
    {
     "name": "붙임1. 신청서(26년동네방네노무사).hwp",
@@ -27729,6 +29350,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-12 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000123174",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "★(수정공고문)_포천시_현장기술돌봄이_지원사업.hwp",
@@ -27761,6 +29384,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-06-04 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000122863",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "[붙임2] 신청 서식.hwp",
@@ -27797,6 +29422,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-27 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000122526",
+  "posted": "2026-05-28",
   "files": [
    {
     "name": "[붙임2-1] 사업 참여신청서.hwp",
@@ -27845,6 +29472,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-13 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000122297",
+  "posted": "2026-05-21",
   "files": [
    {
     "name": "(포스터) 직장 내 성희롱 예방 컨설팅.pdf",
@@ -27873,6 +29502,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-05-06 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000121782",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "[신청양식]+2026년+기술닥터제+신청서(기업용).hwp",
@@ -27905,6 +29536,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-29 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000121478",
+  "posted": "2026-04-30",
   "files": [
    {
     "name": "(기업명)2026년 소담스퀘어전주 지원사업 신청서.hwp",
@@ -27937,6 +29570,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000121197",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "3. 26년 창녕군 지식재산창출 지원사업 공고문 및 양식.zip",
@@ -27969,6 +29604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000120679",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "붙임1_시제품제작장비지원_신청서.hwp",
@@ -28005,6 +29642,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000120566",
+  "posted": "2026-04-08",
   "files": [
    {
     "name": "2026년도_지식재산경영인증_신청안내_260401.pdf",
@@ -28033,6 +29672,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000120562",
+  "posted": "2026-04-08",
   "files": [
    {
     "name": "2026년도_지식재산경영인증_멘토링_신청안내_260401.pdf",
@@ -28061,6 +29702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-23 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000120340",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "[양식]시험의뢰서 및 유아용섬유제품 지원신청서.zip",
@@ -28093,6 +29736,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-24 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000120246",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "2026년_충남도청_수출입보험료_및_바이어_신용조사_지원사업_공고문.docx",
@@ -28125,6 +29770,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119624",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "첨부2. (폴리텍대 정수캠 산학협력단)교육일정_260316기준.pdf",
@@ -28157,6 +29804,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-11 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119589",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "2026년 해외 수출물류 네트워크 지원사업 모집공고.hwp",
@@ -28185,6 +29834,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-11 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119587",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "2026년 제주-칭다오 노선 활성화 지원사업 모집공고.hwp",
@@ -28213,6 +29864,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-03 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119567",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "(붙임)_2026년_농식품_크라우드펀딩_운영기준(안).hwp",
@@ -28241,6 +29894,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-16 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119491",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "구인신청서(상용직용).hwp",
@@ -28273,6 +29928,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-11 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119356",
+  "posted": "2026-03-11",
   "files": [
    {
     "name": "서울시여성가족재단_포스터260310핑크.png",
@@ -28305,6 +29962,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-03 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119324",
+  "posted": "2026-03-10",
   "files": [
    {
     "name": "2026년 맞춤형 컨설팅 참가기업 모집공고.hwp",
@@ -28345,6 +30004,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-06 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119272",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "붙임2_장비카달로그.pdf",
@@ -28385,6 +30046,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-06 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119239",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "(산업은행) 26년 온렌딩 리플렛 최종.pdf",
@@ -28413,6 +30076,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-06 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119235",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "[포스터] 고성능 컴퓨터 이용 지원사업.png",
@@ -28445,6 +30110,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-03-05 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000119218",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "2026년 제주특별자치도 중소기업육성자금 융자지원계획 변경공고.hwp",
@@ -28473,6 +30140,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-13 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118943",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "(붙임) 필요기술 발굴지원 공고문 및 신청서.hwp",
@@ -28501,6 +30170,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-02 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118912",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "동탄소공인복합지원센터 안내 리플렛.pdf",
@@ -28533,6 +30204,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-09 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118556",
+  "posted": "2026-02-13",
   "files": [
    {
     "name": "판판대로 공고문.pdf",
@@ -28565,6 +30238,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-26 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118393",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "고용센터 2026년 『청년일자리도약장려금』 사업 참여 안내 공문.pdf",
@@ -28597,6 +30272,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-05 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118296",
+  "posted": "2026-02-06",
   "files": [
    {
     "name": "일구삼구-포스터-002.png",
@@ -28625,6 +30302,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-04 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118226",
+  "posted": "2026-02-05",
   "files": [
    {
     "name": "2026년 방산 멘토링사업 참여기업 모집공고(잠정).pdf",
@@ -28653,6 +30332,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-02-02 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000118014",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년+농산물+가격안정자금(농어촌진흥기금)+융자시행계획+공고문.hwp",
@@ -28681,6 +30362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-26 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117891",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "[청주상공회의소]`26년 청년일자리도약장려금 웹포스터.jpg",
@@ -28725,6 +30408,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-26 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117889",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "소상공인 고용보험료 지원 사업.png",
@@ -28753,6 +30438,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-19 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117705",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "[필독] 2026년해외OA등록비용지원사업절차.hwp",
@@ -28789,6 +30476,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-13 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117698",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "기업명_상품기술서_지역상생협력관 코칭상담.pptx",
@@ -28821,6 +30510,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117697",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "동반성장몰(K전략품목ㆍ시범구매ㆍ상생협력 한정).png",
@@ -28849,6 +30540,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-05 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117696",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "(수정) 상품기술서v3.xlsx",
@@ -28881,6 +30574,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-12 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117525",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026+시군+수출유망품목+공동마케팅+지원+계획+(지침).hwp",
@@ -28913,6 +30608,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-05 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117316",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 의성군 중소기업 운전자금 공고문.hwp",
@@ -28941,6 +30638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-23 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117307",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "붙임. 가상융합산업 콘텐츠 제작 장비 임차지원 안내.hwp",
@@ -28969,6 +30668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-06 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117167",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "2026년_포천시소공인가구지원센터_운영지원사업_공고.pdf",
@@ -28997,6 +30698,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-05 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117145",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "★2026년도_전라남도_중소기업_육성자금(중소유통업구조개선자금)_지원계획_공고.hwp",
@@ -29025,6 +30728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117059",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "전국 고용센터 연락처 목록.hwp",
@@ -29057,6 +30762,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-01-01 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000117028",
+  "posted": "2025-12-30",
   "files": [
    {
     "name": "2026 완도군 단체관광객 유치 여행사 인센티브 지원계획 공고.hwp",
@@ -29085,6 +30792,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2025-12-23 ~ 2026-12-31",
+  "sid": "biz-PBLN_000000000116966",
+  "posted": "2025-12-24",
   "files": [
    {
     "name": "2026년 가축분뇨 수집운반 수수료 지원사업 신청서 접수 공고.hwp",
@@ -29113,6 +30822,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2020.01.01 ~ 2026.12.31",
+  "sid": "biz-PBLN_000000000092578",
+  "posted": "2023-11-03",
   "files": [
    {
     "name": "체납액 징수특례 제도.hwp",
@@ -29141,6 +30852,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260715 ~ 20261231",
+  "posted": "2026-07-15",
+  "sid": "ks-178527",
   "files": [
    {
     "name": "안양대학교 창업보육센터 입주신청서(2026).hwp",
@@ -29181,6 +30894,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260701 ~ 20261231",
+  "posted": "2026-07-01",
+  "sid": "ks-178489",
   "files": [
    {
     "name": "[붙임] (포스터) 상시매칭 오픈이노베이션 플랫폼_최종.jpg",
@@ -29213,6 +30928,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260707 ~ 20261231",
+  "posted": "2026-07-07",
+  "sid": "ks-178445",
   "files": [
    {
     "name": "1. 2026 서울기후테크산업지원센터 경영 및 기술컨설팅(멘토링) 안내문.hwp",
@@ -29249,6 +30966,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "20260627 ~ 20261231",
+  "posted": "2026-06-27",
+  "sid": "ks-178289",
   "files": [
    {
     "name": "[공고문] (주)미래서비스 1인 창조기업 지원센터 모집공고문_260625.pdf",
@@ -29281,6 +31000,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.12.31",
+  "posted": null,
+  "sid": "cw-20617",
   "files": []
  },
  {
@@ -29304,6 +31025,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026.12.31",
+  "posted": null,
+  "sid": "cw-20221",
   "files": []
  },
  {
@@ -29327,6 +31050,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-07 ~ 2027-01-30",
+  "sid": "biz-PBLN_000000000120839",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "2026년 생계형 1인 자영업자 사회보험료 지원 공고문 및 신청서.hwp",
@@ -29355,6 +31080,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026-04-01 ~ 2027-01-30",
+  "sid": "biz-PBLN_000000000120838",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "2026년 강원특별자치도 사회보험료 지원 공고문 및 신청서(10인 미만 사업장).hwp",
@@ -29383,6 +31110,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2025-01-02 ~ 2027-12-31",
+  "sid": "biz-PBLN_000000000103611",
+  "posted": "2025-01-10",
   "files": [
    {
     "name": "[경북] 구미 방산혁신클러스터 방산 헬프데스크-지역소재기업 경영기술지원 모집 공고.pdf",
@@ -29411,6 +31140,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124861",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "(공고문)2026년_인천광역시_중소기업육성자금(경영안정자금 이차보전)지원공고_ 8차.pdf",
@@ -29439,6 +31170,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124849",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[서식]참가신청서.hwp",
@@ -29471,6 +31204,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "회차별 상이",
+  "sid": "biz-PBLN_000000000124842",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "공공조달 및 민간위탁 맞춤형 컨설팅 참여기업 제출서류.hwp",
@@ -29503,6 +31238,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124841",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "[공고문] 2026년 DX_AX 컨설팅 지원사업 모집공고_ 신청서.hwp",
@@ -29531,6 +31268,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124840",
+  "posted": "2026-07-29",
   "files": [
    {
     "name": "붙임2. 2026년 소상공인IP창출지원 상표출원지원사업 신청서 및 개인정보동의수집 활용동의서(대전)_260227 (2).hwp",
@@ -29567,6 +31306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124823",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "AI-활용-기반-R&D-사업계획서-작성-지원-사업(2)_1.pdf",
@@ -29599,6 +31340,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000124801",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "작성서식_글로벌시장+대응+AI기반+공조부품+성능평가+인프라+고도화+사업+기업지원.zip",
@@ -29631,6 +31374,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124795",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "2026년도_중소기업_정책자금_융자계획_변경공고(제2026-464호).hwpx",
@@ -29671,6 +31416,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124792",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "(공고)2026 인증획득제품 해외 실증 지원사업 기업모집 추가 공고.hwpx",
@@ -29703,6 +31450,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124779",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "붙임2. 혁신기술 제조창업 공유공장 구축사업 기업지원 신청서(양식).hwp",
@@ -29735,6 +31484,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124777",
+  "posted": "2026-07-28",
   "files": [
    {
     "name": "필수 제출서류(1~3).zip",
@@ -29767,6 +31518,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124762",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "2. [신청서식]대경이음 일터개선 지원_참여기업명.hwp",
@@ -29799,6 +31552,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124760",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "첨부2.신청서 및 관련서류 각 1부.zip",
@@ -29831,6 +31586,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124747",
+  "posted": "2026-07-27",
   "files": [
    {
     "name": "[신청양식]+2026년+글로벌+K-푸드페어·국제식품박람회+비대면+홍보+참여기업+신청서.hwp",
@@ -29863,6 +31620,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124721",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임.  KIC SV 연계 K-global 참가 신청서 (양식1~3).docx",
@@ -29895,6 +31654,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124717",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임 1-5(단체참가).hwp",
@@ -29931,6 +31692,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124716",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "확인증 발급방법  1.hwpx",
@@ -29967,6 +31730,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124706",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "붙임2-1._전라남도일자리정보망_채용공고문_게시_매뉴얼(참여기업용_2026).pdf",
@@ -30003,6 +31768,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000124700",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "첨부2-2. (회사명) 샘플정보 회신양식.xlsx",
@@ -30039,6 +31806,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124693",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "식품안심업소(음식점 위생등급제) 컨설팅 지원 공고(안).hwpx",
@@ -30067,6 +31836,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000124681",
+  "posted": "2026-07-24",
   "files": [
    {
     "name": "석유화학업종 임금체계 개선 확산 사업 및 지원프로그램 안내(최종).pdf",
@@ -30095,6 +31866,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124676",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 서울시 소상공인 안전검사 지원사업 안내(하반기).pdf",
@@ -30123,6 +31896,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124671",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "「2026 부산청년 글로벌잡 챌린지 프로젝트 사업」 사업참여 신청서.hwp",
@@ -30155,6 +31930,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124651",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "신청서_및_기업정보_수집이용_동의서.zip",
@@ -30187,6 +31964,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124648",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "2026년 정선군 해외물류비 지원사업 모집공고 및 신청서.hwp",
@@ -30219,6 +31998,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124631",
+  "posted": "2026-07-23",
   "files": [
    {
     "name": "붙임. 디스플레이 특화단지 R&D 컨설팅 지원사업 공고문(상시 모집) 및 신청양식.hwp",
@@ -30247,6 +32028,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124589",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[붙임2] 「2026년 안동시 수출기업 역량강화 지원사업」 수출직불금 지원사업 신청서 서식 .hwp",
@@ -30279,6 +32062,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124583",
+  "posted": "2026-07-22",
   "files": [
    {
     "name": "[신청서] 2026 하반기 부산원스톱기업지원센터 전문가 컨설팅 지원사업.hwp",
@@ -30315,6 +32100,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124560",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "[공고문]2026년 하반기 소상공인 경영안정자금 지원사업 공고문.hwpx",
@@ -30343,6 +32130,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "지원별 상이",
+  "sid": "biz-PBLN_000000000124556",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "(서식1-4) 지원신청서 및 수행계획서.hwp",
@@ -30379,6 +32168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124555",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임 2._가치업고(UP-GO)_마일리지_사업_신청서류.hwpx",
@@ -30415,6 +32206,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124551",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "★라이브커머스 제작·운영지원 사업 플랫폼별 프로그램_판판대로.pdf",
@@ -30447,6 +32240,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124545",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "붙임2. 사업 신청서.hwp",
@@ -30483,6 +32278,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000124544",
+  "posted": "2026-07-21",
   "files": [
    {
     "name": "1.+글로벌+B2B+한국식품관+입점기업+모집공고.hwp",
@@ -30527,6 +32324,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124502",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "[붙임2] 닥터FTZ 컨설팅 참여신청서 양식.hwp",
@@ -30563,6 +32362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시까지",
+  "sid": "biz-PBLN_000000000124501",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "붙임2.(참여기업)사회연대경제 청년 일경험 시범사업_선정평가기준 및 신청서식.hwp",
@@ -30599,6 +32400,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124486",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "참고.업종코드-표준산업분류 연계표_.xlsx",
@@ -30635,6 +32438,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "수시 접수",
+  "sid": "biz-PBLN_000000000124484",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2.+2026년+복합형+거점+물류센터(DC)+지원사업+참가업체+신청서(양식)1.hwp",
@@ -30675,6 +32480,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124471",
+  "posted": "2026-07-20",
   "files": [
    {
     "name": "2026년_생애_최초_경영안정화_교육지원_모집공고_및_신청서식 (52).hwp",
@@ -30707,6 +32514,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124459",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2026지진안전기반구축사업 기술지원 신청서(상시).hwp",
@@ -30739,6 +32548,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124442",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "2026년도_청도군_시군구연고산업육성사업_지원모집(스마트 기술 컨설팅).hwp",
@@ -30767,6 +32578,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124433",
+  "posted": "2026-07-16",
   "files": [
    {
     "name": "붙임2.+수행계획서+양식.zip",
@@ -30799,6 +32612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124402",
+  "posted": "2026-07-15",
   "files": [
    {
     "name": "붙임.+한방바이오제천몰+웹상세페이지+제작+지원+신청서.hwp",
@@ -30831,6 +32646,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000124346",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "[붙임2] 2026년 충청북도 기숙사임차비지원사업 신청서식(충주시).hwp",
@@ -30863,6 +32680,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000124325",
+  "posted": "2026-07-14",
   "files": [
    {
     "name": "[붙임1] 벤처나라 기관추천 신청서.hwp",
@@ -30899,6 +32718,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124308",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "붙임2._2026_장비활용_바우처_지원_신청서.hwp",
@@ -30935,6 +32756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124307",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "2.+(인증및컨설팅신청서)2026+항공부품산업+기술고도화지원사업+신청서.hwp",
@@ -30967,6 +32790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124304",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "붙임1. 「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -31003,6 +32828,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124300",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "AIoT융합부품 성능검증시스템 고도화사업_기업지원서류.hwp",
@@ -31035,6 +32862,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124279",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "26년_창업BuS_홍보포스터-_복사본.pdf",
@@ -31063,6 +32892,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124274",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "붙임. 장비사용신청서 외 제출서류 양식.hwp",
@@ -31095,6 +32926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124273",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "2.별첨2~68 1인 이상 5인 미만 특례.pdf",
@@ -31127,6 +32960,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "정원 마감시까지",
+  "sid": "biz-PBLN_000000000124269",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "2026ICT이노베이션확산사업_기업협력 프로젝트_참여기업 모집.pdf",
@@ -31155,6 +32990,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124268",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "[붙임] 신청서류 목록 및 양식.zip",
@@ -31187,6 +33024,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124267",
+  "posted": "2026-07-13",
   "files": [
    {
     "name": "(별첨1) 지원사업 세부사항.hwp",
@@ -31223,6 +33062,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124248",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "★2026년전북지역특화형양식.zip",
@@ -31255,6 +33096,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124246",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "공고문 및 신청서식(1~3).hwpx",
@@ -31283,6 +33126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124238",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "중기부_공고_제2026–448호2026년_소상공인_정책자금_융자사업_공고3차_변경.hwpx",
@@ -31315,6 +33160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000124232",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "2026년도_투·융자연계_기술개발사업(스케일업팁스.글로벌팁스.DCP)_지원계획_수정공고.hwpx",
@@ -31347,6 +33194,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124229",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[붙임 2] 2026 기술자료 임치 수수료 지원 신청서.hwp",
@@ -31379,6 +33228,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124223",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[양식] 기업(신용)정보 수집·이용·제공 동의서_2026.hwp",
@@ -31415,6 +33266,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124218",
+  "posted": "2026-07-10",
   "files": [
    {
     "name": "[서식1] 참가신청서.hwp",
@@ -31451,6 +33304,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124193",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "2026년 속초시 전시박람회 참가 지원사업 참가기업 2차 추가 모집 공고 및 신청서식.hwp",
@@ -31479,6 +33334,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124179",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "(공고문)2026년 여수시 소상공인 융자금 이차보전 지원 계획 변경 공고.hwpx",
@@ -31511,6 +33368,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124174",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "붙임_2. (양식)2026년_인천지역 중소기업_정보보호_특화지원사업_수요기업_신청서 등.hwp",
@@ -31543,6 +33402,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124159",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "방호장치 및 휴게시설 개선 지원사업 웹자보.pdf",
@@ -31575,6 +33436,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124152",
+  "posted": "2026-07-09",
   "files": [
    {
     "name": "신청서식_우리동네_맑은공기_패키지_지원사업_신청서_.hwp",
@@ -31611,6 +33474,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124130",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "지원신청서 등 양식.hwp",
@@ -31643,6 +33508,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124122",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "(붙임2) 신청서류 일체(시험평가신청서 등).zip",
@@ -31675,6 +33542,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124111",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2026년 하반기 부천시 중소기업육성자금 지원 계획 공고.hwpx",
@@ -31703,6 +33572,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124107",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "서울시 소상공인 온라인 유통 MD 상담 지원 공고문.docx",
@@ -31731,6 +33602,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124086",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "2.+2026년+뷰티라이브커머스+참여기업+신청서+서식.hwp",
@@ -31763,6 +33636,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000124082",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "[신청양식] 한일 뿌리기업 비즈니스 매칭 상담회 참가 기업 모집.xlsx",
@@ -31803,6 +33678,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시",
+  "sid": "biz-PBLN_000000000124081",
+  "posted": "2026-07-08",
   "files": [
    {
     "name": "붙임 2. 기술 자문과제_서식 일체(2026).hwp",
@@ -31835,6 +33712,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124055",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "(붙임) 2026년도 재생에너지 금융지원사업 지원 변경 공고.hwpx",
@@ -31863,6 +33742,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124046",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "사회적가치형청년일경험지원사업신청서식기업용.hwp",
@@ -31891,6 +33772,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000124045",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "2. 멘토링_신청서_(기업명)_(멘토성명)_(차수)_(신청일자26.mm.dd).hwp",
@@ -31927,6 +33810,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000124043",
+  "posted": "2026-07-07",
   "files": [
    {
     "name": "[양식]신청서_물리화학적시험평가인증지원사업.hwp",
@@ -31963,6 +33848,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123982",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "[붙임 1] SPDM 기반 맞춤형 시뮬레이션 지원 신청서.hwp",
@@ -32003,6 +33890,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000123968",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "2-1. 실증지원 신청서(2026년 경상북도 규제샌드박스 지원사업).hwp",
@@ -32043,6 +33932,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123966",
+  "posted": "2026-07-06",
   "files": [
    {
     "name": "붙임 2. 나노 소재 제품 안전성평가 컨설팅 및 시험평가 신청서.hwp",
@@ -32079,6 +33970,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123926",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "(판판대로)(전남)2026 지원사업 신청서(업체명).hwp",
@@ -32111,6 +34004,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123923",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "【신청서】 국제표준경영혁신인증산업재산권및국내외출원비용 신청서.zip",
@@ -32147,6 +34042,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123915",
+  "posted": "2026-07-03",
   "files": [
    {
     "name": "실적증빙자료.hwp",
@@ -32183,6 +34080,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123907",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "2026년 하반기 진주시 중소기업육성기금 지원계획 공고.hwpx",
@@ -32215,6 +34114,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123905",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "1. 기술닥터 애로상담 신청서 및 정보 활용 동의서(양식).hwp",
@@ -32259,6 +34160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123904",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "산업안전보건 국제표준 인증기업 지원사업 신청서식.hwp",
@@ -32291,6 +34194,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000123901",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "2026 청년 소상공인 창업응원금 지원사업 신청 서식.hwp",
@@ -32327,6 +34232,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123877",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "[별지 제1호 서식] 국제크루즈 관광객 유치 사전계획서.hwpx",
@@ -32367,6 +34274,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123863",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "붙임3.「경기도 디스플레이 기술개발 지원사업」기술실증지원사업신청서(2026).hwp",
@@ -32403,6 +34312,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123862",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "(붙임 2) 2026년 하반기 사업 안내문.pdf",
@@ -32443,6 +34354,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123858",
+  "posted": "2026-07-02",
   "files": [
    {
     "name": "바이오ㆍ메디컬 패키지지원 포스터.pdf",
@@ -32479,6 +34392,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123844",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "(붙임) 2026년 하반기 중장년 소상공인 디지털 전환지원 사업 모집공고.hwp",
@@ -32511,6 +34426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123842",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "2026년 하반기 위기 소상공인 조기발굴 및 선제지원(Track2) 모집공고.hwp",
@@ -32543,6 +34460,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123841",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "부산 게임&콘텐츠 기업을 위한 무료 법률 자문 오피스아워 상시 모집.pdf",
@@ -32571,6 +34490,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123820",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "제출서류(양식).zip",
@@ -32603,6 +34524,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시",
+  "sid": "biz-PBLN_000000000123795",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "[붙임] 2026년 찾아가는 1대1 교육(경영애로 개선 컨설팅) 시행 공고문.hwp",
@@ -32631,6 +34554,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123790",
+  "posted": "2026-07-01",
   "files": [
    {
     "name": "2026년 시니어인턴십 세대통합형 참여기업 모집 안내(아이피시 관악지사).hwp",
@@ -32663,6 +34588,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123770",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "제출서류(붙임)_양식.zip",
@@ -32703,6 +34630,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123769",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "붙임2._2026년_인천광역시_중동_대응_긴급_바우처_지원사업_지원신청_제출양식.hwp",
@@ -32739,6 +34668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123764",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "2. 신청서_AI융합 의료기기 신뢰성 강화 및 성능 평가 실증 통합지원 사업.hwpx",
@@ -32771,6 +34702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123754",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "2026년 전라남도 협동조합 맞춤형 컨설팅 지원사업 공고문.hwp",
@@ -32799,6 +34732,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123746",
+  "posted": "2026-06-30",
   "files": [
    {
     "name": "「2026년_소상공인_온라인_입점_지원사업」_참여_소상공인_모집_공고.hwp",
@@ -32827,6 +34762,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123725",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -32867,6 +34804,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "유형별 상이",
+  "sid": "biz-PBLN_000000000123713",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "[참고 1] 보조비목·보조세목별 산정기준 등(보조사업 정산보고서 작성지침).pdf",
@@ -32907,6 +34846,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123711",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "전라남도 소상공인 육성자금지원계획 공고.hwpx",
@@ -32935,6 +34876,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123709",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "강원특별자치도 공고 2026년 소상공인 경영안정자금(2차)★.pdf",
@@ -32963,6 +34906,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123701",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "신청서식 인사노무관리 컨설팅 지원.hwp",
@@ -32995,6 +34940,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123696",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "서식 노동존중 기업 모집.hwp",
@@ -33027,6 +34974,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123695",
+  "posted": "2026-06-29",
   "files": [
    {
     "name": "서식 취업규칙 제정· 개정 지원.hwp",
@@ -33059,6 +35008,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123682",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "2026년 ICT 중소기업 정보보호 지원 사업 수요기업 모집 공고문.hwp",
@@ -33091,6 +35042,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123669",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "붙임 2. R&D 기획 지원 신청서류.zip",
@@ -33123,6 +35076,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시까지",
+  "sid": "biz-PBLN_000000000123666",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "2026년_프로젝트2-1._2-2._3-4_통합_지원_신청서_ver6.hwp",
@@ -33155,6 +35110,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123662",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "[붙임2] 2026 게임기업 컨설팅 지원사업 사업신청서.hwp",
@@ -33187,6 +35144,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시",
+  "sid": "biz-PBLN_000000000123647",
+  "posted": "2026-06-26",
   "files": [
    {
     "name": "붙임2._신청서_및_과제_계획서_등_서식.hwp",
@@ -33223,6 +35182,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123596",
+  "posted": "2026-06-25",
   "files": [
    {
     "name": "포스터_2.pdf",
@@ -33251,6 +35212,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000123592",
+  "posted": "2026-06-25",
   "files": [
    {
     "name": "붙+임+1.+위기지역+상권+활성화+패키지+지원+공고문.hwp",
@@ -33279,6 +35242,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123545",
+  "posted": "2026-06-24",
   "files": [
    {
     "name": "수혜기업 신청서.hwp",
@@ -33311,6 +35276,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123544",
+  "posted": "2026-06-24",
   "files": [
    {
     "name": "2026년 가족친화인증기업 대상 직장문화개선 컨설팅 참여기업 모집공고.pdf",
@@ -33339,6 +35306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123536",
+  "posted": "2026-06-24",
   "files": [
    {
     "name": "취·창업 CDP 지원 프로그램 [충청권 ICT 기업탐방·채용연계 참여기업 모집].pdf",
@@ -33367,6 +35336,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123523",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "(신청서)글로벌 수출 부대비용 지원 신청서.hwp",
@@ -33407,6 +35378,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123513",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "[공고문] 먹거리골목 디지털 주문시스템 설치 지원사업 참여업소 모집 재공고.hwpx",
@@ -33439,6 +35412,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123481",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "양식_기술컨설팅_신청서_및_완료보고서_등.hwp",
@@ -33475,6 +35450,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123466",
+  "posted": "2026-06-23",
   "files": [
    {
     "name": "붙임3-1. 기업지원신청서_2026년_고신뢰.hwp",
@@ -33511,6 +35488,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123451",
+  "posted": "2026-06-22",
   "files": [
    {
     "name": "152734_(붙임1) 바이오의약품 소재부품장비 기업지원 신청서_(기업명).hwp",
@@ -33547,6 +35526,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123384",
+  "posted": "2026-06-19",
   "files": [
    {
     "name": "2026년 울주군 소상공인 신규채용 인건비 지원사업 모집 정정공고.hwp",
@@ -33579,6 +35560,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123383",
+  "posted": "2026-06-19",
   "files": [
    {
     "name": "기업맞춤 고용지원사업 방문컨설팅_웹포스터.pdf",
@@ -33607,6 +35590,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123363",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "2026년 선도기업 전략직종 직무개발 참여기업 신청서 등 양식.hwpx",
@@ -33639,6 +35624,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123356",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "(서식) 부산 관광·마이스 3UP 프로젝트(Wage Work Welfare).hwp",
@@ -33675,6 +35662,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123352",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "2026년 시제품제작터 웹포스터.pdf",
@@ -33703,6 +35692,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123341",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "2026년 찾아가는 사업장 안전교육 지원사업 참여기업체 모집 공고문.hwpx",
@@ -33731,6 +35722,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123338",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "2026년 IP투자연계 지식재산평가 지원사업.pdf",
@@ -33763,6 +35756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123336",
+  "posted": "2026-06-18",
   "files": [
    {
     "name": "서울제로마켓 2차 모집 포스터.pdf",
@@ -33803,6 +35798,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000123299",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "(2026 PBV)붙임 2. 신청서 및 계획서(기술자문).hwp",
@@ -33835,6 +35832,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123291",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "[붙임2] 사업계획서 및 제출서류 안내문.hwp",
@@ -33879,6 +35878,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000123279",
+  "posted": "2026-06-17",
   "files": [
    {
     "name": "개인정보 수집 제공동의서.hwp",
@@ -33919,6 +35920,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123238",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "[서식 1] 2026 도내 여행사 대상 단체 관광객 유치 지원(사전신청서).hwp",
@@ -33959,6 +35962,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123218",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "신청서류.zip",
@@ -33991,6 +35996,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123213",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "경북FTA활용지원사업 운영지침(추가).hwp",
@@ -34027,6 +36034,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123208",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "2026년 지역기업 공공조달 컨설팅 참가기업 모집공고(안)..hwp",
@@ -34059,6 +36068,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123203",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "붙임2_상시공고참가신청서.hwp",
@@ -34091,6 +36102,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123202",
+  "posted": "2026-06-16",
   "files": [
    {
     "name": "소상공인 온라인 플랫폼 지원사업(홍보물).pdf",
@@ -34119,6 +36132,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123173",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "2.26년(여수시)지역산업위기대응 맞춤형 지원사업_첨부파일 일체.hwp",
@@ -34151,6 +36166,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000123170",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "붙임2. 2026 경북 게임 맞춤형 지원사업 사업(컨설팅 분야) 신청서류.hwp",
@@ -34183,6 +36200,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123160",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "2026년도 부산광역시 중소기업 자금지원계획 9차 변경 공고(260612).hwpx",
@@ -34215,6 +36234,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "수시 모집",
+  "sid": "biz-PBLN_000000000123140",
+  "posted": "2026-06-15",
   "files": [
    {
     "name": "붙임2. 국내전시회 참가 및 바이어 초청 통합지원(부산)_사업안내 및 신청서.hwp",
@@ -34247,6 +36268,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123138",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "2.+해외+네트워크+활용+K-푸드+정품+전시+홍보+제품+신청서.hwp",
@@ -34279,6 +36302,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123126",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "(붙임1)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -34315,6 +36340,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123119",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "[붙임 1] 모집공고문 및 신청서류 양식.hwp",
@@ -34347,6 +36374,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123108",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "중소기업AI훈련확산센터 리플릿.pdf",
@@ -34387,6 +36416,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "수시 접수",
+  "sid": "biz-PBLN_000000000123093",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "(붙임 2) (양식) 빅데이터 분석 및 데이터 활용 컨설팅 신청서 및 확약서.hwp",
@@ -34423,6 +36454,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123091",
+  "posted": "2026-06-12",
   "files": [
    {
     "name": "붙임2. 신규 창업기업 육성_사업안내 및 신청서.hwp",
@@ -34455,6 +36488,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123056",
+  "posted": "2026-06-11",
   "files": [
    {
     "name": "2026년도 소규모 사업장 방지시설 설치 지원 국고보조금 업무처리지침26.1월.pdf",
@@ -34487,6 +36522,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000123034",
+  "posted": "2026-06-11",
   "files": [
    {
     "name": "붙임_1._참가신청서_등.hwp",
@@ -34519,6 +36556,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123026",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "2026년 시니어인턴십 홍보 포스터.pdf",
@@ -34559,6 +36598,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123023",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "소프트플로우 소개서.pdf",
@@ -34599,6 +36640,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123022",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -34631,6 +36674,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123021",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "2026년 우체국 국제특급우편(EMS) 할인서비스 이용 희망기업 모집.pdf",
@@ -34659,6 +36704,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000123019",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "[공고문] 중소기업육성자금 지원 공고(7차-기금 융자자금).pdf",
@@ -34687,6 +36734,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000123003",
+  "posted": "2026-06-10",
   "files": [
    {
     "name": "(서식) 수산물 전시회 및 박람회 참가 지원신청서.hwpx",
@@ -34719,6 +36768,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "사업별 상이",
+  "sid": "biz-PBLN_000000000122968",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "[붙임] 2026년 안전일터 조성지원 사업 공고문_수정(2차).pdf",
@@ -34747,6 +36798,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시까지",
+  "sid": "biz-PBLN_000000000122956",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "붙임 2. 사업 신청서.hwp",
@@ -34779,6 +36832,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122948",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "공고문_소상공인 유통산업 경쟁력 강화 지원사업(시흥시 동네슈퍼 공동세일전) 참여점포 모집.hwp",
@@ -34811,6 +36866,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122942",
+  "posted": "2026-06-09",
   "files": [
    {
     "name": "[공고문] 2026년 다수공급자계약(MAS) 컨설팅.pdf",
@@ -34839,6 +36896,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122907",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "붙임1.+규제개혁+어드바이저+신청서.hwp",
@@ -34871,6 +36930,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122906",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "부·울·경 3T(Together Towards Tomorrow) 협력 파트너십 홍보 포스터.jpg",
@@ -34903,6 +36964,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122900",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "2026년_수질_자동측정기기_설치운영관리비_지원사업_신청서.hwp",
@@ -34935,6 +36998,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122896",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "2026년_굴뚝_자동측정기기_설치운영관리비_지원사업_신청서.hwp",
@@ -34967,6 +37032,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000122893",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "붙임+2.+2026년+세종테크밸리+첨단기업+유치+임차료+지원사업+희망기업임차기업+모집+신청서식.hwp",
@@ -34999,6 +37066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122876",
+  "posted": "2026-06-08",
   "files": [
    {
     "name": "2026년도_일반_물류바우처(2차)_사업_참여기업_모집공고.hwpx",
@@ -35031,6 +37100,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122834",
+  "posted": "2026-06-05",
   "files": [
    {
     "name": "2026년 홍천군 중소기업 수출물류비 지원사업 참가기업 모집 공고 및 신청서식.hwp",
@@ -35063,6 +37134,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시까지",
+  "sid": "biz-PBLN_000000000122828",
+  "posted": "2026-06-05",
   "files": [
    {
     "name": "붙임 2. 사업 변경 신청서.hwp",
@@ -35095,6 +37168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000122801",
+  "posted": "2026-06-05",
   "files": [
    {
     "name": "(경쟁력분석형)+맞춤형+조사+지원사업+신청서2.xlsx",
@@ -35135,6 +37210,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122739",
+  "posted": "2026-06-04",
   "files": [
    {
     "name": "대전 소상공인·자영업자 재기지원(폐업정리) 신청서(붙임1~3).hwp",
@@ -35175,6 +37252,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "지원별 상이",
+  "sid": "biz-PBLN_000000000122724",
+  "posted": "2026-06-02",
   "files": [
    {
     "name": "103458216392_공정혁신 시뮬레이션 기술지원 수혜기업 신청서류.hwp",
@@ -35207,6 +37286,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122718",
+  "posted": "2026-06-02",
   "files": [
    {
     "name": "[붙임2] 충북TP 유망기업 IP투자연계 지식재산평가 지원사업 지원신청서.hwp",
@@ -35239,6 +37320,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122716",
+  "posted": "2026-06-02",
   "files": [
    {
     "name": "(붙임) 2026년 국제특송 해외물류비 지원사업 서식집(수정).hwp",
@@ -35271,6 +37354,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122664",
+  "posted": "2026-06-01",
   "files": [
    {
     "name": "1단계 [KOTRA] 2026년 지사화사업 참여기업 모집 공고문.HWP",
@@ -35307,6 +37392,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122656",
+  "posted": "2026-06-01",
   "files": [
    {
     "name": "신청서 및 관련서식.hwpx",
@@ -35339,6 +37426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122650",
+  "posted": "2026-06-01",
   "files": [
    {
     "name": "충북 연구개발장비 공동활용 기업애로상담 프로그램 수요기업 모집 공고.pdf",
@@ -35367,6 +37456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122625",
+  "posted": "2026-06-01",
   "files": [
    {
     "name": "[별첨1] 해상풍력 맞춤형 보증지원 대상사업 확인(신청)서.hwpx",
@@ -35403,6 +37494,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122613",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "붙임3. 확약서.hwp",
@@ -35443,6 +37536,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122611",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "붙임3. 확약서.hwp",
@@ -35483,6 +37578,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122609",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "붙임2. 제출서식(양식).zip",
@@ -35515,6 +37612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122580",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "(붙임1)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -35551,6 +37650,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122564",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "2026년 기업 스마트 혁신지원단 운영사업 참여기업 모집공고.hwp",
@@ -35583,6 +37684,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122563",
+  "posted": "2026-05-29",
   "files": [
    {
     "name": "붙임. 천안 기술이전·가치평가 지원사업 참여기업 모집공고.hwpx",
@@ -35615,6 +37718,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122551",
+  "posted": "2026-05-28",
   "files": [
    {
     "name": "(붙임)서식집.hwp",
@@ -35647,6 +37752,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122497",
+  "posted": "2026-05-28",
   "files": [
    {
     "name": "[첨부1] 2026년 K-디지털 트레이닝(벤처유형) 사업 참여신청서.hwp",
@@ -35683,6 +37790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122492",
+  "posted": "2026-05-27",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -35715,6 +37824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122473",
+  "posted": "2026-05-27",
   "files": [
    {
     "name": "[붙임] 2026년 상반기 해양수산 연구장비 렌탈지원사업 공고문.hwp",
@@ -35743,6 +37854,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122470",
+  "posted": "2026-05-27",
   "files": [
    {
     "name": "2026년 인제군 중소기업 해외물류비 지원사업 지원금 신청서_양식.hwp",
@@ -35779,6 +37892,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122442",
+  "posted": "2026-05-27",
   "files": [
    {
     "name": "붙임2.__양식__기술코치_신청서.hwp",
@@ -35811,6 +37926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000122433",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "2. 2026년 유형별 특성화 지원 세부 내용 안내.pdf",
@@ -35847,6 +37964,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122428",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "붙임2. 참가신청서_2026년 콘텐츠 기업 노무 컨설팅 참가사 지원.hwp",
@@ -35879,6 +37998,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122420",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "개인정보 수집·제공·활용 동의서.hwp",
@@ -35919,6 +38040,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122418",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "2.-멘토링-신청서.hwp",
@@ -35959,6 +38082,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122409",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "「2026 신산업플러스 일자리창출 우수기업 지원사업」신청서식.hwp",
@@ -35991,6 +38116,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122394",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "붙임. 제출양식(KC인증).hwp",
@@ -36027,6 +38154,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122373",
+  "posted": "2026-05-26",
   "files": [
    {
     "name": "2026년+과천시+중소기업+및+소상공인+육성자금+이자차액보전+지원계획+변경공고문_서식포함.hwpx",
@@ -36059,6 +38188,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "반기별 상이",
+  "sid": "biz-PBLN_000000000122368",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "2026년 농업발전기금 융자사업 공고문_.pdf",
@@ -36087,6 +38218,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122357",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "2026년도_중소기업_경영애로_전문가_컨설팅기업_모집_공고문.hwpx",
@@ -36119,6 +38252,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122346",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "공고문(26년 상권 활성화).hwpx",
@@ -36147,6 +38282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000122333",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "2. 상세안내문 및 신청서식.zip",
@@ -36179,6 +38316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122332",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "DGIST 멘토링 가이드북_경제자유구역대상.pdf",
@@ -36211,6 +38350,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122327",
+  "posted": "2026-05-22",
   "files": [
    {
     "name": "3. [신청서] 2026년 경기도 31개 시군 일생활 균형 제도 도입 지원 컨설팅 신청서.hwp",
@@ -36247,6 +38388,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시까지",
+  "sid": "biz-PBLN_000000000122309",
+  "posted": "2026-05-21",
   "files": [
    {
     "name": "붙임2.+2026년+바이오+의료기기+해외진출지원+제로트러스트+기반+구축+참여기업+상시+지원+모집+신청서.hwp",
@@ -36283,6 +38426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122305",
+  "posted": "2026-05-21",
   "files": [
    {
     "name": "2026년도 소규모 사업장 방지시설 설치 지원 국고보조금 업무처리지침26.1월.pdf",
@@ -36315,6 +38460,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122268",
+  "posted": "2026-05-21",
   "files": [
    {
     "name": "[양식] 신청서_생물학적 시험평가인증 지원사업.hwp",
@@ -36351,6 +38498,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122255",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "붙임_신청서_활용계획서 등 각종서류.hwp",
@@ -36383,6 +38532,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122254",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "(시장_상점가명) 소속 점포 리스트(서식).xlsx",
@@ -36419,6 +38570,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122249",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "[공고문]+고유가+대응+수출기업+물류비+지원사업.hwp",
@@ -36451,6 +38604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122247",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "20260519_[공고문]+해외전시회+개별참가지원.hwpx",
@@ -36483,6 +38638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122238",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "2. 춘천시 지식재산 국내분쟁 비용지원 사업 신청서 등 첨부서류.hwpx",
@@ -36515,6 +38672,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122229",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "[세종창조경제혁신센터] 2026 창업-BuS in 세종 수요투자라운드(미니IR피칭) 신청 안내.pdf",
@@ -36543,6 +38702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122227",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "2026년 수출입 애로 중소기업 바우처 지원사업 공고.Zip",
@@ -36575,6 +38736,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122216",
+  "posted": "2026-05-20",
   "files": [
    {
     "name": "[4회기]+2026년+「직장문화개선+기업컨설팅」+참가신청서+및+신청기업+소개서.hwp",
@@ -36607,6 +38770,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122195",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "2026 신발산업 해외물류 바우처 지원사업 참가기업 모집공고 및 제출서식(지원확대).hwp",
@@ -36635,6 +38800,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122191",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "[공고문 및 작성서식]2026년 경북 소상공인 사회보험료 지원사업.hwp",
@@ -36663,6 +38830,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122174",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "붙임2. 2026년 블록체인 바우처 지원사업 수요기업 신청양식.hwp",
@@ -36699,6 +38868,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000122173",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "2026년_소상공인_온라인_쇼핑몰_기획전_참여_소상공인_모집_공고.hwp",
@@ -36731,6 +38902,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122168",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "작성서식.hwpx",
@@ -36763,6 +38936,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000122153",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "모집포스터.png",
@@ -36795,6 +38970,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122147",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "2026년 영업비밀·기술 보호 컨설팅 모집 공고문.hwp",
@@ -36839,6 +39016,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122145",
+  "posted": "2026-05-19",
   "files": [
    {
     "name": "2026 미래내일 일경험 카드뉴스.zip",
@@ -36875,6 +39054,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122136",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "(신청서식) 2026년 충청남도 1인 자영업자 고용보험료 지원사업.hwp",
@@ -36911,6 +39092,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122128",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "「2026년 울진군 소상공인 카드수수료 지원사업」신청서식.hwp",
@@ -36943,6 +39126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000122121",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "붙임1+수출실적+증명서+관련+안내사항.hwp",
@@ -36975,6 +39160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122104",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "홍보물(수정).png",
@@ -37003,6 +39190,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000122103",
+  "posted": "2026-05-18",
   "files": [
    {
     "name": "(공고문)+2026년+기술임치기업+보증용+기술가치평가+지원사업+공고.hwp",
@@ -37035,6 +39224,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122057",
+  "posted": "2026-05-15",
   "files": [
    {
     "name": "김포시 중소기업 긴급경영자금 지원계획 공고문.hwp",
@@ -37063,6 +39254,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000122045",
+  "posted": "2026-05-15",
   "files": [
    {
     "name": "붙임 2. (양식2) 2026년 기술·경영혁신 인증지원사업 신청서.hwp",
@@ -37103,6 +39296,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122026",
+  "posted": "2026-05-15",
   "files": [
    {
     "name": "2026년 소상공인 특례보증 지원 확대 계획 공고.pdf",
@@ -37131,6 +39326,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122024",
+  "posted": "2026-05-15",
   "files": [
    {
     "name": "2026년 중소기업 특례보증 지원 확대 계획 공고.pdf",
@@ -37159,6 +39356,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000122007",
+  "posted": "2026-05-14",
   "files": [
    {
     "name": "2026년 원산지 검증 대응 지원 컨설팅 참여신청서.hwp",
@@ -37191,6 +39390,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121980",
+  "posted": "2026-05-14",
   "files": [
    {
     "name": "붙임2_2026년 강릉시 지식재산 국내 분쟁 지원 사업 신청서.hwp",
@@ -37223,6 +39424,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121976",
+  "posted": "2026-05-14",
   "files": [
    {
     "name": "2026년_포천가산가구소공인특화지원센터_사업공고_및_신청서식(재공고).hwp",
@@ -37251,6 +39454,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121956",
+  "posted": "2026-05-13",
   "files": [
    {
     "name": "[제2026-105호] (국비)금형 디지털전환 지원사업 2026년 기술지도 공고문.hwp",
@@ -37279,6 +39484,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121945",
+  "posted": "2026-05-13",
   "files": [
    {
     "name": "한글버전시험평가_및_기술지도_관련_지원신청_서식(26년).zip",
@@ -37311,6 +39518,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121931",
+  "posted": "2026-05-13",
   "files": [
    {
     "name": "2026년 소상공인 경영전략 컨설팅 소상공인 지원신청서.hwp",
@@ -37351,6 +39560,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시",
+  "sid": "biz-PBLN_000000000121915",
+  "posted": "2026-05-13",
   "files": [
    {
     "name": "2026+광주기획전+입점+참여+소상공인+모집공고.hwp",
@@ -37379,6 +39590,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121892",
+  "posted": "2026-05-12",
   "files": [
    {
     "name": "붙임 2026년 해외공공조달 시장진출 지원사업 서식집.hwp",
@@ -37419,6 +39632,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121889",
+  "posted": "2026-05-12",
   "files": [
    {
     "name": "대전상공회의소 중소기업 PL보험료 지원 사업 공고문.hwp",
@@ -37447,6 +39662,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121888",
+  "posted": "2026-05-12",
   "files": [
    {
     "name": "중소기업 육성자금 지원계획 2차 변경 공고.hwpx",
@@ -37475,6 +39692,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121853",
+  "posted": "2026-05-12",
   "files": [
    {
     "name": "1. 2026 IT업종 임금체계 개선 컨설팅_지면 홍보물.pdf",
@@ -37503,6 +39722,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121852",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "인천지역기업 신용평가 지원사업 공고문.hwp",
@@ -37535,6 +39756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121849",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "신청서식.hwp",
@@ -37567,6 +39790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121840",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "붙임. 「2026년 중소기업 해외세일즈 개별 출장 지원」신청 서류 양식.hwp",
@@ -37599,6 +39824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121832",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "(별표) 업종코드-표준산업분류 연계표(홈택스).xlsx",
@@ -37635,6 +39862,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121819",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "붙임2-1._사업신청서_및_계획서__26년도-울산테크노파크.hwp",
@@ -37679,6 +39908,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121811",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "2) 제출서식(사업신청).hwpx",
@@ -37723,6 +39954,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121804",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "「2026년+자영업자+사회보험료+지원」모집+공고.hwp",
@@ -37755,6 +39988,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121799",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "(업체명) 상품기술서.xlsx",
@@ -37787,6 +40022,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121791",
+  "posted": "2026-05-11",
   "files": [
    {
     "name": "(1P)(포스터) 26년 KPC 중소중견기업 ESG 공급망실사.jpg",
@@ -37815,6 +40052,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121785",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "붙임1-2.(서식)2026년소규모밀착안전망구축사업참여신청서(건설).hwp",
@@ -37851,6 +40090,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121784",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "붙임 2. (신청서식) 참여기업 신청서식.zip",
@@ -37883,6 +40124,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집방식별 상이",
+  "sid": "biz-PBLN_000000000121771",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "★2026년+특허분쟁+대응전략+지원사업+공고문+붙임.zip",
@@ -37915,6 +40158,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121765",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "특성화고(일반기업) 참여기업 모집.pdf",
@@ -37943,6 +40188,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121762",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "2026 메인비즈 현장방문 맞춤 코칭.pdf",
@@ -37971,6 +40218,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121756",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "(서식2)_붙임_서식.hwp",
@@ -38007,6 +40256,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121749",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "2.(양식)기술지도수요조사서및개인정보수집이용동의서.hwp",
@@ -38039,6 +40290,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121736",
+  "posted": "2026-05-08",
   "files": [
    {
     "name": "2026년+관광객+유치+인센티브+지원+변경+계획+공고문.hwp",
@@ -38071,6 +40324,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121718",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "[참고] 디지털트윈 융합 의료혁신 선도사업_리플렛.pdf",
@@ -38111,6 +40366,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121702",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "2026년 강원특별자치도청 수출단체보험 안내문.hwp",
@@ -38143,6 +40400,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121697",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "[붙임2-2] 전략2 사업안내 포스터(QR).jpg",
@@ -38187,6 +40446,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121688",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "(제2026-343호) 2026년 중동피해 긴급지원 지사화사업 참여기업 모집 공고문(수정공고)_260504+.pdf",
@@ -38215,6 +40476,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000121681",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "2026년+첫걸음입점+광주소상공인+지원사업+모집공고.hwp",
@@ -38243,6 +40506,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121678",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38275,6 +40540,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121677",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "ESG 경영 컨설팅 지원사업 (충청남도 소재 기업) 참여기업 모집 공고.jpg",
@@ -38307,6 +40574,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121676",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "마케팅 지원사업(충청남도 소재 기업) 참여기업 모집 공고.jpg",
@@ -38343,6 +40612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121671",
+  "posted": "2026-05-07",
   "files": [
    {
     "name": "붙임2. 신청서 및 개인정보동의서.hwp",
@@ -38379,6 +40650,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121664",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "2026년_IP투자연계_지식재산평가_지원사업_재공고_최종_hwp.hwp",
@@ -38411,6 +40684,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121646",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38443,6 +40718,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000121635",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "[서식] 부산 지역 기업 온라인 입점지원 신청서식 및 개인정보 수집 활용 동의서.hwp",
@@ -38475,6 +40752,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "수시모집",
+  "sid": "biz-PBLN_000000000121634",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "2.-2026년-창업-멘토링-희망기업_제출서류.hwp",
@@ -38511,6 +40790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121631",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "붙임. (기업용)기술닥터제 컨설팅 참여기업 신청 양식(2026).hwp",
@@ -38539,6 +40820,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000121617",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "2026년 우수제품 지정 계획 변경 공고(1차).hwpx",
@@ -38567,6 +40850,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121614",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "2026년광주광역시스마트공장지원계획공고문_260430.pdf",
@@ -38595,6 +40880,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000121611",
+  "posted": "2026-05-06",
   "files": [
    {
     "name": "2026년 EU CBAM 대응 기업지원 컨설팅 2차 모음.zip",
@@ -38627,6 +40914,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121593",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "2026년「충남형 공산품 온라인 판로지원」사업 참가기업 모집 공고.pdf",
@@ -38655,6 +40944,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121591",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "1. 신청서식.zip",
@@ -38687,6 +40978,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121568",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38719,6 +41012,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121567",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38751,6 +41046,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121565",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38783,6 +41080,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121563",
+  "posted": "2026-05-04",
   "files": [
    {
     "name": "(붙임2)「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38815,6 +41114,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121520",
+  "posted": "2026-04-30",
   "files": [
    {
     "name": "붙임1. 「2026년 경상북도 소상공인 카드수수료 지원사업」 지원 제한 업종 목록.pdf",
@@ -38851,6 +41152,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "지원분야별 상이",
+  "sid": "biz-PBLN_000000000121501",
+  "posted": "2026-04-30",
   "files": [
    {
     "name": "2026년 비즈니스 경쟁력 강화지원 서식자료.zip",
@@ -38883,6 +41186,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121480",
+  "posted": "2026-04-30",
   "files": [
    {
     "name": "★ 2026년 TV홈쇼핑 및 데이터홈쇼핑 입점지원사업 소상공인 모집공고문.hwp",
@@ -38915,6 +41220,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121467",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "「2026년 포항시 소상공인 카드수수료 지원사업」신청서식.hwp",
@@ -38947,6 +41254,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121466",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "붙임2. (양식) 2026년 경산시 중소기업 기숙사 임차비 지원사업 신청서.hwp",
@@ -38979,6 +41288,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121444",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "2. [군포산업진흥원] 품질경쟁력 강화 지원사업 신청서 양식.hwp",
@@ -39011,6 +41322,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121442",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "(붙임)2026 인천 소규모 제조업 중대재해 예방 안전조치 지원사업 모집 공고문 및 신청서식_260427.hwp",
@@ -39039,6 +41352,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "지원분야별 상이",
+  "sid": "biz-PBLN_000000000121426",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "붙임2_『3-2+기업집적지+현장캠퍼스+운영』_BIT융합캠퍼스+2026년도+BIT융합+프로젝트랩+지원신청서.hwpx",
@@ -39079,6 +41394,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121425",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "(서식)「2026년 구미시 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39111,6 +41428,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121424",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "[붙임2] 2026년 고령군 지역발전 우수기업 환경개선 사업 신청 서식.hwpx",
@@ -39143,6 +41462,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121421",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "(붙임)「2026년 경상북도 소상공인 카드수수료 지원사업」 사업 신청 양식.hwp",
@@ -39179,6 +41500,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121417",
+  "posted": "2026-04-29",
   "files": [
    {
     "name": "포스터_260423.png",
@@ -39219,6 +41542,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "지원분야별 상이",
+  "sid": "biz-PBLN_000000000121411",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "(서식) 울주군 강소기업 육성 기술 혁신 지원사업.hwp",
@@ -39251,6 +41576,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121397",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "지원신청서 및 사업계획서(양식).hwp",
@@ -39283,6 +41610,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121392",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "2026 충북식품 근로자 및 기업 고용안정 지원사업 신청 서식.hwp",
@@ -39319,6 +41648,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121390",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "2026년_김포시_사물인터넷(IoT)_측정기기_부착_지원사업_2차_공고_자료.zip",
@@ -39351,6 +41682,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121366",
+  "posted": "2026-04-28",
   "files": [
    {
     "name": "제주+소상공인·자영업자+재기지원사업+붙임+서류.hwp",
@@ -39387,6 +41720,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121338",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 상주시 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39419,6 +41754,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121336",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 칠곡군 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39451,6 +41788,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121334",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 의성군 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39483,6 +41822,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121330",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 성주군 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39515,6 +41856,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121328",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 김천시 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39547,6 +41890,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121327",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "[서식] 「2026년 상주형 일자리 공감페이 지원사업」 신청서식 .hwpx",
@@ -39579,6 +41924,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121326",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 고령군 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39611,6 +41958,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121325",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(서식)「2026년 경산시 소상공인 카드수수료 지원사업」 신청 양식.hwp",
@@ -39643,6 +41992,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121314",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(붙임)「2026년 포항시 일자리 공감페이(Pay)」 신청서(양식).hwp",
@@ -39675,6 +42026,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121311",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "[사업신청서]융복합가전산업고용안착활성화지원서식및제출서류.hwp",
@@ -39711,6 +42064,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시 까지",
+  "sid": "biz-PBLN_000000000121291",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "(제2026-302호)_2026년_비즈니스지원단(현장클리닉)_사업_운영계획_공고.hwpx",
@@ -39743,6 +42098,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121285",
+  "posted": "2026-04-27",
   "files": [
    {
     "name": "2026년_청년_일경험_지원사업_시행지침(고용노동부).pdf",
@@ -39775,6 +42132,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121268",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "(공고문)2026년_인천형_특별경영안정자금_하나은행협업_지원.pdf",
@@ -39803,6 +42162,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121254",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "[붙임 1] 사업신청서.hwpx",
@@ -39843,6 +42204,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시 까지",
+  "sid": "biz-PBLN_000000000121247",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "(수혜)2026년 3D프린팅 모형설계 및 후가공 지원사업 수혜기업 모집공고.hwp",
@@ -39871,6 +42234,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121243",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "★2026년 울산광역시 중소기업 AI인프라 육성자금 계획 변경 공고.hwp",
@@ -39903,6 +42268,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료 시",
+  "sid": "biz-PBLN_000000000121239",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "[붙임1]전북산업체애로기술해결을위한기술자문참여기업모집공고문.pdf",
@@ -39931,6 +42298,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집규모 충족시",
+  "sid": "biz-PBLN_000000000121231",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "「2026+디지털콘텐츠+홍보지원」+소상공인+SNS+블로그+마케팅+지원+참여소상공인+모집공고.hwp",
@@ -39963,6 +42332,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시 까지",
+  "sid": "biz-PBLN_000000000121226",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "ICT융합_스마트공장_보급확산_사업__상생형_제조AX선도모델(추경)__주관기관_모집_공고문.pdf",
@@ -39991,6 +42362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121221",
+  "posted": "2026-04-24",
   "files": [
    {
     "name": "(포스터)_2026 중동상황 대응 물류지원금 지원사업.png",
@@ -40039,6 +42412,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121214",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "신청서식_2026년도+광주·호남권+거점기업+육성+금융지원.hwp",
@@ -40071,6 +42446,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000121208",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "(2026-301호) 2026년 지사화사업 참여기업 모집 공고(재수정공고)(260417)+.pdf",
@@ -40099,6 +42476,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121198",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "2.(붙임1~4)2026년 온라인쇼핑몰 판매지원 입점 신청서 등.hwp",
@@ -40131,6 +42510,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121195",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "(안내문) 2026년 청년일자리도약장려금 사업.hwp",
@@ -40163,6 +42544,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121194",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "2. 26년 고성군 지식재산창출 지원사업 공고문 및 양식.zip",
@@ -40195,6 +42578,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121193",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "1. 26년 소상공인 지원사업 공고문 및 양식.zip",
@@ -40227,6 +42612,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121191",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "2026년 산업 분야 온실가스 국제감축사업 공고문.hwpx",
@@ -40255,6 +42642,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121182",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "「2026년+희망리턴패키지+재기사업화(경영개선)+위기+소상공인+진단·멘토링+지원」+소상공인+모집공고+.pdf",
@@ -40283,6 +42672,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121175",
+  "posted": "2026-04-23",
   "files": [
    {
     "name": "2026년_스타트업_법률지원사업_참여기업_모집_공고(수정).pdf",
@@ -40315,6 +42706,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121165",
+  "posted": "2026-04-22",
   "files": [
    {
     "name": "(변경 공고문) 「제주항 화물유치 지원사업」 참여기업 모집.hwpx",
@@ -40343,6 +42736,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121148",
+  "posted": "2026-04-22",
   "files": [
    {
     "name": "창업의 꿈 울산이 이루어드림 모집 공고(안).hwp",
@@ -40375,6 +42770,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121145",
+  "posted": "2026-04-22",
   "files": [
    {
     "name": "붙임1-1.「2026년 영천시 중소기업 기숙사 임차비 지원사업」 참여신청 서식(전체).hwp",
@@ -40407,6 +42804,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121134",
+  "posted": "2026-04-22",
   "files": [
    {
     "name": "2026년 광주 소상공인 주치의센터 컨설팅 참여업체 모집공고.hwp",
@@ -40435,6 +42834,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "2026년 4월 ~ 예산 소진시까지",
+  "sid": "biz-PBLN_000000000121131",
+  "posted": "2026-04-22",
   "files": [
    {
     "name": "[공고문] 2026년 「일터동행 기업 파트너십」 참여기업 모집(신청서 양식 포함).hwp",
@@ -40463,6 +42864,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 완료시",
+  "sid": "biz-PBLN_000000000121103",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "붙임. 「2026년 경주시 온라인 플랫폼 판로지원」온라인 기획전 참가신청 양식.hwp",
@@ -40495,6 +42898,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121099",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "붙임 1. 참여기업참가신청서(채용연계교육).hwp",
@@ -40531,6 +42936,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121098",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "(전동화+전력반도체+일괄공정+테스트베드+구축사업)+기업지원(1차)+모집+공고문.hwp",
@@ -40559,6 +42966,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121076",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "(붙임1)_업종별_중소기업_규모_기준.pdf",
@@ -40603,6 +43012,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121068",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "2026년도 단체관광객 유치 여행사 인센티브 지원 공고.hwp",
@@ -40635,6 +43046,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121063",
+  "posted": "2026-04-21",
   "files": [
    {
     "name": "GMR-2026-015-2026년_경기도_소상공인_사업정리_지원사업_모집공고문_v2.hwp",
@@ -40663,6 +43076,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121039",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "[붙임] 2026년 충청북도 기숙사임차비지원사업 신청서식(괴산군).hwp",
@@ -40699,6 +43114,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000121025",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "[공고문] 2026 엔지니어링 지원사업_공고문+.pdf",
@@ -40727,6 +43144,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000121003",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "공고-2026-21호-붙임-2026년-수출패키징-지원사업-모집-공고_F.hwp",
@@ -40759,6 +43178,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000121002",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "★ 공고개요 업로드용 IMG.jpg",
@@ -40795,6 +43216,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000121001",
+  "posted": "2026-04-20",
   "files": [
    {
     "name": "소상공인 포장재 구입비 긴급 지원사업 공고문.pdf",
@@ -40823,6 +43246,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120976",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "[서식]+신청서_종합.hwp",
@@ -40859,6 +43284,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120964",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "「2026년 경주시 중소기업 화재보험료 지원사업」 참여신청 서식.hwp",
@@ -40891,6 +43318,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120957",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "붙임1.2026년 강릉시 수출기업 홍보 웹사이트 입점 신청서_양식.hwp",
@@ -40935,6 +43364,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000120946",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "붙임2. 「2026년 전남 창업 BuS」 참여기업 참가 신청서 각 1부.hwp",
@@ -40967,6 +43398,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120944",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "2026년 소상공인 신규채용 인건비 지원사업 공고문.hwpx",
@@ -41003,6 +43436,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120933",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "대야기계장비 소공인특화지원센터 자율사업 통합모집공고_세부사업서식.Zip",
@@ -41039,6 +43474,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120919",
+  "posted": "2026-04-17",
   "files": [
    {
     "name": "붙임2. [상세안내문]플러스 고용활력 프로젝트.pdf",
@@ -41079,6 +43516,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120905",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "(신청서)2026년중소기업녹색인증컨설팅지원사업참여기업모집공고_붙임1-6.hwp",
@@ -41111,6 +43550,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120904",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "2026년 강원특별자치도 중소기업육성자금 신청서식(변경공고).hwp",
@@ -41143,6 +43584,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120903",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "2. 2026년도 OK FTA 컨설팅 사업 신청 제출서류.hwp",
@@ -41175,6 +43618,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120897",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "수산가공제품 박람회 참가 지원사업 공고.hwp",
@@ -41203,6 +43648,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120894",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "붙임 1. 디지털 품질 테스팅 및 컨설팅 신청서_강원지역.hwp",
@@ -41239,6 +43686,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120889",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "2026년 소상공인 융자금 이차보전 지원사업 정정 공고문.hwp",
@@ -41267,6 +43716,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120877",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "26년 소공인 컨설팅 지원사업 공고문.hwp",
@@ -41299,6 +43750,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120871",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "붙임 1. 2026년 초거대 AI 기술 컨설팅 신청서.hwp",
@@ -41335,6 +43788,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부프로그램별 상이",
+  "sid": "biz-PBLN_000000000120866",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "붙임.+(부산형+연구플랫폼+활성화지원)+기업지원+모집+공고문(안)_.hwp",
@@ -41367,6 +43822,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000120865",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "2026년도 한이스라엘 국제공동기술개발사업 통합 공고.hwpx",
@@ -41399,6 +43856,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120863",
+  "posted": "2026-04-16",
   "files": [
    {
     "name": "참고.일경험_운영계획서_예시.zip",
@@ -41439,6 +43898,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120843",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "2026 아산시 단체관광객 유치 인센티브 지원 계획 공고(안).hwpx",
@@ -41471,6 +43932,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000120829",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "★2026년 울산광역시 소상공인 재기지원자금 긴급 융자지원계획 공고.hwp",
@@ -41499,6 +43962,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000120828",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "★2026년 2차 울산광역시 소상공인 경영안정자금 융자 긴급 융자지원계획 공고.hwp",
@@ -41527,6 +43992,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120825",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "중동 상황 대응 긴급 수출물류비 사업 대상 모집 공고.hwp",
@@ -41559,6 +44026,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120822",
+  "posted": "2026-04-15",
   "files": [
    {
     "name": "[공고문] 2026년 영천기업 연구시설장비 바우처 지원사업 공고문 및 신청서 등.hwp",
@@ -41587,6 +44056,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120805",
+  "posted": "2026-04-14",
   "files": [
    {
     "name": "2026년+해외+세일즈출장+및+바이어초청+지원사업+신청서+등+관련서식.hwp",
@@ -41619,6 +44090,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120786",
+  "posted": "2026-04-14",
   "files": [
    {
     "name": "2026년+『컨설팅+지원사업』+모집공고문+및+사업신청서.hwp",
@@ -41651,6 +44124,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120780",
+  "posted": "2026-04-14",
   "files": [
    {
     "name": "(공고문) 2026년_통상변화대응지원사업_참여기업_모집_공고.hwpx",
@@ -41679,6 +44154,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120715",
+  "posted": "2026-04-13",
   "files": [
    {
     "name": "중동사태 관련 2026년 광주광역시 소상공인 특례보증 리플릿.jpg",
@@ -41707,6 +44184,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120707",
+  "posted": "2026-04-13",
   "files": [
    {
     "name": "(양식) 스타트업 제작센터 참여기업 신청서.hwp",
@@ -41739,6 +44218,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120698",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "시니어인턴십 홍보물_(주)아이피시 관악지사.png",
@@ -41767,6 +44248,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120684",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "식품진흥기금 융자사업 신청서식.hwp",
@@ -41799,6 +44282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120681",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "신청양식.zip",
@@ -41831,6 +44316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120673",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "2026-10_공고001.jpg",
@@ -41867,6 +44354,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120653",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "2026년+K-브랜드분쟁+대응전략+지원사업+공고+붙임자료.zip",
@@ -41899,6 +44388,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120639",
+  "posted": "2026-04-10",
   "files": [
    {
     "name": "2026년+소상공인+불공정거래+피해구제+지원+시행공고.pdf",
@@ -41927,6 +44418,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120635",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "[서식]+2026년+대구+마을기업+수요+맞춤형+지원사업.hwp",
@@ -41959,6 +44452,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120620",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "붙임2. 2026년 SW IP(지식재산권) 평가보증 지원사업 안내문.pdf",
@@ -41995,6 +44490,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120618",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "2026년 충주시 중소기업육성기금 지원계획 변경 공고문.hwpx",
@@ -42023,6 +44520,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120608",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "신청서식_2026년 컨설팅.hwp",
@@ -42059,6 +44558,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120604",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "신청서식_2026 구미시 중소기업 신용보증수수료 지원사업.hwp",
@@ -42091,6 +44592,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120603",
+  "posted": "2026-04-09",
   "files": [
    {
     "name": "[붙임1] 에너지이용합리화사업을 위한 자금지원 지침.hwp",
@@ -42127,6 +44630,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000120549",
+  "posted": "2026-04-08",
   "files": [
    {
     "name": "[서식] 2026년 항노화기업 천연물소재화 지원사업 지원서류.hwp",
@@ -42163,6 +44668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120527",
+  "posted": "2026-04-08",
   "files": [
    {
     "name": "붙임 2. 지원 신청서.hwpx",
@@ -42199,6 +44706,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120516",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "(공고문)+현장솔루션+랩(lab)+참여기업+모집+공고.hwp",
@@ -42231,6 +44740,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120514",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "붙임3_중소기업 해외지사화 지원사업 신청서식(2026).hwp",
@@ -42263,6 +44774,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120512",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "2026년 울산광역시 통상변화 대응 중소기업 육성자금 지원 변경 공고문.hwp",
@@ -42295,6 +44808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120509",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "붙임4. (포스터) 2026년 충남 혁신기업 기술창업 활성화 지원사업 모집 공고.pdf",
@@ -42335,6 +44850,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120506",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "(양식) 대전 소상공인·자영업자 재기지원(컨설팅+경영개선) 신청서(붙임1~4).hwp",
@@ -42375,6 +44892,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120495",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "(신청서) 전기·수소차 분야 수요기술 발굴 및 기술멘토링 지원사업.hwp",
@@ -42407,6 +44926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120487",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "참여신청서.hwp",
@@ -42439,6 +44960,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120484",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "참여신청서.hwp",
@@ -42471,6 +44994,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000120482",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "2. 입찰참가자격(회원가입) 매뉴얼.hwp",
@@ -42511,6 +45036,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120481",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "2026년 김포시 중소기업 육성자금 지원계획 공고문.hwp",
@@ -42539,6 +45066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120468",
+  "posted": "2026-04-07",
   "files": [
    {
     "name": "2026년 국내외 우수 물기술 인검증 지원사업 참여기업 모집공고문.hwpx",
@@ -42571,6 +45100,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000120444",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "과정별 공고문 및 제출서류 양식_수정.zip",
@@ -42603,6 +45134,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120443",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "1. (KOTRA) 2026 충청남도 해외지사화 참가비 지원사업 안내 공고.hwp",
@@ -42643,6 +45176,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120423",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "붙임2. 기술 자문과제_서식 일체2026_수정.hwp",
@@ -42675,6 +45210,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120422",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "2026년+경상남도+중소기업육성자금+특별자금(이란사태+피해+관련)+지원계획+공고(수정).hwp",
@@ -42703,6 +45240,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120418",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "[붙임2]신청서식일체.hwp",
@@ -42735,6 +45274,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120414",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -42767,6 +45308,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120411",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "참여기업 신청서류.zip",
@@ -42799,6 +45342,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120406",
+  "posted": "2026-04-06",
   "files": [
    {
     "name": "별첨1 팁스운영사 현황.hwp",
@@ -42843,6 +45388,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120389",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "포스터_수출입 컨설팅.jpg",
@@ -42875,6 +45422,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120388",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "자동차 부품업종 안전관리 인력 고용지원사업 참여기업 모집공고.hwp",
@@ -42903,6 +45452,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120386",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "자동차 부품업종 미래인재 일경험 지원사업 참여기업 모집공고.hwp",
@@ -42931,6 +45482,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120385",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "자동차 부품업종 근로자 지역정착 지원사업 참여기업 모집공고.hwp",
@@ -42963,6 +45516,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120342",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "(붙임2) 2026년도 컨설팅 지원사업 시행계획 공고 첨부서식.hwp",
@@ -42995,6 +45550,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000120334",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "[붙임] 퍼스널케어 상품경쟁력강화 관련서식.zip",
@@ -43027,6 +45584,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120329",
+  "posted": "2026-04-03",
   "files": [
    {
     "name": "가족친화인증제도_소개.pdf",
@@ -43067,6 +45626,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120323",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "2026년도 OK FTA 컨설팅 지원사업 신청서식(1~4).hwp",
@@ -43099,6 +45660,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120318",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "(유형Ⅱ)2026년+해외물류비+지원사업+신청서+등+관련서식.hwp",
@@ -43135,6 +45698,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120312",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "붙임1. 국가배터리순환클러스터 실증화시설 사용자 모집공고문.hwp",
@@ -43163,6 +45728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000120306",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "2. 참가신청서.hwpx",
@@ -43195,6 +45762,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120303",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "2026년 강원특별자치도 수출보험료 지원사업 정보제공동의서.hwp",
@@ -43227,6 +45796,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120282",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "붙임 2. 2026년 장애인기업 공공판로 컨설팅 지원사업 신청서.hwp",
@@ -43259,6 +45830,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120275",
+  "posted": "2026-04-02",
   "files": [
    {
     "name": "2026년-해외진출-지원사업-포스터.jpg",
@@ -43291,6 +45864,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120268",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "2026년 원주시 소상공인 경영안정자금 지원 사업 공고 （변경 260327）.hwp",
@@ -43319,6 +45894,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000120262",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "1. 2026년 노사문화 우수기업·대상 선정 계획(최종).hwp",
@@ -43359,6 +45936,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120252",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "2026-727_2026-727 2026년 제1차 경기도 중소기업육성자금 융자지원계획 변경 공고문.hwpx",
@@ -43387,6 +45966,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120250",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "(붙임1)가족친화경영컨설팅 신청서(서식).hwp",
@@ -43427,6 +46008,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120241",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "공고문(2단계).hwp",
@@ -43459,6 +46042,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120238",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "(붙임1)서식집.hwp",
@@ -43491,6 +46076,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120234",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "○ 2026년도 청년창업특례보증 공고문+.pdf",
@@ -43519,6 +46106,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120233",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "중소기업 수출보험료 지원사업 신청안내.hwp",
@@ -43547,6 +46136,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120219",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "첨부2. 2026년 기술확보지원사업 신청서류.hwp",
@@ -43579,6 +46170,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120215",
+  "posted": "2026-04-01",
   "files": [
    {
     "name": "신청서_2026년 산업일자리전환 컨설팅_KSA.hwp",
@@ -43615,6 +46208,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120187",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "★2026년 서울특별시 수출보험(보증)료 지원사업 수정 공고.hwp",
@@ -43647,6 +46242,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120185",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "제출서류 목록(1~11번).zip",
@@ -43679,6 +46276,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120177",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "2026-699_2026-699_경기도-IBK기업은행 협약에 따른 2026년 경기도 중소기업육성자금 융자지원계획 변경 공고+.pdf",
@@ -43707,6 +46306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120174",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "2026년+우리동네+크라우드펀딩+지원사업+소상공인+모집공고문.pdf",
@@ -43735,6 +46336,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120170",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "2026년_중소기업_기술분쟁_소송보험_지원사업_공고.pdf",
@@ -43763,6 +46366,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120166",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "2026+소상공인+건강검진+지원사업+공고문.hwp",
@@ -43791,6 +46396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120164",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "(제출서류 서식) 2026년 중소기업제품전용판매장(면세장)_참여신청서식 3종.zip",
@@ -43823,6 +46430,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120159",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "서식  찾아가는 노무서비스 지원.hwp",
@@ -43859,6 +46468,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120158",
+  "posted": "2026-03-31",
   "files": [
    {
     "name": "2026년 양주시 중소기업 및 소상공인 운전자금 이차보전 지원 공고문.hwp",
@@ -43887,6 +46498,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120138",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "(별첨)_중소기업_지원대상_업종_안내.pdf",
@@ -43923,6 +46536,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120135",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "2026년+하남산업단지+중소기업+보증료+지원신청서+등(서식1~3).hwp",
@@ -43955,6 +46570,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120134",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "(붙임)2026년+평동산업단지+중소기업+보증료+지원사업.hwp",
@@ -43987,6 +46604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120123",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "(양식)참여인력 업무수행 계획서.hwp",
@@ -44027,6 +46646,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120117",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "[서식]+LIPS+프로그램+운영사+투자제안서+및+사업계획서.hwp",
@@ -44063,6 +46684,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000120113",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "중소기업 전파 공동엔지니어링랩 운영지원 사업_본문출력파일.hwp",
@@ -44091,6 +46714,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120107",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "2026년 중소기업종합지원시스템 컨설팅 참여 기업 모집공고.pdf",
@@ -44119,6 +46744,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120102",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "중동 분쟁 대응 수출입기업 긴급경영안정자금 지원계획 변경 공고문.hwp",
@@ -44151,6 +46778,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120097",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "2.+2026년+데이터+품질인증+지원사업+공모안내서.hwp",
@@ -44195,6 +46824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120091",
+  "posted": "2026-03-30",
   "files": [
    {
     "name": "붙임+2.++(서식)+서비스+컨설팅+사업신청서(정보동의서+등)+1부.hwpx",
@@ -44227,6 +46858,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120083",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "2.+2026년+데이터+가치평가+지원사업+공모안내서.hwp",
@@ -44267,6 +46900,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120062",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "2026년 충청북도 긴급 운전자금 융자(이차보전) 지원계획 공고문.hwp",
@@ -44299,6 +46934,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120058",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "[2026년 일터혁신 상생컨설팅] 한국표준협회 3단 팜플렛.pdf",
@@ -44331,6 +46968,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120054",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "2026년도+중소유통업+시설투자+및+운전자금+융자지원계획+공고+(최종).hwp",
@@ -44359,6 +46998,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120033",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "붙임. 「2026년 중소기업 통번역 지원」신청 서류 양식.hwp",
@@ -44391,6 +47032,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120031",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "(붙임2)청년큐브 창업멘토링 신청서.hwp",
@@ -44423,6 +47066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120023",
+  "posted": "2026-03-27",
   "files": [
    {
     "name": "공고문(26.3.18.).hwp",
@@ -44451,6 +47096,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000120009",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "(붙임1)가족친화경영컨설팅 신청서(서식).hwp",
@@ -44491,6 +47138,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 마감",
+  "sid": "biz-PBLN_000000000120006",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "공고문(2026-902 2026년 노동환경개선컨설팅).hwpx",
@@ -44519,6 +47168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119999",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "[양식] 「인천창조경제혁신센터 창업-BuS」 프로그램 참가 신청서.hwp",
@@ -44551,6 +47202,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119988",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "(서식 제1호) 경영자문 신청서.hwp",
@@ -44591,6 +47244,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119983",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "경북FTA활용지원사업 운영지침.pdf",
@@ -44631,6 +47286,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119981",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "[공고 및 신청서류] 휴폐업 사업주형_새출발 재기지원 사업정리비 및 교육 지원.hwp",
@@ -44659,6 +47316,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119978",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "2026년도 OK FTA 컨설팅 사업 참여 신청서.hwp",
@@ -44695,6 +47354,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119976",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "붙임1_2026년 해양수산 연구 시설 장비 사용료 지원사업 _공고문_홈페이지용 (1).pdf",
@@ -44723,6 +47384,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119967",
+  "posted": "2026-03-26",
   "files": [
    {
     "name": "[붙임2] 2026 게임인재 맞춤형 인턴십 지원사업 사업안내서.hwp",
@@ -44759,6 +47422,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119957",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "『2026 부산 기계·부품·철강산업 숙련기술자 고용안정 지원사업』포스터.jpg",
@@ -44791,6 +47456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119953",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "2026 제조산업 산업전환을 통한 혁신성장 지원사업 홍보물.jpg",
@@ -44827,6 +47494,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119951",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "「2026 부산 관광·마이스 그로우업(Grow-Up) 지원사업」 포스터.jpg",
@@ -44859,6 +47528,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119946",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "참여기업+컨설팅+신청서.hwpx",
@@ -44891,6 +47562,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119941",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "2026 해외지사화 활용 지원사업 포스터.jpg",
@@ -44923,6 +47596,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119938",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "★ 2026년 농식품 기술평가 지원사업 참여업체 모집공고.hwp",
@@ -44951,6 +47626,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119919",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "2026년_IP담보대출연계_지식재산평가_지원사업_공고_최종(260226).hwp",
@@ -44983,6 +47660,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119918",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "2026년_IP보증연계_지식재산평가_지원사업_공고.pdf",
@@ -45011,6 +47690,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119910",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "정보보호제품 신속확인 신규 제품 지원사업 신청서 및 설문지.hwpx",
@@ -45043,6 +47724,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119904",
+  "posted": "2026-03-25",
   "files": [
    {
     "name": "붙임 2. 방사광가속기 활용 지원프로그램 참가신청서(서식).hwp",
@@ -45075,6 +47758,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119892",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "(신청서식)2026년 대구광역시 중소기업경영안정자금신청서 및 정보활용동의서 서식(변경).hwp",
@@ -45107,6 +47792,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119891",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "2026년 식품제조업소 식품박람회 참가 지원 사업 참여업소 모집 공고.hwp",
@@ -45135,6 +47822,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119881",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "2026년 어업활동지원 사업 대상자 모집 공고.hwp",
@@ -45163,6 +47852,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119879",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "2026년 태백시 중소기업 해외물류비 지원사업 공고안.hwp",
@@ -45191,6 +47882,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119852",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "신청서(경북).hwpx",
@@ -45223,6 +47916,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119851",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "신청서(안동).hwpx",
@@ -45255,6 +47950,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119850",
+  "posted": "2026-03-24",
   "files": [
    {
     "name": "26년 청년일자리도약장려금 안내지_종로여성인력개발센터.png",
@@ -45287,6 +47984,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119836",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "신청서식_2026년도 상반기 구조고도화자금 지원.hwp",
@@ -45319,6 +48018,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119834",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "☆2026년도 벤처기업육성자금 공고문.hwp",
@@ -45347,6 +48048,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119825",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "북소e몰+입점+신청서(양식).hwp",
@@ -45379,6 +48082,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119822",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "[서식 2] 개인정보 및 기업정보 수집 이용 제공동의서.hwp",
@@ -45415,6 +48120,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119817",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "[붙임2] 2026년 창업BuS 프로그램 참가신청서 및 개인정보 이용동의서(양식).hwp",
@@ -45447,6 +48154,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119809",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "공고문(2026년 중국시장 안심수출 지원사업).hwp",
@@ -45475,6 +48184,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119802",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "260320_소상공인(법인사업자)_비즈플러스카드_지원사업_시행_공고★.hwpx",
@@ -45507,6 +48218,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119801",
+  "posted": "2026-03-23",
   "files": [
    {
     "name": "260320_소상공인(개인사업자)_비즈플러스카드_지원사업_시행_공고★.hwpx",
@@ -45539,6 +48252,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119795",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "2026년 청년일자리도약장려금 사업.png",
@@ -45567,6 +48282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119791",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "(서식) 지원신청서 변경 신청서 지원금 청구서.hwp",
@@ -45611,6 +48328,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000119764",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "2026년_중소기업_기술혁신_지원사업(KOSBIR)_통합공고.hwpx",
@@ -45643,6 +48362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000119754",
+  "posted": "2026-03-20",
   "files": [
    {
     "name": "2026년_팁스_창업기업_지원계획_수정_공고.pdf",
@@ -45675,6 +48396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000119739",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "(참고) 소상공인 온라인판로 지원사업 세부관리지침.hwp",
@@ -45707,6 +48430,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119738",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "붙임2. 2026년 용인 IP지원센터 IP 컨설팅(찾아가는 컨설팅) 사업 신청서.hwp",
@@ -45739,6 +48464,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000119737",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "붙임1. 기술보호데스크 신청서류.hwp",
@@ -45775,6 +48502,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119733",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "(서식) 울주군 강소기업 육성 기술 혁신 지원사업.hwp",
@@ -45807,6 +48536,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000119727",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "(공고문)2026년+중소기업+빅데이터+분석+활용+지원사업+참가기업+모집.hwp",
@@ -45835,6 +48566,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119719",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "[붙임1] 2026년 소상공인 출산 지원사업 참여자 모집공고.pdf",
@@ -45863,6 +48596,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119706",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "[환산협공고 제2026-09호] 「2026년 퇴직전문가 중소기업 기술지원」 참여기업 모집 공고문.hwp",
@@ -45891,6 +48626,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119698",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "[기업 안내서] 2026년 「시니어 인턴십」 기업 안내서_20260330.pdf",
@@ -45931,6 +48668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119694",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "3. 2026 미스터리쇼퍼 포스터.png",
@@ -45963,6 +48702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119693",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "붙임 1. R&D기획 컨설팅 신청서.hwp",
@@ -45995,6 +48736,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119692",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "2026년도_중동_특화_긴급_물류바우처_사업_참여기업_수정공고.pdf",
@@ -46027,6 +48770,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119686",
+  "posted": "2026-03-19",
   "files": [
    {
     "name": "[필수2] 라이트잡 근로자의 개인정보제공동의서.hwp",
@@ -46071,6 +48816,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119677",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "2026 일터혁신 상생컨설팅(세로형).pdf",
@@ -46099,6 +48846,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119669",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "원산지확인서 3자확인 컨설팅 신청서(2026년).hwp",
@@ -46143,6 +48892,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119668",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "상인회 등록 및 골목형상점가 지정 제출서류 양식.hwp",
@@ -46175,6 +48926,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119666",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "2026년 FTA 컨설팅사업 수행전문가 POOL_.pdf",
@@ -46219,6 +48972,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119636",
+  "posted": "2026-03-18",
   "files": [
    {
     "name": "★_2026년_중소기업육성자금_지원계획_변경_공고문.hwp",
@@ -46247,6 +49002,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119595",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "2026 자율선택형 해외진출 패키지 지원사업 모집공고문.hwp",
@@ -46275,6 +49032,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119588",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "공고문(신청서 포함)_2026년 해외시장조사서비스 및 해외비지니스출장지원사업.hwp",
@@ -46303,6 +49062,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119584",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "붙임2.공동활용장비현황_총224대.pdf",
@@ -46335,6 +49096,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119572",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "2026 김해시 통합쇼핑몰 김해온몰 입점업체 모집 공고문 및 신청서.hwp",
@@ -46363,6 +49126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119571",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "26년 신규 참여기업 안내 리플렛.png",
@@ -46395,6 +49160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119555",
+  "posted": "2026-03-17",
   "files": [
    {
     "name": "2-1.참여기업 모집 포스터(시니어).png",
@@ -46423,6 +49190,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119518",
+  "posted": "2026-03-16",
   "files": [
    {
     "name": "붙임2.[서식1]지원신청서양식.hwp",
@@ -46463,6 +49232,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119515",
+  "posted": "2026-03-16",
   "files": [
    {
     "name": "★2026년도_M&A_활성화_지원사업_공고.pdf",
@@ -46495,6 +49266,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119499",
+  "posted": "2026-03-16",
   "files": [
    {
     "name": "2026 KARA-KIBO IP보증연계 지식재산평가 지원 사업 공고문 및 신청 서식.hwp",
@@ -46523,6 +49296,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119493",
+  "posted": "2026-03-16",
   "files": [
    {
     "name": "[대구경북고용복지연구원] 기업_참여신청 매뉴얼.pdf",
@@ -46555,6 +49330,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119490",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "청년일자리도약장려금_서류(부산남구).zip",
@@ -46599,6 +49376,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119489",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "2026년 미래내일 일경험 사업-인턴형 사업안내문.hwp",
@@ -46627,6 +49406,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119481",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "2026년 중소기업 개별 수출보험료 지원계획 공고문.hwp",
@@ -46655,6 +49436,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119457",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "2026년도 ｢장비 활용 지원사업｣ 신청서식.hwp",
@@ -46687,6 +49470,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119454",
+  "posted": "2026-03-13",
   "files": [
    {
     "name": "(붙임2) 2026년도 국내외 지식재산 권리화 지원사업 신청서식..hwp",
@@ -46723,6 +49508,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119436",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "신청사업 사용계획서.hwp",
@@ -46759,6 +49546,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119434",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "[공고문] 2026년 (예비)사회적기업 이차보전 지원사업 공고.hwp",
@@ -46787,6 +49576,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119421",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "2.우정청 국제특송비 지원사업 신청서 및 기타서류.hwp",
@@ -46819,6 +49610,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119420",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "2026년_대전광역시청_수출보증보험료_지원사업_공고문.hwp",
@@ -46847,6 +49640,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119409",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "2026 통번역 지원사업 신청서_동의서 및 서약서.hwp",
@@ -46879,6 +49674,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119395",
+  "posted": "2026-03-12",
   "files": [
    {
     "name": "[고용노동부] 미래내일 일경험 인턴형 참여기업 모집 안내문(본문).jpg",
@@ -46907,6 +49704,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119375",
+  "posted": "2026-03-11",
   "files": [
    {
     "name": "붙임2-2. (작성용 양식)2026년 소상공인 상표출원지원사업 신청서 및 개인정보동의수집 활용동의서.hwp",
@@ -46943,6 +49742,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119373",
+  "posted": "2026-03-11",
   "files": [
    {
     "name": "붙임2._2026-신개념-포스터.jpg",
@@ -46971,6 +49772,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "연중 상시 모집",
+  "sid": "biz-PBLN_000000000119364",
+  "posted": "2026-03-11",
   "files": [
    {
     "name": "서울시여성가족재단_배너_730x330_핑크비율업0310.png",
@@ -47007,6 +49810,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119332",
+  "posted": "2026-03-10",
   "files": [
    {
     "name": "2026년 하남시 사회적경제기업 역량 강화 교육 컨설팅 포스터.png",
@@ -47035,6 +49840,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119321",
+  "posted": "2026-03-10",
   "files": [
    {
     "name": "2026년_세종시_수출보증보험료_지원사업_참가기업_모집_공고.pdf",
@@ -47063,6 +49870,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119316",
+  "posted": "2026-03-10",
   "files": [
    {
     "name": "첨부파일.zip",
@@ -47095,6 +49904,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119309",
+  "posted": "2026-03-10",
   "files": [
    {
     "name": "(주)위더스_26년_현장실습훈련사업_안내.pdf",
@@ -47135,6 +49946,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119285",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "관련자료 붙임 (사물인터넷측정기기부착지원).hwp",
@@ -47167,6 +49980,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119274",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "2026년도 공동안전관리자 지원사업 참여신청서.hwp",
@@ -47199,6 +50014,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119261",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "[양식] 2026년 칠곡군 해외지사화 및 공동물류센터 지원사업 참가신청서 및 제출서류.hwp",
@@ -47231,6 +50048,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119260",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "2026년 음식점 위생등급 컨설팅 지원 신청서.hwpx",
@@ -47263,6 +50082,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119255",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "소상공인 디지털 전환 지원사업 신청·접수 안내.hwp",
@@ -47291,6 +50112,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119253",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "2026년 육아휴직 대체인력 근로자 지원사업 모집 공고.hwp",
@@ -47319,6 +50142,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119240",
+  "posted": "2026-03-09",
   "files": [
    {
     "name": "(공문)2026년『청년일자리도약장려금』_사업_참여_안내.pdf",
@@ -47355,6 +50180,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119212",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "2026년 청정임산물 생산기반지원사업 재공고.hwp",
@@ -47383,6 +50210,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119206",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "지방보조금 공모사업 신청서(해외마케팅 지원사업).hwpx",
@@ -47419,6 +50248,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119201",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "붙임1_중소기업 연구인력 현장맞춤형 양성지원 사업 지원기업 신청서 및 개인정보동의서.hwp",
@@ -47459,6 +50290,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119198",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "붙임2_사업 참가 신청서 및 활용계획서(2026 충북 수출24 & 해외지사화 지원).hwp",
@@ -47495,6 +50328,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119193",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "직장문화개선 컨설팅 신청안내.png",
@@ -47527,6 +50362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119181",
+  "posted": "2026-03-06",
   "files": [
    {
     "name": "붙임 2. 소부장 기술애로 지원 신청서.hwp",
@@ -47559,6 +50396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119170",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "(참고용)IR발표자료 작성가이드.pdf",
@@ -47595,6 +50434,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119155",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "[제출서류] 2026년 폐업 소상공인 사업정리 지원사업 제출서류.hwp",
@@ -47627,6 +50468,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119154",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "별첨. (마케팅 지원) 신청서식.hwp",
@@ -47659,6 +50502,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119137",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "참여신청전산메뉴얼.pdf",
@@ -47691,6 +50536,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119131",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "중소기업 승계자문 프로그램.png",
@@ -47719,6 +50566,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119124",
+  "posted": "2026-03-05",
   "files": [
    {
     "name": "[양식] 2. 결과보고서_기술지도 지원사업.zip",
@@ -47755,6 +50604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119107",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "디딤돌 제출서류 일체 및 발급방법.hwp",
@@ -47787,6 +50638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "모집 마감시",
+  "sid": "biz-PBLN_000000000119106",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "붙임 2. 2026 강원특별자치도-현대백화점 공동 특판행사 참가기업 선정기준표.hwpx",
@@ -47819,6 +50672,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119103",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "붙임 1. 신청서_ 2026 농식품 수출 인증통관검역 지원사업(통관검역인증).hwp",
@@ -47855,6 +50710,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119095",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "2026년도+보증기업+위기극복+패키지+공고문_최종.pdf",
@@ -47883,6 +50740,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119093",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "붙임2. 2026년 파브(PAV) 부품 시험·인증 지원사업 참여기업 신청서.hwp",
@@ -47915,6 +50774,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119083",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "붙임2. 2026년 소상공인IP창출지원 상표출원지원사업 신청서 및 개인정보동의수집 활용동의서.hwp",
@@ -47947,6 +50808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119064",
+  "posted": "2026-03-04",
   "files": [
    {
     "name": "붙임2. 기업지원 신청서 및 정보수집이용제공 동의서.hwp",
@@ -47979,6 +50842,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119052",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "2026년 기업환경개선자금 이자지원 사업 추진계획.hwp",
@@ -48007,6 +50872,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119051",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "2026년 StartupD 창업 BuS 참가자 사전 모집 공고.png",
@@ -48035,6 +50902,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119047",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "붙임2.운영지침(안).hwp",
@@ -48071,6 +50940,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119045",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "붙임2. 2026년 소상공인IP창출지원 상표출원지원사업 신청서 및 개인정보동의수집 활용동의서.hwp",
@@ -48103,6 +50974,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000119044",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "동행가맹점_신청서.hwp",
@@ -48135,6 +51008,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119043",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "모집 공고문수정_2026년 베트남 초기 진출기업 마중물 지원.hwp",
@@ -48163,6 +51038,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000119038",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "[신청서]2026_울주군_사회적경제_판로지원사업_신청서.hwp",
@@ -48195,6 +51072,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119025",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "26년도+직장생활+패키지+신청서.hwp",
@@ -48231,6 +51110,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119017",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "2026년_새_길_여는_폐업지원_사업_모집_공고문.pdf",
@@ -48259,6 +51140,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선순 마감",
+  "sid": "biz-PBLN_000000000119011",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "(서식1) 인천 중소기업 연구조직 설립 지원사업 신청서_양식.hwp",
@@ -48291,6 +51174,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000119010",
+  "posted": "2026-03-03",
   "files": [
    {
     "name": "(서식1) 2026년 인천 연구장비 공동활용 지원사업 신청서.hwp",
@@ -48323,6 +51208,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118974",
+  "posted": "2026-02-27",
   "files": [
    {
     "name": "2026년_중소기업_기술침해_손해액_산정_지원사업_공고.hwpx",
@@ -48351,6 +51238,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118927",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "[서식2] 기업 환경개선 사업 신청서 양식.hwp",
@@ -48387,6 +51276,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118917",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "공고문(2026년 창업기업 신용보증수수료 지원사업).hwp",
@@ -48415,6 +51306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118910",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "참여 신청서. 개인정보 수집 및 이용 동의서 양식.hwp",
@@ -48447,6 +51340,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118891",
+  "posted": "2026-02-26",
   "files": [
    {
     "name": "2026-483_(★수정) 2026년도 식품진흥기금 식품위생업소 융자사업 공고.hwpx",
@@ -48475,6 +51370,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118881",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "공고문(2026년 소공인).hwp",
@@ -48503,6 +51400,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118880",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "공고문(2026 일자리창출).hwp",
@@ -48531,6 +51430,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118879",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "공고문(2026 청년창업).hwp",
@@ -48559,6 +51460,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118876",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "2026년 현장실습훈련(시니어인턴십) 시니어(어르신) 작성 서류_참여자용.hwp",
@@ -48599,6 +51502,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118864",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "1단계 [KOTRA] 2026년 지사화사업 참여기업 모집 공고문.HWP",
@@ -48635,6 +51540,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118858",
+  "posted": "2026-02-25",
   "files": [
    {
     "name": "「경남 수도권 투자유치 거점센터 데모데이. 멘토링 데이」 참기기업 모집 공고.png",
@@ -48663,6 +51570,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118806",
+  "posted": "2026-02-24",
   "files": [
    {
     "name": "붙임1. 2026년 사천 디지털전환(DX) 컨설팅 및 인력양성 지원사업 신청양식_KETI.hwp",
@@ -48695,6 +51604,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118804",
+  "posted": "2026-02-24",
   "files": [
    {
     "name": "제출서류 목록(1~11번).zip",
@@ -48727,6 +51638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118786",
+  "posted": "2026-02-24",
   "files": [
    {
     "name": "2026년_중소기업_K-뷰티론_정책자금_지원계획_공고.pdf",
@@ -48755,6 +51668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118778",
+  "posted": "2026-02-24",
   "files": [
    {
     "name": "260223 테마별 체험처 리스트 현황.xlsx",
@@ -48787,6 +51702,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118752",
+  "posted": "2026-02-23",
   "files": [
    {
     "name": "(붙임4)+검사기관·검정기관+지정현황.zip",
@@ -48827,6 +51744,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118750",
+  "posted": "2026-02-23",
   "files": [
    {
     "name": "공고문(2026년 진주시 중소기업 국내외 인증수수료 지원사업).hwp",
@@ -48855,6 +51774,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118744",
+  "posted": "2026-02-23",
   "files": [
    {
     "name": "[서식] 사전신청서(국내 현지 판촉 활동).hwp",
@@ -48891,6 +51812,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118729",
+  "posted": "2026-02-23",
   "files": [
    {
     "name": "창업 BuS 포스터.png",
@@ -48923,6 +51846,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118682",
+  "posted": "2026-02-20",
   "files": [
    {
     "name": "2026년 특허기술 해외 출원등록 비용 지원사업 공고.hwp",
@@ -48951,6 +51876,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118681",
+  "posted": "2026-02-20",
   "files": [
    {
     "name": "2026년 산업재산권 권리화 지원사업 공고.hwp",
@@ -48979,6 +51906,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118679",
+  "posted": "2026-02-20",
   "files": [
    {
     "name": "붙임2. 채용연계형 뿌리기업 근로환경 혁신 지원사업(환경개선) 운영지침.hwp",
@@ -49011,6 +51940,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118674",
+  "posted": "2026-02-20",
   "files": [
    {
     "name": "[서식] 2026년 경기도 규제샌드박스 맞춤형 컨설팅 신청서 양식.hwp",
@@ -49043,6 +51974,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118665",
+  "posted": "2026-02-20",
   "files": [
    {
     "name": "붙임1. 2026년 IP 디딤돌 권리화지원 신청양식(배포용)_.hwp",
@@ -49087,6 +52020,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118617",
+  "posted": "2026-02-19",
   "files": [
    {
     "name": "144350_붙임 2. 수혜기업 지원신청 서류.hwp",
@@ -49119,6 +52054,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118586",
+  "posted": "2026-02-19",
   "files": [
    {
     "name": "2026년+경상남도+식품진흥기금+융자+지원계획+공고문.hwp",
@@ -49147,6 +52084,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000118530",
+  "posted": "2026-02-13",
   "files": [
    {
     "name": "[첨부2]선도기업모집별지서식.hwp",
@@ -49183,6 +52122,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118529",
+  "posted": "2026-02-13",
   "files": [
    {
     "name": "2026년+농식품+현지화지원사업+모집공고(라벨링+현지화)1.pdf",
@@ -49211,6 +52152,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118527",
+  "posted": "2026-02-13",
   "files": [
    {
     "name": "2026년+농식품+현지화지원사업+모집공고(수입등록검사)2.pdf",
@@ -49239,6 +52182,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118524",
+  "posted": "2026-02-13",
   "files": [
    {
     "name": "2026년+농식품+현지화지원사업+모집공고(현지+전문기관+자문)3.pdf",
@@ -49267,6 +52212,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118496",
+  "posted": "2026-02-12",
   "files": [
    {
     "name": "260420근휴사_A4_온라인용.pdf",
@@ -49299,6 +52246,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000118494",
+  "posted": "2026-02-12",
   "files": [
    {
     "name": "제3자_부당개입_주의_안내문.pdf",
@@ -49331,6 +52280,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118445",
+  "posted": "2026-02-12",
   "files": [
    {
     "name": "2026년+경상남도+창업기업+신규고용인력+보조금+지원계획+공고.hwp",
@@ -49359,6 +52310,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118430",
+  "posted": "2026-02-11",
   "files": [
    {
     "name": "Notice_Call_for_Applications_Special_Naturalization_Recommendation.pdf",
@@ -49395,6 +52348,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "선착순 접수",
+  "sid": "biz-PBLN_000000000118398",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "2026년 서울시 위험성평가 컨설팅 사업 신청서.hwp",
@@ -49427,6 +52382,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118395",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "2026-375_★기술닥터사업 표준서식.hwpx",
@@ -49459,6 +52416,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118394",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "2026년+기업+채용연계+청년일자리+지원사업+참여기업+모집+공고문.hwp",
@@ -49487,6 +52446,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118386",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "[붙임1] 활동기술서(한글파일로 등록 필수).hwp",
@@ -49527,6 +52488,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "매월 10일 18:00까지",
+  "sid": "biz-PBLN_000000000118381",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "지방보조금 교부신청서(서식).hwp",
@@ -49559,6 +52522,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118377",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "2026년+전북특별자치도+식품진흥기금+융자사업+공고.hwp",
@@ -49587,6 +52552,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118361",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "[신청서식] 2026 유해물질 시험분석 수수료 지원사업 신청서.hwp",
@@ -49623,6 +52590,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118350",
+  "posted": "2026-02-10",
   "files": [
    {
     "name": "2026년 장애인 창업 컨설팅 지원 대상자 모집공고.pdf",
@@ -49655,6 +52624,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118345",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "2026년 광명시 소규모 유통업 육성자금 지원계획 공고문.pdf",
@@ -49687,6 +52658,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118341",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "2026년 광명시 중소기업 특례보증 지원계획 공고문.hwp",
@@ -49719,6 +52692,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118336",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "2026년 광명시 중소기업 육성자금(제조업 지식산업 정보통신산업) 지원계획 공고문.hwp",
@@ -49751,6 +52726,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118318",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "[공고 제2026-16호] 2026년 소스개발 및 생산지원 사업 공고_(260204).hwp",
@@ -49779,6 +52756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118301",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "사업_안내서.hwp",
@@ -49815,6 +52794,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118300",
+  "posted": "2026-02-09",
   "files": [
    {
     "name": "공고문2026년 남원시 중소기업 온라인 플랫폼 판매지원 참여기업 상시 모집.hwp",
@@ -49843,6 +52824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118245",
+  "posted": "2026-02-05",
   "files": [
    {
     "name": "[서식] 중소벤처기업 지식재산권 및 해외인증 지원사업 참가기업 모집 공고.hwp",
@@ -49879,6 +52862,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118237",
+  "posted": "2026-02-05",
   "files": [
    {
     "name": "(서식) 2026년 동의서 및 확인서.hwp",
@@ -49915,6 +52900,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118229",
+  "posted": "2026-02-05",
   "files": [
    {
     "name": "[붙임 4] 전문위원 자격 기준 및 증빙서류.hwp",
@@ -49955,6 +52942,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000118224",
+  "posted": "2026-02-05",
   "files": [
    {
     "name": "2. 신청서 및 제출서류 양식.zip",
@@ -49987,6 +52976,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118213",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "★2026년_경기가구창작스튜디오_공동장비_활용_지원_모집_공고문_및_신청_관련_서류.hwp",
@@ -50015,6 +53006,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118210",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "붙임._2026년_리스크안전망_구축_지원업체_모집공고_및_신청서.hwp",
@@ -50043,6 +53036,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000118209",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "2026년_중소기업_연구인력지원사업_공고.hwpx",
@@ -50071,6 +53066,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000118204",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "★26년_여성기업육성사업_통합공고.hwpx",
@@ -50099,6 +53096,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118203",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "2026년도 식품진흥기금 융자사업 공고문.hwpx",
@@ -50127,6 +53126,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118191",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "(2026)식품진흥기금 융자신청서 등 제출서류.hwp",
@@ -50159,6 +53160,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118182",
+  "posted": "2026-02-04",
   "files": [
    {
     "name": "2026-257_2026년_사회적경제조직_특례보증_및_이차보전_지원_사업_공고문(죄종).pdf",
@@ -50187,6 +53190,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118134",
+  "posted": "2026-02-03",
   "files": [
    {
     "name": "2026년 중소유통구조개선자금 공고문(안).hwp",
@@ -50215,6 +53220,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118131",
+  "posted": "2026-02-03",
   "files": [
    {
     "name": "신청서식_2026년도 상반기 일반경영안정자금 지원.hwp",
@@ -50247,6 +53254,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118122",
+  "posted": "2026-02-03",
   "files": [
    {
     "name": "공고-154.hwpx",
@@ -50275,6 +53284,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118108",
+  "posted": "2026-02-03",
   "files": [
    {
     "name": "붙임 1 광고물 디자인 가이드라인.hwp",
@@ -50315,6 +53326,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118099",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "1. 2026년 조직문화 더하기 컨설팅 참여신청서.hwp",
@@ -50347,6 +53360,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118098",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "지원제한업종.hwpx",
@@ -50383,6 +53398,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118094",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "2026년도 상반기 관악구 중소기업육성기금 융자지원 공고문.hwpx",
@@ -50423,6 +53440,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118093",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "지원제한업종.hwpx",
@@ -50459,6 +53478,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118090",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "2026년_해외규격인증획득지원사업(전략지원)_참여기업_모집공고.hwpx",
@@ -50487,6 +53508,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118088",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "2026년 어업활동지원 사업 신청 안내 공고문.hwp",
@@ -50515,6 +53538,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118067",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "2026년 대구광역시 동구 소상공인 경영안정자금 지원사업 공고.hwp",
@@ -50543,6 +53568,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118064",
+  "posted": "2026-02-02",
   "files": [
    {
     "name": "2026년 소상공인 경영안정자금 지원사업 공고.hwp",
@@ -50571,6 +53598,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118037",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년 기업인력애로센터 활용 취업 지원 사업 구인기업 및 구직자 모집 공고_수정.pdf",
@@ -50599,6 +53628,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118054",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "26년도_숙련기능인력_E-7-4_전환추천_모집공고(발령번호).hwp",
@@ -50627,6 +53658,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118049",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "26년도__외국전문인력_E-7-1_고용추천_모집공고(발령번호).hwp",
@@ -50655,6 +53688,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118047",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년 충북형 도시근로자 지원사업 모집 공고문 및 신청서(참여기업ㆍ최종).hwp",
@@ -50683,6 +53718,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118033",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "(공고문)2026년 사회적기업 육성자금 이차보전금 지원계획.hwp",
@@ -50711,6 +53748,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000118032",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년+전북특별자치도+단체+관광객+유치여행사+보상금(인센티브)+지급계획+공고.hwp",
@@ -50739,6 +53778,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118027",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년+KOLAS+공인+제품인증+서비스+바우처+지원사업+참가+희망기업+모집+공고문.hwp",
@@ -50767,6 +53808,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118025",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "2026년+이동+생체역학+성능평가+지원사업+모집+공고문.hwp",
@@ -50795,6 +53838,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118017",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "공고문(2026년 중소기업육성자금 지원-홈페이지).pdf",
@@ -50823,6 +53868,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117995",
+  "posted": "2026-01-30",
   "files": [
    {
     "name": "(붙임1) 개인(기업) 정보 수집·이용 및 제3자 제공 동의서.hwp",
@@ -50855,6 +53902,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117992",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년 나눔장비 이전지원사업 공고문.hwp",
@@ -50883,6 +53932,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118006",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년도_스마트공장_수준확인_사업_공고.pdf",
@@ -50911,6 +53962,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000118003",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "[서식2]번역 요청자료 의뢰 서식.hwp",
@@ -50955,6 +54008,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117958",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "★260128 2026 세종시 국내외 단체관광객 유치 여행사 인센티브 지원 계획 공고.hwp",
@@ -50983,6 +54038,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117985",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2025년도_혁신형_중소기업_방송광고_지원신청서_25.7.1_시행.hwp",
@@ -51031,6 +54088,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117984",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "[제주센터]_2026_창업BuS_홍보포스터_2 (2).jpg",
@@ -51063,6 +54122,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117956",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "26년 미래내일 프로젝트형_기업 모집 포스터.png",
@@ -51091,6 +54152,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117953",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "무료 수출컨설팅(이동코트라) 2026.pdf",
@@ -51119,6 +54182,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117950",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년 소상공인 (특례)협약보증 지원 사업 공고.hwp",
@@ -51147,6 +54212,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117979",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년 소상공인 특례보증 지원 사업 공고.hwp",
@@ -51175,6 +54242,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117948",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "서구 소상공인 카드 수수료 지원사업 공고문.hwp",
@@ -51203,6 +54272,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117973",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년 부평구 중소기업 무료번역 서비스 신청서.hwp",
@@ -51235,6 +54306,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117972",
+  "posted": "2026-01-29",
   "files": [
    {
     "name": "2026년 대전광역시 중구 소상공인 특례보증 지원사업 공고.hwp",
@@ -51263,6 +54336,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117971",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 단체관광객 유치 인센티브 지원 공고.hwp",
@@ -51291,6 +54366,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117967",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 수원시 중소기업육성자금 융자지원 계획 공고문.hwp",
@@ -51319,6 +54396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117965",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 수원시 중소기업 동행지원 사업계획 공고문.hwp",
@@ -51347,6 +54426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117945",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 수원시 중소기업 특례보증 지원계획 공고문.hwp",
@@ -51375,6 +54456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117964",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 수원시 소상공인 특례보증 및 수수료 지원 계획 공고문.pdf",
@@ -51403,6 +54486,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117943",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "[붙임1]+단기컨설팅+신청+서식.hwp",
@@ -51443,6 +54528,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117942",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "[붙임1]+지원사업+신청서.hwp",
@@ -51479,6 +54566,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117920",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 소상공인 육성 특례보증 지원 공고문.hwp",
@@ -51507,6 +54596,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117918",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026년 소상공인 이자차액 보전금 지원 공고문.hwp",
@@ -51535,6 +54626,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117939",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "2026+환영행사+지원신청서.hwp",
@@ -51567,6 +54660,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117908",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "(붙임)_(중소벤처기업부_공고_제2026-37호)_소상공인_경영안정_바우처_지원사업_시행_공고.pdf",
@@ -51595,6 +54690,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117935",
+  "posted": "2026-01-28",
   "files": [
    {
     "name": "(공고) 2027년 향토산업육성 신규 사업대상자 공모·선정 계획.hwp",
@@ -51631,6 +54728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상반기 단계 결정시까지",
+  "sid": "biz-PBLN_000000000117906",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "(공고)_경남_중소기업_밀집지역_금융지원_신청_안내.hwp",
@@ -51659,6 +54758,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000117928",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "2026년도_마케팅지원사업_통합_공고.hwp",
@@ -51687,6 +54788,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117902",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "2026년_작성예시.pdf",
@@ -51727,6 +54830,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117879",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "2026년 일자리창출 소상공인 사회보험료 지원사업 참여기업 모집 공고.hwp",
@@ -51755,6 +54860,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117893",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "2026년 대구광역시 내국인 관광객 유치(인센티브) 지원 공고문.hwp",
@@ -51783,6 +54890,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117890",
+  "posted": "2026-01-27",
   "files": [
    {
     "name": "2026년 어업활동지원 사업 신청 안내 공고문(사상구).hwp",
@@ -51811,6 +54920,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000117839",
+  "posted": "2026-01-26",
   "files": [
    {
     "name": "(260119) 2026년 고령친화식품 사용성평가 참여기업 모집공고.hwp",
@@ -51839,6 +54950,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117800",
+  "posted": "2026-01-26",
   "files": [
    {
     "name": "2026년 전라남도 청년기업 인증계획 공고.hwp",
@@ -51867,6 +54980,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117794",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "[신청서] 2026년 경북 중소기업 정부기술개발 공모사업 선정 지원사업_1.hwp",
@@ -51899,6 +55014,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117791",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "희망인천 특례보증 안내.png",
@@ -51927,6 +55044,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117805",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "2026년도 1인 소상공인 출산급여 지원 사업 공고(제주시).hwp",
@@ -51955,6 +55074,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117782",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "2026년 경북구미방산혁신클러스터 판로개척지원사업 공고문.hwp",
@@ -51983,6 +55104,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117781",
+  "posted": "2026-01-23",
   "files": [
    {
     "name": "(붙임2) 신청서식.hwp",
@@ -52015,6 +55138,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117770",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "전남 외래관광객 유치 여행사 대상 인센티브 지원 공고.hwp",
@@ -52043,6 +55168,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117768",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "공고문(안)-2026년도 식품진흥기금 시설개선자금 융자.hwp",
@@ -52071,6 +55198,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117751",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "2026년 충청남도 중소기업육성자금 융자 지원계획 공고.hwp",
@@ -52099,6 +55228,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117736",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "취업알선형_게시자료 (정부공고문ver1)_2026.pdf",
@@ -52127,6 +55258,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117728",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "(공고2026271호)2026년 화성시 중소기업 특례보증 지원계획 공고 및 신청서.hwp",
@@ -52155,6 +55288,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117727",
+  "posted": "2026-01-22",
   "files": [
    {
     "name": "(게재)첨부2. 해외OA등록비용 지원사업 신청서_○○기업명.hwp",
@@ -52187,6 +55322,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117711",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "신청서 등(서식).hwp",
@@ -52219,6 +55356,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117708",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "2026 국내외 주요축제 및 전시박람회 참가(개최) 지원사업 공고.hwp",
@@ -52247,6 +55386,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117722",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "[양식] 해외출원비용지원활용계획서.hwp",
@@ -52283,6 +55424,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117702",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "[양식] 해외OA등록비용지원활용계획서.hwp",
@@ -52319,6 +55462,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117679",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "(게재)첨부2. 해외OA등록비용 지원사업 신청서_○○기업명.hwp",
@@ -52351,6 +55496,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000117676",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "2026년_『희망리턴패키지_원스톱폐업지원』_소상공인_모집_공고.hwp",
@@ -52379,6 +55526,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117673",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "(붙임2) 2026년 희망리턴패키지 업무편람(전직장려수당)_수정.hwp",
@@ -52411,6 +55560,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117671",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "신청서류(지원신청서.사업계획서.개인정보이용및제공동의서).hwp",
@@ -52447,6 +55598,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117688",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "(검단지역)_신청서류(지원신청서.사업계획서.개인정보이용및제공동의서).hwp",
@@ -52483,6 +55636,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117668",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "붙임._기술이전_및_기술수요조사_신청접수_공고문.hwp",
@@ -52511,6 +55666,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117666",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "구인신청서(부평새일센터).hwp",
@@ -52543,6 +55700,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117664",
+  "posted": "2026-01-21",
   "files": [
    {
     "name": "2026년 수출보험료 지원 사업 참여기업 모집 공고(제주특별자치도 공고 제2026-115호).hwp",
@@ -52571,6 +55730,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117656",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 양양군 중소기업육성자금 지원계획 공고.hwp",
@@ -52599,6 +55760,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117654",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "(공고문) 강원지역 중소벤처기업 투자이음 강화 프로그램 .hwp",
@@ -52627,6 +55790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117650",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 양구군 단체관광객 유치 인센티브 지원 계획 공고.hwp",
@@ -52655,6 +55820,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117648",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 국내외 단체 관광객 인센티브 공고문.hwp",
@@ -52683,6 +55850,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117646",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 철원군 중소기업육성융자금 이차보전금 지원계획 공고.pdf",
@@ -52711,6 +55880,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117644",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 중소기업 및 소상공인 육성자금 융자추천 및 이차보전계획 공고문.hwp",
@@ -52739,6 +55910,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117634",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "[별지 2] 횡성군 중소기업 특례보증.hwp",
@@ -52775,6 +55948,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117643",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "신청양식 2026 예산 로케이션 인센티브 제작지원 사업.zip",
@@ -52807,6 +55982,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117632",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "청부파일.zip",
@@ -52839,6 +56016,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117631",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 정선군 단체관광객 유치 여행사 인센티브 지원 계획 공고.hwp",
@@ -52867,6 +56046,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117630",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 인구감소지역 중소기업 특례보증 기업지원 공고.hwp",
@@ -52895,6 +56076,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117620",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 삼척시 단체관광객 유치 여행사 인센티브 지원계획 공고.hwp",
@@ -52923,6 +56106,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117626",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "붙임2 융자추천 심사기준 및 평가표 [별표 2].hwp",
@@ -52959,6 +56144,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117624",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "특례보증추천서(서식).hwp",
@@ -52995,6 +56182,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117621",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "속초시 특례보증 보증수수료 지원 신청서식.hwp",
@@ -53027,6 +56216,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117611",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년_인천형_특별_경영안정자금_영업점_안내.pdf",
@@ -53059,6 +56250,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117600",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 태백시 중소기업육성자금 지원 사업공고.hwp",
@@ -53087,6 +56280,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117597",
+  "posted": "2026-01-20",
   "files": [
    {
     "name": "2026년 태백시 소상공인 특례보증 및 이차보전 지원 계획 공고.hwp",
@@ -53115,6 +56310,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117606",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 강릉시 단체관광객 유치 인센티브 지원계획 공고(안).hwp",
@@ -53143,6 +56340,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117603",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년도 원주시 창업기업자금 동행지원 신청서식（안）.hwp",
@@ -53175,6 +56374,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117592",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 상반기 원주시 중소기업육성자금 신청서식.hwp",
@@ -53215,6 +56416,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117602",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 춘천시 중소기업육성자금 신청서식.hwp",
@@ -53247,6 +56450,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117601",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 중소기업종합지원시스템 컨설팅 참여 기업 모집공고.pdf",
@@ -53275,6 +56480,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117588",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 춘천시 중소기업 특례보증 지원계획 공고.hwp",
@@ -53303,6 +56510,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117579",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "공고문(2026년 단양군 소상공인 이차보전).hwp",
@@ -53331,6 +56540,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117583",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년도 춘천시 창업지원자금(중소기업동행지원)지원 신청서식.hwp",
@@ -53363,6 +56574,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117582",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 신용보증수수료 지원사업 신청서식.hwp",
@@ -53395,6 +56608,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117559",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 단양군 단체관광객 유치 인센티브 지원계획 공고.hwp",
@@ -53423,6 +56638,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117576",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 괴산군 저신용 소상공인 대출이자 지원사업 공고.hwp",
@@ -53451,6 +56668,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117557",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 기술평가 인증 수수료 지원 사업 공고.hwp",
@@ -53479,6 +56698,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117575",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 단체관광객 유치여행사 인센티브 지원계획 공고문(괴산군) .hwp",
@@ -53507,6 +56728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117554",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년 중소기업육성자금 지원계획 공고문.hwp",
@@ -53535,6 +56758,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117569",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년도 전주시 숙박관광객 유치 인센티브 지급 계획 공고.hwp",
@@ -53563,6 +56788,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117568",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "붙임2.일하는 기쁨 청년·여성 일자리 지원사업 참여신청서.hwp",
@@ -53595,6 +56822,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117549",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년도_중소기업_동반성장_네트워크론_지원계획_공고.pdf",
@@ -53623,6 +56852,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117563",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "2026년도_중소기업_매출채권팩토링_지원계획_공고.pdf",
@@ -53651,6 +56882,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117561",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "제출서류 목록(6~11번) 제출방법(양식 포함).zip",
@@ -53687,6 +56920,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117540",
+  "posted": "2026-01-19",
   "files": [
    {
     "name": "[안내]+2026년+전북도+통상닥터+연계+수출기반육성+및+마케팅+지원.pdf",
@@ -53715,6 +56950,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117535",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "붙임1) 2026년 중소기업 경영안정자금 이자보전 지원 신청서류(서식).hwp",
@@ -53759,6 +56996,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117534",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "태안군 소상공인 특례보증 금융지원 신청 공고.pdf",
@@ -53787,6 +57026,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117528",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년도 서울특별시 중소기업육성기금 사회적경제계정 사회적경제기업 융자지원 계획 공고.pdf",
@@ -53815,6 +57056,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117526",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년+경상남도+소상공인+정책자금+운용계획+공고(최종)+v5.hwp",
@@ -53843,6 +57086,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117498",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "소상공인자금 지원제외 대상 업종.hwp",
@@ -53875,6 +57120,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117523",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "★공고문(2026년 공주시 단체관광객 유치 여행사 지원사업_최종).hwp",
@@ -53903,6 +57150,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117518",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026 국내외 박람회(전시회) 참가지원사업 공고.hwp",
@@ -53931,6 +57180,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117495",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년 무주군 소상공인 특례보증 및 이차보전 지원 사업 공고.hwp",
@@ -53959,6 +57210,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117511",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년 진안군 소상공인 지원사업(환경개선) 공고.hwp",
@@ -53987,6 +57240,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117510",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년 상공업육성자금 대출 지원 사업 공고.hwp",
@@ -54015,6 +57270,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117491",
+  "posted": "2026-01-16",
   "files": [
    {
     "name": "2026년 단체관광객 유치 인센티브 지원 공고.hwp",
@@ -54043,6 +57300,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117505",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "(공고문)2026년 국내외 관광객 유치 인센티브 지원 사업 공고.hwp",
@@ -54071,6 +57330,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117480",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "2026 해외규격인증 획득 지원사업 운영지침.hwp",
@@ -54103,6 +57364,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117474",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "2026년 군산시 국내외 단체관광객 유치 여행사 인센티브 지원사업 공고.hwp",
@@ -54131,6 +57394,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117481",
+  "posted": "2026-01-15",
   "files": [
    {
     "name": "[신청양식]+바이오융합교육센터협약서.hwp",
@@ -54167,6 +57432,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117433",
+  "posted": "2026-01-14",
   "files": [
    {
     "name": "(공고문)+부산+가명정보+활용+지원센터+가명정보활용+컨설팅+지원+모집공고.hwp",
@@ -54195,6 +57462,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117428",
+  "posted": "2026-01-14",
   "files": [
    {
     "name": "미래내일일경험 사업안내문.hwp",
@@ -54227,6 +57496,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117371",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "인공지능유치기업보조금지원 사업안내서 및 신청서.hwp",
@@ -54263,6 +57534,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117358",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "붙임. 2026년 우수제품 E-커머스 입점기업 모집 공고문.hwp",
@@ -54291,6 +57564,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "분기별 상이",
+  "sid": "biz-PBLN_000000000117356",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "★2026년+전북특별자치도+중소기업육성자금+융자지원+계획+공고.hwp",
@@ -54319,6 +57594,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "차수별 상이",
+  "sid": "biz-PBLN_000000000117363",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "직무발명보상_우수기업_인증제_신청_안내_2026.pdf",
@@ -54355,6 +57632,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117350",
+  "posted": "2026-01-13",
   "files": [
    {
     "name": "2026년 장성군 단체관광객 유치 인센티브 운영계획 공고.hwp",
@@ -54383,6 +57662,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117340",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "지펀드 신청매뉴얼.hwp",
@@ -54415,6 +57696,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117337",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 여수시 중소기업발전자금 공고.hwp",
@@ -54443,6 +57726,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117343",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 단체관광객 유치여행사 인센티브 지원계획 공고 1부.hwp",
@@ -54471,6 +57756,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117336",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년+고령군+국내외+단체관광객+유치+여행사(기관)+인센티브+지원+공고문.hwp",
@@ -54499,6 +57786,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117334",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "★2026 청도군 단체관광객 유치 인센티브 지급 신청서(서식2).hwp",
@@ -54535,6 +57824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117332",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 청송군 단체관광객 유치 인센티브 지원계획(공고문).hwp",
@@ -54563,6 +57854,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117331",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 지역인재채용 인센티브 지원사업 참여신청서 및 지원금신청서(서식).hwp",
@@ -54595,6 +57888,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117319",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 중소기업 고용보조금 지원사업 공고.hwp",
@@ -54623,6 +57918,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117324",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년도 문경시 중소기업 운전자금 지원 계획.hwp",
@@ -54651,6 +57948,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117298",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년 창녕군 중소기업육성자금 지원계획 공고문.hwp",
@@ -54679,6 +57978,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117309",
+  "posted": "2026-01-12",
   "files": [
    {
     "name": "2026년도 함안군 소상공인 육성자금(이자) 공고문.hwp",
@@ -54707,6 +58008,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117306",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "★공고문_2026년 양산형 신중년고용지원금 사업.hwp",
@@ -54735,6 +58038,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117294",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 중소기업 전시(박람)회 참가 지원 계획 공고문.hwp",
@@ -54763,6 +58068,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117291",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "[한국식품산업클러스터진흥원] 2026년 기업지원시설·장비 활용 지원사업 공고.hwp",
@@ -54791,6 +58098,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117278",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "공고문(인구감소지역 소재 중소기업 특례보증 금융지원 신청공고).hwp",
@@ -54819,6 +58128,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117277",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "★2026년 하동군 생애 ù 창업 지원사업 공고문.hwp",
@@ -54847,6 +58158,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117276",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 김해시 사회적경제기업 금융지원 사업계획 공고.hwp",
@@ -54875,6 +58188,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117287",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "★2026년 소상공인 건강검진 지원사업 공고문.hwp",
@@ -54903,6 +58218,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117283",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "공고문(2026년 거제시 저신용 소상공인 이차보전 지원사업).hwp",
@@ -54931,6 +58248,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117260",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "QR코드(2026년 밀양시 단체관광객 유치 인센티브 사전신청).jpg",
@@ -54963,6 +58282,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117258",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 상반기 김해시 중소기업육성자금 공고.hwp",
@@ -54991,6 +58312,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117269",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "붙임4 신청내역(서식).xlsx",
@@ -55031,6 +58354,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117268",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "붙임2 GAP 인증수수료 지원사업 시행지침.hwp",
@@ -55071,6 +58396,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117254",
+  "posted": "2026-01-09",
   "files": [
    {
     "name": "2026년 중소기업 육성자금 융자지원 계획 공고문.hwp",
@@ -55099,6 +58426,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117214",
+  "posted": "2026-01-08",
   "files": [
    {
     "name": "2026년도 중소기업 운전자금 지원 계획.hwp",
@@ -55127,6 +58456,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117240",
+  "posted": "2026-01-08",
   "files": [
    {
     "name": "소량수출 국제특송비 지원계획 공고.hwp",
@@ -55155,6 +58486,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117223",
+  "posted": "2026-01-07",
   "files": [
    {
     "name": "(26년1차)대전형_초저금리_특별자금_공고문.hwp",
@@ -55187,6 +58520,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117221",
+  "posted": "2026-01-07",
   "files": [
    {
     "name": "대전시_경영위기극복_특례보증_공고문.hwp",
@@ -55219,6 +58554,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117191",
+  "posted": "2026-01-07",
   "files": [
    {
     "name": "[별지 제1호~제6호 서식]식품진흥기금 융자사업(부산광역시 식품진흥기금 조례 시행규칙).hwp",
@@ -55251,6 +58588,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117177",
+  "posted": "2026-01-07",
   "files": [
    {
     "name": "2026년 성남시 중소기업 특례보증 지원계획 공고.hwp",
@@ -55279,6 +58618,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117188",
+  "posted": "2026-01-07",
   "files": [
    {
     "name": "2026년 중소기업육성자금 이차보전금 지원계획 공고.hwp",
@@ -55307,6 +58648,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117168",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "대구 소상공인 맞춤형 출산양육지원사업 Q&A_(최종).pdf",
@@ -55347,6 +58690,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117158",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "벤처기업육성자금 신청서식.hwp",
@@ -55383,6 +58728,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "반기별 상이",
+  "sid": "biz-PBLN_000000000117154",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "신청서식_2026 산불피해기업 재해시설자금 이차보전.hwp",
@@ -55415,6 +58762,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117162",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "신청서식_2026년 창업 및 경쟁력강화 사업자금.hwp",
@@ -55447,6 +58796,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117153",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "[서식]참가기업 신청서.hwp",
@@ -55479,6 +58830,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117150",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "2026년_청년기업_신청서_및_개인정보_이용_제공_동의서.hwp",
@@ -55511,6 +58864,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117149",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "★2026년도_전라남도_중소기업_육성자금(사회적경제(특별)경영안정자금)_지원계획_공고.hwp",
@@ -55539,6 +58894,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117139",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "수출 중소기업 통·번역비 지원신청 안내.hwp",
@@ -55567,6 +58924,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117147",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "★2026년도_전라남도_중소기업_육성자금(건설업특별경영안정자금)_지원계획_공고.hwp",
@@ -55595,6 +58954,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "분기별 상이",
+  "sid": "biz-PBLN_000000000117146",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "제2026-9호_전라남도_중소기업_육성자금(경영안정자금)_지원계획_공고_(1).hwp",
@@ -55623,6 +58984,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117131",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "2026년도 구조혁신지원사업 참여기업 모집공고.pdf",
@@ -55651,6 +59014,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117130",
+  "posted": "2026-01-06",
   "files": [
    {
     "name": "(양식3) 대출심사 사전확인서.hwp",
@@ -55691,6 +59056,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117096",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "2026년 대전 서구 소상공인 경영안정자금 지원사업 공고(정정).hwp",
@@ -55719,6 +59086,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117118",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "2-4.IR자료작성가이드(TP배포용).pdf",
@@ -55763,6 +59132,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117095",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "2026년 충남 사회적경제기금 융자지원 계획 공고(안).hwp",
@@ -55791,6 +59162,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117094",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "2026년 충청남도 소상공인자금 융자 지원계획 공고.hwp",
@@ -55819,6 +59192,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117111",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "[별표 3] 시설자금 지원사업별 융자조건 및 한도(서울특별시 중소기업육성기금의 설치 및 운용에 관한 조례 시행규칙).hwp",
@@ -55859,6 +59234,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117109",
+  "posted": "2026-01-05",
   "files": [
    {
     "name": "2025-2540_2026년 경기도 사회적경제조직 특별융자 사업 공고(최종).hwp",
@@ -55887,6 +59264,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117103",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "2026년 유성구 소상공인 특례보증 지원사업 공고.hwp",
@@ -55915,6 +59294,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117081",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "개인정보 수집 이용 및 제공 동의서.hwp",
@@ -55951,6 +59332,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117056",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "2026년 부천시 「내일채움공제」 지원계획 공고.hwp",
@@ -55979,6 +59362,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117075",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "2026년 부천형 특례보증 지원 계획 공고.hwp",
@@ -56007,6 +59392,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117074",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "2026년 부천시 중소기업특례보증 지원 계획 공고.hwp",
@@ -56035,6 +59422,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000117072",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "공고문(2026년 부천시 골목형상점가 모집).hwp",
@@ -56063,6 +59452,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117071",
+  "posted": "2026-01-02",
   "files": [
    {
     "name": "공고문(2026년 소상공인 보증료 지원사업).hwp",
@@ -56091,6 +59482,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117067",
+  "posted": "2025-12-31",
   "files": [
    {
     "name": "(제출서식) 기업실태표.hwp",
@@ -56123,6 +59516,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117066",
+  "posted": "2025-12-31",
   "files": [
    {
     "name": "2026년 장애인고용개선장려금 공고문(최종).hwp",
@@ -56151,6 +59546,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117038",
+  "posted": "2025-12-31",
   "files": [
    {
     "name": "2026년 충청북도 소상공인 육성자금 지원계획 공고문-1.hwp",
@@ -56179,6 +59576,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000117019",
+  "posted": "2025-12-30",
   "files": [
    {
     "name": "★2026년도_제조DX멘토단_활용지원사업_통합_공고문_V3.pdf",
@@ -56207,6 +59606,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000117022",
+  "posted": "2025-12-30",
   "files": [
    {
     "name": "「2026년_소상공인_고용보험료_지원사업」공고.pdf",
@@ -56235,6 +59636,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000117016",
+  "posted": "2025-12-30",
   "files": [
    {
     "name": "2026년_중소벤처기업부_소상공인_지원사업_통합_공고_인포그래픽.pdf",
@@ -56267,6 +59670,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000116998",
+  "posted": "2025-12-30",
   "files": [
    {
     "name": "2026년도 소상공인육성자금 지원 계획.hwp",
@@ -56295,6 +59700,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000116975",
+  "posted": "2025-12-26",
   "files": [
    {
     "name": "251222 「넷제로 챌린지X」 통합공고(별도첨부).pdf",
@@ -56323,6 +59730,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000116943",
+  "posted": "2025-12-23",
   "files": [
    {
     "name": "(중기부)_2026년_중소기업_기술개발_지원사업_통합_공고.hwp",
@@ -56351,6 +59760,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "추후 공지",
+  "sid": "biz-PBLN_000000000116904",
+  "posted": "2025-12-22",
   "files": [
    {
     "name": "(공고문)_2026년도_중앙부처_및_지자체_창업지원사업_통합공고문(제2025-648호_2025.12.19.).pdf",
@@ -56379,6 +59790,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "매월 1일~20일",
+  "sid": "biz-PBLN_000000000116745",
+  "posted": "2025-12-11",
   "files": [
    {
     "name": "[붙임2]+2026년+해외+온라인+위조상품+유통+사전진단+서비스+신청방법+해설.hwp",
@@ -56411,6 +59824,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000116741",
+  "posted": "2025-12-10",
   "files": [
    {
     "name": "2026년도_중소기업_수출지원사업_통합공고(251210)-최종.pdf",
@@ -56439,6 +59854,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "예산 소진시까지",
+  "sid": "biz-PBLN_000000000116487",
+  "posted": "2025-11-24",
   "files": [
    {
     "name": "2025년 중소기업 긴급 융자 지원사업 재공고문.hwp",
@@ -56467,6 +59884,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000116008",
+  "posted": "2025-10-31",
   "files": [
    {
     "name": "26년_스마트제조혁신_지원사업_통합공고(수정).pdf",
@@ -56499,6 +59918,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000116004",
+  "posted": "2025-10-31",
   "files": [
    {
     "name": "26년_스마트제조혁신_지원사업_통합공고.pdf",
@@ -56531,6 +59952,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "세부사업별 상이",
+  "sid": "biz-PBLN_000000000115994",
+  "posted": "2025-10-31",
   "files": [
    {
     "name": "26년_스마트제조혁신_지원사업_통합공고.pdf",
@@ -56559,6 +59982,8 @@ window.GRANTS = [
   "req": {},
   "real": true,
   "period": "상시 접수",
+  "sid": "biz-PBLN_000000000109049",
+  "posted": "2025-05-12",
   "files": [
    {
     "name": "첨부자료.zip",
@@ -56571,4 +59996,4 @@ window.GRANTS = [
   ]
  }
 ];
-window.GRANTS_META = {"collectedAt": "2026-07-29 16:57", "source": "기업마당(bizinfo) + K-Startup 오픈API + 커넥트웍스", "count": 1721, "summaryBy": "Claude (요약 캐시)"};
+window.GRANTS_META = {"collectedAt": "2026-07-29 17:16", "source": "기업마당(bizinfo) + K-Startup 오픈API + 커넥트웍스", "count": 1721, "summaryBy": "Claude (요약 캐시)"};

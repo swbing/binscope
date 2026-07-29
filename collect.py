@@ -25,7 +25,7 @@
   같은 폴더에 grants-data.js 생성 → 대시보드 새로고침하면 실데이터로 바뀜
 """
 
-import sys, os, re, json, ssl, html, urllib.parse, urllib.request, concurrent.futures
+import sys, os, re, json, ssl, html, shutil, urllib.parse, urllib.request, concurrent.futures
 from datetime import datetime, date
 
 def strip_html(s):
@@ -113,6 +113,13 @@ def parse_deadline(period):
     if not ymds:
         return None
     return max(ymds).isoformat()
+
+def ymd(s):
+    """'2026-07-29 15:04:27' / '20260729' 등에서 YYYY-MM-DD 만 뽑는다"""
+    if not s:
+        return None
+    m = re.search(r"(20\d{2})[.\-/]?(\d{2})[.\-/]?(\d{2})", str(s))
+    return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else None
 
 def detect_region(text):
     for r in REGIONS:
@@ -253,6 +260,10 @@ def normalize(item, idx):
         "req": {},                        # 구조화 자격조건은 서버 단계에서 Claude 파싱 (HANDOFF 3)
         "real": True,
         "period": period,
+        # 공고별 페이지 주소용 고정 키. id 는 수집 순번이라 매일 바뀌므로 쓸 수 없다.
+        "sid": "biz-" + (pblanc_id(url) or get(item, "pblancId") or str(idx)),
+        # creatPnttm = 기업마당에 공고가 처음 올라온 시점 (updtPnttm 은 전체 일괄갱신이라 못 씀)
+        "posted": ymd(get(item, "creatPnttm", "regDt", "rgstDt")),
     }
 
 # ============ (선택) Claude 로 사업 요약 고도화 ============
@@ -528,6 +539,9 @@ def normalize_kstartup(item, idx):
         "req": {},
         "real": True,
         "period": period,
+        # K-Startup 은 등록일을 주지 않는다. 접수 시작일이 가장 가까운 대용값.
+        "posted": ymd(begin),
+        "sid": "ks-" + (sn or str(idx)),
     }
 
 # ===== 커넥트웍스 (works.connect24.kr) — 지역 테크노파크·진흥원 등 '그 외' 공고 =====
@@ -693,7 +707,124 @@ def normalize_connectworks(d, idx):
         "req": {},
         "real": True,
         "period": d.get("data-deadline", ""),
+        "posted": None,          # 이 사이트는 등록일을 노출하지 않음 → 최신순에서 뒤로
+        "sid": "cw-" + (d.get("data-id") or str(idx)),
     }
+
+# ===== 공고별 정적 페이지 (검색 노출용) =====
+# 대시보드는 주소가 하나뿐이라 검색엔진이 개별 공고를 색인할 수 없다.
+# 공고마다 실제 내용이 담긴 페이지를 만들어 두면 공고명 검색으로 유입될 수 있다.
+SITE = "https://swbing.github.io/binscope/"
+PAGES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "g")
+
+def esc(s):
+    return html.escape(str(s or ""), quote=True)
+
+def page_html(g):
+    files = "".join(
+        '<li><a href="%s" rel="nofollow">%s</a></li>' % (esc(f["url"]), esc(f["name"]))
+        for f in (g.get("files") or [])
+    )
+    d = g.get("detail") or {}
+    desc = re.sub(r"\s+", " ", (g.get("summary") or g["title"]))[:150]
+    rows = [
+        ("소관기관", g.get("source")), ("지원분야", g.get("field")),
+        ("지원형태", g.get("type")), ("지역", g.get("region")),
+        ("접수 마감", g.get("deadline") or "상시"), ("공고 등록일", g.get("posted") or "-"),
+        ("신청자격", g.get("elig")),
+    ]
+    table = "".join("<tr><th>%s</th><td>%s</td></tr>" % (esc(k), esc(v)) for k, v in rows)
+    ld = json.dumps({
+        "@context": "https://schema.org", "@type": "GovernmentService",
+        "name": g["title"], "description": desc,
+        "provider": {"@type": "Organization", "name": g.get("source") or ""},
+        "areaServed": g.get("region") or "대한민국", "url": SITE + "g/" + g["sid"] + ".html",
+    }, ensure_ascii=False)
+    return f"""<!DOCTYPE html>
+<html lang="ko"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(g['title'])} | bin'scope 정부지원사업</title>
+<meta name="description" content="{esc(desc)}">
+<link rel="canonical" href="{SITE}g/{esc(g['sid'])}.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{esc(g['title'])}">
+<meta property="og:description" content="{esc(desc)}">
+<script type="application/ld+json">{ld}</script>
+<style>
+ body{{font-family:"Pretendard","Malgun Gothic",sans-serif;line-height:1.7;color:#22262a;
+   max-width:760px;margin:0 auto;padding:28px 20px 60px}}
+ a{{color:#1b8fbc}} h1{{font-size:24px;line-height:1.4;margin:14px 0 18px}}
+ .home{{font-weight:800;color:#38B6E0;text-decoration:none;font-size:18px}}
+ table{{border-collapse:collapse;width:100%;margin:18px 0}}
+ th,td{{border:1px solid #e6eaee;padding:9px 12px;text-align:left;font-size:14px;vertical-align:top}}
+ th{{background:#f6f9fb;width:110px;white-space:nowrap;font-weight:600}}
+ h2{{font-size:16px;margin:24px 0 8px}} ul{{padding-left:20px}}
+ .cta{{display:inline-block;background:#38B6E0;color:#fff;padding:11px 20px;border-radius:999px;
+   text-decoration:none;font-weight:700;margin:8px 8px 8px 0}}
+ .note{{color:#6b7075;font-size:13px;margin-top:28px;border-top:1px solid #e6eaee;padding-top:14px}}
+</style></head><body>
+<a class="home" href="{SITE}">bin'scope</a>
+<h1>{esc(g['title'])}</h1>
+<table>{table}</table>
+<h2>어떤 사업인가요</h2><p>{esc(d.get('what') or g.get('summary'))}</p>
+<h2>지원 규모</h2><p>{esc(d.get('money'))}</p>
+<h2>이런 기업에 유리합니다</h2><p>{esc(d.get('goodFit'))}</p>
+<h2>신청 전 확인하세요</h2><p>{esc(d.get('caution'))}</p>
+{('<h2>첨부 공고문</h2><ul>' + files + '</ul>') if files else ''}
+<p><a class="cta" href="{esc(g.get('link'))}" rel="nofollow">공고 원문 보기</a>
+   <a class="cta" href="{SITE}" style="background:#eef7fb;color:#1b8fbc">지원사업 더 찾아보기</a></p>
+<p class="note">이 페이지는 공개된 공고 정보를 정리한 것입니다. 정확한 자격요건·제출서류·예산은
+반드시 공고 원문을 확인하세요. 정보는 매일 자동 갱신됩니다.</p>
+</body></html>"""
+
+def write_pages(grants):
+    """공고별 페이지 + 목록 페이지 + sitemap 생성.
+       마감된 공고 페이지가 남지 않도록 매번 폴더를 비우고 다시 만든다."""
+    if os.path.isdir(PAGES_DIR):
+        shutil.rmtree(PAGES_DIR)
+    os.makedirs(PAGES_DIR)
+    seen = set()
+    made = []
+    for g in grants:
+        sid = re.sub(r"[^A-Za-z0-9_\-]", "", g.get("sid") or "")
+        if not sid or sid in seen:
+            continue
+        seen.add(sid); g["sid"] = sid
+        with open(os.path.join(PAGES_DIR, sid + ".html"), "w", encoding="utf-8") as f:
+            f.write(page_html(g))
+        made.append(g)
+
+    # 크롤러가 따라올 수 있도록 전체 목록 페이지도 둔다
+    items = "".join(
+        '<li><a href="%s.html">%s</a> <small>%s · 마감 %s</small></li>'
+        % (esc(g["sid"]), esc(g["title"]), esc(g.get("region")), esc(g.get("deadline") or "상시"))
+        for g in made)
+    with open(os.path.join(PAGES_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(f"""<!DOCTYPE html>
+<html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전체 지원사업 공고 목록 ({len(made)}건) | bin'scope</title>
+<meta name="description" content="현재 접수 중인 정부·공공 지원사업 공고 {len(made)}건 전체 목록입니다.">
+<link rel="canonical" href="{SITE}g/">
+<style>body{{font-family:"Pretendard","Malgun Gothic",sans-serif;max-width:860px;margin:0 auto;
+padding:28px 20px 60px;line-height:1.7}}a{{color:#1b8fbc}}li{{margin-bottom:7px}}
+small{{color:#6b7075}}</style></head><body>
+<a href="{SITE}" style="font-weight:800;color:#38B6E0;text-decoration:none">bin'scope</a>
+<h1>전체 지원사업 공고 ({len(made)}건)</h1>
+<p>현재 접수 중인 정부·공공 지원사업 공고 전체 목록입니다.
+   조건에 맞는 공고를 골라 보려면 <a href="{SITE}">대시보드</a>를 이용하세요.</p>
+<ul>{items}</ul></body></html>""")
+
+    urls = [(SITE, "daily", "1.0"), (SITE + "g/", "daily", "0.9")]
+    urls += [(SITE + "g/" + g["sid"] + ".html", "weekly", "0.6") for g in made]
+    body = "".join(
+        "  <url><loc>%s</loc><changefreq>%s</changefreq><priority>%s</priority></url>\n" % u
+        for u in urls)
+    with open(os.path.join(os.path.dirname(PAGES_DIR), "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + '</urlset>\n')
+    log(f"공고별 페이지 {len(made)}개 + 목록 + sitemap({len(urls)} URL) 생성")
 
 def main():
     key = get_key()
@@ -807,10 +938,13 @@ def main():
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         f.write(payload)
 
+    # 검색엔진이 개별 공고를 색인할 수 있도록 공고별 페이지도 만든다
+    write_pages(grants)
+
     log("-" * 60)
     log(f"저장 완료: {OUT_FILE}")
     log(f"수집 {len(grants)}건 (마감 지난 {skipped_expired}건 제외)")
-    log("대시보드(nurfit-grants-app-v6.html)를 새로고침하면 실데이터로 바뀝니다.")
+    log("대시보드(index.html)를 새로고침하면 실데이터로 바뀝니다.")
     log("-" * 60)
 
 if __name__ == "__main__":

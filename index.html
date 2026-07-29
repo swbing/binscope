@@ -372,7 +372,7 @@
       <select id="fType" onchange="filterChanged()"><option value="">형태 전체</option></select>
       <select id="fElig" onchange="filterChanged()"><option value="">자격 전체</option><option value="ok">신청가능만</option><option value="hideno">미달 제외</option></select>
       <input id="fSearch" placeholder="검색" oninput="filterChanged()" onchange="logSearch(this.value)" style="width:120px">
-      <select id="sort" onchange="filterChanged()"><option value="fit">적합도순</option><option value="elig">신청가능 우선</option><option value="dday">마감 임박순</option><option value="amount">규모순</option></select>
+      <select id="sort" onchange="filterChanged()"><option value="fit">적합도순</option><option value="posted">최신 공고순</option><option value="elig">신청가능 우선</option><option value="dday">마감 임박순</option><option value="amount">규모순</option></select>
     </div>
   </div>
   <div id="list"></div>
@@ -381,7 +381,8 @@
 
 <div class="footer">
   <div class="fnote">
-    <b>지원사업 대시보드</b> · 내 지역 또는 지역무관 기준으로 자동 정렬됩니다. <a onclick="startTour()" style="color:var(--primary-deep);cursor:pointer;font-weight:600">이용 안내</a><br>
+    <b>지원사업 대시보드</b> · 내 지역 또는 지역무관 기준으로 자동 정렬됩니다. <a onclick="startTour()" style="color:var(--primary-deep);cursor:pointer;font-weight:600">이용 안내</a>
+    · <a href="g/" style="color:var(--primary-deep);font-weight:600">전체 공고 목록</a><br>
     수집 정보는 참고용이며, 정확한 요건·마감은 각 공고 원문을 확인하세요. <span style="opacity:.55">· 앱 v7.6</span>
   </div>
   <div class="contact">
@@ -694,6 +695,12 @@ function scoreFit(item){ if(store.keywords.length===0)return{score:null,hits:[]}
 function dday(dl){ if(!dl)return null; const t=new Date(dl); if(isNaN(t.getTime()))return null; return Math.ceil((t-TODAY)/864e5); }
 function ddayText(dd){ return dd===null?"상시":dd<0?"마감":dd===0?"D-DAY":"D-"+dd; }
 function won(n){ return n>=1e8?(n/1e8).toFixed(n%1e8?1:0)+"억원":(n/1e4).toLocaleString()+"만원"; }
+/* 등록된 지 7일 이내면 NEW 표시 */
+function postedBadge(p){
+  if(!p) return '';
+  const days=Math.floor((TODAY-new Date(p+'T00:00:00'))/86400000);
+  return (days>=0&&days<=7) ? ' <span class="badge ok" style="margin-left:6px">NEW</span>' : '';
+}
 function esc(s){ return (""+s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 
 /* ================= 렌더 ================= */
@@ -715,7 +722,7 @@ function render(){
     return true;
   });
   const rank={ok:0,warn:1,no:2};
-  rows.sort((a,b)=>{ if(sortBy==='fit')return(b.fit.score??-1)-(a.fit.score??-1); if(sortBy==='elig')return rank[a.dg.level]-rank[b.dg.level]||(dday(a.deadline)??9999)-(dday(b.deadline)??9999); if(sortBy==='dday')return(dday(a.deadline)??9999)-(dday(b.deadline)??9999); if(sortBy==='amount')return(b.amount||0)-(a.amount||0); });
+  rows.sort((a,b)=>{ if(sortBy==='fit')return(b.fit.score??-1)-(a.fit.score??-1); if(sortBy==='elig')return rank[a.dg.level]-rank[b.dg.level]||(dday(a.deadline)??9999)-(dday(b.deadline)??9999); if(sortBy==='dday')return(dday(a.deadline)??9999)-(dday(b.deadline)??9999); if(sortBy==='amount')return(b.amount||0)-(a.amount||0); if(sortBy==='posted')return(b.posted||'').localeCompare(a.posted||''); });
   document.getElementById('cnt').textContent=rows.length;
   const list=document.getElementById('list');
   if(!rows.length){ list.innerHTML='<div class="empty">조건에 맞는 지원사업이 없습니다.</div>'; document.getElementById('pager').innerHTML=''; return; }
@@ -733,6 +740,7 @@ function render(){
         <div class="meta">${eb}<span class="badge field">${d.field}</span><span class="badge">${esc(d.type)}</span><span class="badge">${d.region}</span><span class="badge">${esc(d.source)}</span></div>
         <div class="info"><b>지원규모</b> ${d.amount?won(d.amount):'공고 확인'}</div>
         <div class="info"><b>자격요건</b> ${esc(d.elig||'공고 원문 확인')}</div>
+        ${d.posted?`<div class="info"><b>공고 등록일</b> ${esc(d.posted)}${postedBadge(d.posted)}</div>`:''}
         ${d.dg.level!=='ok'?`<div class="info"><b>진단</b> ${esc(d.dg.msg)}</div>`:''}
         <div class="info"><b>접수마감</b> ${d.deadline} · <span class="dday ${urgent}">${ddText}</span></div>
       </div>
