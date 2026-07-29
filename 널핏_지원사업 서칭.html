@@ -26,18 +26,23 @@
   .splash-tag{ font-size:17px; color:var(--muted); margin-top:12px; letter-spacing:.4px; }
   @media (max-width:600px){ .splash-logo{ font-size:42px; } .splash-tag{ font-size:15px; } }
 
-  /* 이용 안내 가이드 */
-  .guide-scrim{ position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:150; display:none; align-items:center; justify-content:center; padding:20px; opacity:0; transition:opacity .3s; }
-  .guide-scrim.open{ display:flex; opacity:1; }
-  .guide-card{ background:#fff; border-radius:18px; padding:30px 28px 26px; max-width:470px; width:100%; box-shadow:0 24px 64px rgba(0,0,0,.3); animation:guidein .3s ease; }
-  @keyframes guidein{ from{opacity:0;transform:translateY(12px) scale(.98)} to{opacity:1;transform:none} }
-  .guide-logo{ font-size:26px; font-weight:800; color:var(--primary-deep); letter-spacing:-.6px; }
-  .guide-card h3{ font-size:15.5px; font-weight:700; color:var(--ink); margin:4px 0 16px; }
-  .guide-list{ list-style:none; padding:0; margin:0 0 20px; }
-  .guide-list li{ font-size:13px; line-height:1.6; color:#444; padding:12px 0 12px 26px; position:relative; border-top:1px solid var(--hairline); }
-  .guide-list li:first-child{ border-top:none; }
-  .guide-list li::before{ content:"✓"; position:absolute; left:0; top:12px; color:var(--primary-deep); font-weight:800; }
-  .guide-list b{ color:var(--ink); }
+  /* 온보딩 투어 */
+  .tour{ position:fixed; inset:0; z-index:180; display:none; }
+  .tour.open{ display:block; }
+  .tour.dim{ background:rgba(15,20,25,.62); transition:background .45s ease; }
+  .tour-hole{ position:fixed; border-radius:12px; box-shadow:0 0 0 9999px rgba(15,20,25,.62); transition:all .45s cubic-bezier(.4,0,.2,1); pointer-events:none; }
+  .tour-box{ position:fixed; background:#fff; border-radius:16px; padding:24px 24px 18px; width:340px; max-width:88vw; box-shadow:0 20px 54px rgba(0,0,0,.32); opacity:0; transform:translateY(8px); transition:opacity .4s ease, transform .4s ease; }
+  .tour-box.show{ opacity:1; transform:none; }
+  .tour-box h4{ font-size:17px; font-weight:800; color:var(--ink); margin-bottom:9px; letter-spacing:-.3px; }
+  .tour-box p{ font-size:13.5px; line-height:1.7; color:#444; }
+  .tour-box p b{ color:var(--primary-deep); }
+  .tour-box .trow{ display:flex; align-items:center; justify-content:space-between; margin-top:20px; }
+  .tour-box .tdot{ display:flex; gap:5px; align-items:center; }
+  .tour-box .tdot i{ width:6px; height:6px; border-radius:50%; background:var(--hairline); transition:all .3s; }
+  .tour-box .tdot i.on{ background:var(--primary-deep); width:17px; border-radius:3px; }
+  .tour-box .tbtns{ display:flex; align-items:center; gap:6px; }
+  .tour-box .tskip{ font-size:12px; color:var(--muted); background:none; border:none; cursor:pointer; font-family:var(--font); padding:8px 8px; }
+  .tour-box .tskip:hover{ color:var(--ink); }
 
   .topbar{ position:sticky; top:0; z-index:40; background:rgba(255,255,255,.92); backdrop-filter:blur(8px);
     border-bottom:1px solid var(--hairline); display:flex; align-items:center; justify-content:space-between; padding:14px 28px; }
@@ -250,26 +255,17 @@
   </div>
 </div>
 
-<!-- 이용 안내 가이드 -->
-<div id="guide" class="guide-scrim" onclick="if(event.target===this)closeGuide()">
-  <div class="guide-card">
-    <div class="guide-logo">binscope</div>
-    <h3>정부·공공 지원사업을 한눈에</h3>
-    <ul class="guide-list">
-      <li><b>⚙ 설정 · 회사 프로필</b><br>소재지·업종·인증을 넣으면 내 지역·자격에 맞는 사업만 자동으로 걸러집니다.</li>
-      <li><b>사업 방향성 키워드 등록</b><br>우리 관심사를 넣으면 공고마다 적합도 점수가 매겨져 우선순위가 보입니다.</li>
-      <li><b>공고를 클릭하면</b><br>사업 요약·자격 진단·첨부파일 다운로드, 그리고 "이 사업 우리와 맞을까?" 정합성 판단까지 확인.</li>
-      <li><b>분야 탭 · 검색 · 정렬</b><br>원하는 사업을 빠르게 찾으세요. 마감된 공고는 자동으로 사라집니다.</li>
-    </ul>
-    <button class="btn full" onclick="closeGuide()">시작하기</button>
-  </div>
+<!-- 온보딩 투어 -->
+<div id="tour" class="tour">
+  <div id="tourHole" class="tour-hole" style="display:none"></div>
+  <div id="tourBox" class="tour-box"></div>
 </div>
 
 <div class="topbar">
   <div class="brand"><img id="brandLogo" alt="회사 로고" style="display:none;max-height:28px;max-width:160px;object-fit:contain"><span class="wm" id="brandWm">nurfit</span><span class="div">|</span><span class="t">지원사업 대시보드</span></div>
   <div class="right">
     <span class="company-pill">기준 회사 <b id="coName">미설정</b> · <span id="coLoc">전체 지역</span></span>
-    <button class="gear" onclick="openSettings()">⚙ 설정</button>
+    <button class="gear" id="settingsBtn" onclick="openSettings()">⚙ 설정</button>
     <button class="gear admin" onclick="openAdmin()">🔒 작업자</button>
   </div>
 </div>
@@ -306,8 +302,8 @@
 
 <div class="footer">
   <div class="fnote">
-    <b>지원사업 대시보드</b> · 내 지역 또는 지역무관 기준으로 자동 정렬됩니다. <a onclick="openGuide()" style="color:var(--primary-deep);cursor:pointer;font-weight:600">이용 안내</a><br>
-    수집 정보는 참고용이며, 정확한 요건·마감은 각 공고 원문을 확인하세요. <span style="opacity:.55">· 앱 v7.4</span>
+    <b>지원사업 대시보드</b> · 내 지역 또는 지역무관 기준으로 자동 정렬됩니다. <a onclick="startTour()" style="color:var(--primary-deep);cursor:pointer;font-weight:600">이용 안내</a><br>
+    수집 정보는 참고용이며, 정확한 요건·마감은 각 공고 원문을 확인하세요. <span style="opacity:.55">· 앱 v7.5</span>
   </div>
   <div class="contact">
     <a class="ad" onclick="openAdInquiry()">광고·제휴 문의</a><br>
@@ -878,13 +874,48 @@ function boot(){
   fillInputs(); renderFooter(); applyLogo(); renderLogoPreview(); renderBanner();
   renderTabs(); initFilters(); renderSources(); renderCerts(); renderChips(); render();
 }
-/* ---- 인트로 스플래시 & 이용 가이드 ---- */
-function skipSplash(){ const s=document.getElementById('splash'); if(!s||s.classList.contains('hide'))return; s.classList.add('hide'); setTimeout(()=>{ s.style.display='none'; if(!localStorage.getItem('binscope_seen_guide'))openGuide(); },450); }
-function openGuide(){ document.getElementById('guide').classList.add('open'); }
-function closeGuide(){ document.getElementById('guide').classList.remove('open'); localStorage.setItem('binscope_seen_guide','1'); }
+/* ---- 인트로 스플래시 ---- */
+function skipSplash(){ const s=document.getElementById('splash'); if(!s||s.classList.contains('hide'))return; s.classList.add('hide'); setTimeout(()=>{ s.style.display='none'; if(!localStorage.getItem('binscope_seen_guide'))startTour(); },450); }
+
+/* ---- 온보딩 투어 (단계별 소개) ---- */
+const TOUR=[
+  {title:'매일 500개 이상의 공고를 서칭합니다', text:'전국 정부·공공 지원사업을 한곳에 모아드려요. 편하게 확인하세요.'},
+  {title:'먼저, 우리 회사를 설정해요', text:'오른쪽 위 <b>⚙ 설정</b>에서 회사 정보를 넣으면, 나에게 맞는 공고만 골라서 보여드립니다.', spot:'#settingsBtn'},
+  {title:'회사명 · 로고', text:'회사명과 로고를 넣으면 왼쪽 위에 <b>우리 회사 브랜드</b>로 표시됩니다.', spot:'#settingsBtn'},
+  {title:'사업 방향성 키워드 ★', text:'우리 관심사(예: 수출·R&D·마케팅)를 등록하면 <b>우리 회사와 정합성이 높은 공고</b>를 자동으로 찾아 점수로 보여줍니다.', spot:'#settingsBtn'},
+  {title:'설립일 · 업종 · 소재지', text:'회사 설립 정보를 넣으면 공고마다 <b>신청 자격</b>(신청 가능 여부)을 쉽게 확인할 수 있어요.', spot:'#settingsBtn'},
+  {title:'안내 완료! 🎉', text:'이제 다양한 지원사업을 한눈에 확인해 보세요.', last:true},
+];
+let tourStep=0;
+function startTour(){ tourStep=0; document.getElementById('tour').classList.add('open'); showTourStep(); }
+function tourNext(){ tourStep++; if(tourStep>=TOUR.length){ endTour(); return; } showTourStep(); }
+function tourPrev(){ if(tourStep>0){ tourStep--; showTourStep(); } }
+function endTour(){ const t=document.getElementById('tour'); document.getElementById('tourBox').classList.remove('show'); localStorage.setItem('binscope_seen_guide','1'); setTimeout(()=>{ t.classList.remove('open','dim'); document.getElementById('tourHole').style.display='none'; },400); }
+function showTourStep(){
+  const s=TOUR[tourStep], tour=document.getElementById('tour'), box=document.getElementById('tourBox'), hole=document.getElementById('tourHole');
+  box.classList.remove('show');  // 페이드 아웃
+  setTimeout(()=>{
+    const t=s.spot?document.querySelector(s.spot):null;
+    if(t){ // 스포트라이트: 대상 강조 + 박스는 대상 아래
+      tour.classList.remove('dim');
+      const r=t.getBoundingClientRect();
+      hole.style.display='block';
+      hole.style.left=(r.left-7)+'px'; hole.style.top=(r.top-7)+'px'; hole.style.width=(r.width+14)+'px'; hole.style.height=(r.height+14)+'px';
+      box.style.top=(r.bottom+16)+'px'; box.style.right='22px'; box.style.left='auto'; box.style.transform='translateY(8px)';
+    } else { // 가운데
+      hole.style.display='none'; tour.classList.add('dim');
+      box.style.top='50%'; box.style.left='50%'; box.style.right='auto'; box.style.transform='translate(-50%,-50%) translateY(8px)';
+    }
+    const centered=!t;
+    box.innerHTML=`<h4>${s.title}</h4><p>${s.text}</p>
+      <div class="trow"><span class="tdot">${TOUR.map((_,i)=>`<i class="${i===tourStep?'on':''}"></i>`).join('')}</span>
+      <span class="tbtns">${tourStep>0?`<button class="tskip" onclick="tourPrev()">이전</button>`:`<button class="tskip" onclick="endTour()">건너뛰기</button>`}<button class="btn" onclick="tourNext()">${s.last?'시작하기':'다음'}</button></span></div>`;
+    setTimeout(()=>{ box.classList.add('show'); box.style.transform=centered?'translate(-50%,-50%)':'none'; },30);
+  }, 260);
+}
 
 load(); trackVisit(); boot();
-setTimeout(skipSplash, 3200);   // 스플래시 자동 종료 후 (첫 방문이면) 가이드
+setTimeout(skipSplash, 3200);   // 스플래시 자동 종료 후 (첫 방문이면) 투어
 </script>
 </body>
 </html>
