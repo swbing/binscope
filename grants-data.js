@@ -16801,4 +16801,4 @@ window.GRANTS = [
   ]
  }
 ];
-window.GRANTS_META = {"collectedAt": "2026-07-29 09:12", "source": "기업마당(bizinfo) 오픈API", "count": 500, "summaryBy": "Claude (요약 캐시)"};
+window.GRANTS_META = {"collectedAt": "2026-07-29 00:28", "source": "기업마당(bizinfo) 오픈API", "count": 500, "summaryBy": "Claude (요약 캐시)"};
