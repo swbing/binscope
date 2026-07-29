@@ -62,7 +62,9 @@ def clean_lead(text, cap=220):
 
 API_URL = "https://www.bizinfo.go.kr/uss/rss/bizinfoApi.do"
 OUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "grants-data.js")
-MAX_ITEMS = 500
+# 기업마당 API 는 접수중 공고만 돌려주며, 실측상 1,534건에서 상한이 걸린다
+# (searchCnt 를 2000·3000 으로 올려도 동일). 여유값을 둬서 전량을 받는다.
+MAX_ITEMS = 2000
 
 # 앱의 14개 분야로 매핑 (bizinfo 분야명 -> 앱 분야)
 FIELD_MAP = {
@@ -354,15 +356,18 @@ def apply_summary_cache(grants, cache):
 # ---- 첨부파일 링크 수집 (상세페이지에서 실제 다운로드 URL 추출) ----
 FILE_RE = re.compile(r'href="(/cmm/fms/fileDown\.do\?atchFileId=[^"]+)"[^>]*?title="첨부파일\s*(.+?)\s*다운로드"', re.S)
 
-def fetch_detail_files(url):
-    if not url or "bizinfo.go.kr" not in url:
-        return []
-    try:
-        ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        page = urllib.request.urlopen(req, context=ctx, timeout=30).read().decode("utf-8", "replace")
-    except Exception:
-        return []
+# K-Startup 상세페이지 첨부: <li class="clear"> 안에 파일명(a.file_bg title)과
+# 다운로드 주소(/afile/fileDownload/토큰)가 짝지어 들어있다.
+KS_NAME_RE = re.compile(r'<a class="file_bg"[^>]*title="\[첨부파일\]\s*(.*?)\s*"', re.S)
+KS_HREF_RE = re.compile(r'href="(/afile/fileDownload/[^"]+)"')
+
+def _get_page(url):
+    ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    return urllib.request.urlopen(req, context=ctx, timeout=30).read().decode("utf-8", "replace")
+
+def fetch_bizinfo_files(url):
+    page = _get_page(url)
     out, seen = [], set()
     for href, name in FILE_RE.findall(page):
         full = "https://www.bizinfo.go.kr" + href.replace("&amp;", "&")
@@ -373,6 +378,38 @@ def fetch_detail_files(url):
         if len(out) >= 10:
             break
     return out
+
+def fetch_kstartup_files(url):
+    page = _get_page(url)
+    m = re.search(r'(?is)<div class="board_file">(.*?)</div>\s*</div>', page)
+    if not m:
+        return []
+    out, seen = [], set()
+    for li in re.split(r'(?i)<li class="clear">', m.group(1))[1:]:
+        nm, hr = KS_NAME_RE.search(li), KS_HREF_RE.search(li)
+        if not (nm and hr):
+            continue
+        full = "https://www.k-startup.go.kr" + hr.group(1).replace("&amp;", "&")
+        if full in seen:
+            continue
+        seen.add(full)
+        out.append({"name": html.unescape(nm.group(1)).strip(), "url": full})
+        if len(out) >= 10:
+            break
+    return out
+
+def fetch_detail_files(url):
+    """공고 상세페이지에서 실제 첨부파일 다운로드 주소를 뽑는다 (소스별 분기)."""
+    if not url:
+        return []
+    try:
+        if "bizinfo.go.kr" in url:
+            return fetch_bizinfo_files(url)
+        if "k-startup.go.kr" in url:
+            return fetch_kstartup_files(url)
+    except Exception:
+        return []
+    return []
 
 def attach_files(grants):
     log(f"첨부파일 다운로드 링크 수집 중... {len(grants)}건 상세페이지 조회 (잠시 걸립니다)")
