@@ -30,7 +30,10 @@
   .tour{ position:fixed; inset:0; z-index:180; display:none; }
   .tour.open{ display:block; }
   .tour.dim{ background:rgba(15,20,25,.62); transition:background .45s ease; }
-  .tour-hole{ position:fixed; border-radius:12px; box-shadow:0 0 0 9999px rgba(15,20,25,.62); transition:all .45s cubic-bezier(.4,0,.2,1); pointer-events:none; }
+  .tour-hole{ position:fixed; border-radius:12px; box-shadow:0 0 0 9999px rgba(15,20,25,.62); transition:all .45s cubic-bezier(.4,0,.2,1); pointer-events:none;
+    outline:2px solid var(--primary); outline-offset:0; }
+  /* 투어 중에는 서랍 스크림을 끔 — 스포트라이트 그늘과 겹쳐 탁해지는 것 방지 */
+  body.tour-active .scrim{ opacity:0 !important; }
   .tour-box{ position:fixed; background:#fff; border-radius:16px; padding:24px 24px 18px; width:340px; max-width:88vw; box-shadow:0 20px 54px rgba(0,0,0,.32); opacity:0; transform:translateY(8px); transition:opacity .4s ease, transform .4s ease; }
   .tour-box.show{ opacity:1; transform:none; }
   .tour-box h4{ font-size:17px; font-weight:800; color:var(--ink); margin-bottom:9px; letter-spacing:-.3px; }
@@ -152,7 +155,9 @@
   .acc-head{ display:flex; align-items:center; justify-content:space-between; width:100%; background:none; border:none; padding:18px 0; cursor:pointer; font-family:var(--font); font-size:14.5px; font-weight:700; color:var(--ink); text-align:left; }
   .acc-head .arw{ color:var(--primary-deep); transition:transform .2s; font-size:13px; }
   .acc.open .acc-head .arw{ transform:rotate(90deg); }
-  .acc-body{ display:none; padding:2px 0 20px; } .acc.open .acc-body{ display:block; }
+  .acc-body{ display:none; padding:2px 0 20px; }
+  .acc.open .acc-body{ display:block; animation:accIn .28s ease both; }   /* 펼칠 때 부드럽게 */
+  @keyframes accIn{ from{ opacity:0; transform:translateY(-5px); } to{ opacity:1; transform:none; } }
   .acc-head .sub{ font-size:11px; color:var(--muted); font-weight:500; margin-left:8px; }
 
   .row{ display:flex; gap:7px; margin-bottom:9px; }
@@ -749,7 +754,7 @@ function openDetail(id){
         <textarea id="dgGoal" rows="2" placeholder="예: 일본 자사몰 오픈과 현지 마케팅 비용 확보"></textarea>
         <button class="btn full" onclick="runDiag(${d.id})">정합성 진단하기</button>
         <div class="diag-result" id="diagResult"></div>
-        <div class="note-flag">회사 프로필·방향성·원하는 결과물을 이 공고(내용 + 첨부파일)와 비교해 판단합니다. <b>입력한 회사 정보에 따라 결과가 달라집니다.</b> 지금은 규칙 기반 매칭이며, 서버 단계에서 Claude 의미판단으로 고도화됩니다.</div>
+        <div class="note-flag">회사 프로필·방향성·원하는 결과물을 이 공고(내용 + 첨부파일)와 비교해 판단합니다. <b>입력한 회사 정보에 따라 결과가 달라집니다.</b></div>
       </div>
     </div>`;
   document.getElementById('detail').classList.add('open'); document.getElementById('scrim').classList.add('open');
@@ -910,40 +915,124 @@ function boot(){
 function skipSplash(){ const s=document.getElementById('splash'); if(!s||s.classList.contains('hide'))return; s.classList.add('hide'); setTimeout(()=>{ s.style.display='none'; if(!localStorage.getItem('binscope_seen_guide'))startTour(); },450); }
 
 /* ---- 온보딩 투어 (단계별 소개) ---- */
+/* 각 단계 옵션
+     spot   : 강조할 대상 CSS 선택자. 여러 개면 콤마로 — 모두 감싸는 하나의 사각형으로 묶어 비춘다.
+     drawer : true 면 설정 서랍을 열어둔 채 진행
+     acc    : 펼쳐 둘 아코디언(dir·prof·site·src). 나머지는 자동으로 접힘 */
 const TOUR=[
   {title:'매일 500개 이상의 공고를 서칭합니다', text:'전국 정부·공공 지원사업을 한곳에 모아드려요. 편하게 확인하세요.'},
-  {title:'먼저, 우리 회사를 설정해요', text:'오른쪽 위 <b>⚙ 설정</b>에서 회사 정보를 넣으면, 나에게 맞는 공고만 골라서 보여드립니다.', spot:'#settingsBtn'},
-  {title:'회사명 · 로고', text:'회사명과 로고를 넣으면 왼쪽 위에 <b>우리 회사 브랜드</b>로 표시됩니다.', spot:'#settingsBtn'},
-  {title:'사업 방향성 키워드 ★', text:'우리 관심사(예: 수출·R&D·마케팅)를 등록하면 <b>우리 회사와 정합성이 높은 공고</b>를 자동으로 찾아 점수로 보여줍니다.', spot:'#settingsBtn'},
-  {title:'설립일 · 업종 · 소재지', text:'회사 설립 정보를 넣으면 공고마다 <b>신청 자격</b>(신청 가능 여부)을 쉽게 확인할 수 있어요.', spot:'#settingsBtn'},
+  {title:'먼저, 우리 회사를 설정해요', text:'오른쪽 위 <b>⚙ 설정</b>을 누르면 회사 정보를 넣을 수 있어요. 지금 직접 열어서 하나씩 보여드릴게요.', spot:'#settingsBtn'},
+  {title:'사업 방향성 키워드 ★', text:'우리 관심사(예: 수출·R&D·마케팅)를 등록하면 <b>우리 회사와 정합성이 높은 공고</b>를 자동으로 찾아 점수로 보여줍니다. 가장 먼저 채워두시면 좋아요.', drawer:true, acc:'dir', spot:'#acc-dir'},
+  {title:'회사명 · 로고', text:'회사명과 로고를 넣으면 화면 <b>왼쪽 위에 우리 회사 브랜드</b>로 표시됩니다.', drawer:true, acc:'prof', spot:'#pName,#pLogo'},
+  {title:'회사 이력 — 설립일 · 인원 · 매출 · 업종', text:'이 값들로 공고마다 <b>신청 자격이 되는지</b>를 자동으로 판정해, 지원 가능한 공고만 골라볼 수 있어요.', drawer:true, acc:'prof', spot:'#pFounded,#pEmp,#pRev,#pBiz'},
+  {title:'소재지 · 기업 유형', text:'본사 소재지를 정하면 <b>내 지역 사업이 자동으로 전환</b>되고, 인증(벤처·여성기업 등)을 체크하면 해당 공고의 가점까지 반영됩니다.', drawer:true, acc:'prof', spot:'#pLoc,#certs'},
   {title:'안내 완료! 🎉', text:'이제 다양한 지원사업을 한눈에 확인해 보세요.', last:true},
 ];
+const ACC_IDS=['dir','prof','site','src'];
 let tourStep=0;
-function startTour(){ tourStep=0; document.getElementById('tour').classList.add('open'); showTourStep(); }
+function startTour(){ tourStep=0; document.body.classList.add('tour-active'); document.getElementById('tour').classList.add('open'); showTourStep(); }
 function tourNext(){ tourStep++; if(tourStep>=TOUR.length){ endTour(); return; } showTourStep(); }
 function tourPrev(){ if(tourStep>0){ tourStep--; showTourStep(); } }
-function endTour(){ const t=document.getElementById('tour'); document.getElementById('tourBox').classList.remove('show'); localStorage.setItem('binscope_seen_guide','1'); setTimeout(()=>{ t.classList.remove('open','dim'); document.getElementById('tourHole').style.display='none'; },400); }
+function endTour(){ const t=document.getElementById('tour'); document.getElementById('tourBox').classList.remove('show'); localStorage.setItem('binscope_seen_guide','1');
+  setTimeout(()=>{ t.classList.remove('open','dim'); document.getElementById('tourHole').style.display='none';
+    document.body.classList.remove('tour-active'); closeAll(); },400); }
+
+/* 여러 대상을 하나로 묶는 사각형 (라벨까지 포함되도록 .field/.grid2/.acc 단위로 확장) */
+function tourRect(sel){
+  const els=[...document.querySelectorAll(sel)].map(e=>e.closest('.field,.grid2,.acc')||e)
+    .filter(e=>e.getClientRects().length);
+  if(!els.length) return null;
+  let l=Infinity,t=Infinity,r=-Infinity,b=-Infinity;
+  els.forEach(e=>{ const q=e.getBoundingClientRect();
+    l=Math.min(l,q.left); t=Math.min(t,q.top); r=Math.max(r,q.right); b=Math.max(b,q.bottom); });
+  return {left:l, top:t, width:r-l, height:b-t, bottom:b};
+}
+
 function showTourStep(){
-  const s=TOUR[tourStep], tour=document.getElementById('tour'), box=document.getElementById('tourBox'), hole=document.getElementById('tourHole');
-  box.classList.remove('show');  // 페이드 아웃
+  const s=TOUR[tourStep], box=document.getElementById('tourBox');
+  box.classList.remove('show');                       // 먼저 페이드 아웃
+  const drawer=document.getElementById('settings');
+  const wasOpen=drawer.classList.contains('open'), wantOpen=!!s.drawer;
   setTimeout(()=>{
-    const t=s.spot?document.querySelector(s.spot):null;
-    if(t){ // 스포트라이트: 대상 강조 + 박스는 대상 아래
-      tour.classList.remove('dim');
-      const r=t.getBoundingClientRect();
-      hole.style.display='block';
-      hole.style.left=(r.left-7)+'px'; hole.style.top=(r.top-7)+'px'; hole.style.width=(r.width+14)+'px'; hole.style.height=(r.height+14)+'px';
-      box.style.top=(r.bottom+16)+'px'; box.style.right='22px'; box.style.left='auto'; box.style.transform='translateY(8px)';
-    } else { // 가운데
-      hole.style.display='none'; tour.classList.add('dim');
-      box.style.top='50%'; box.style.left='50%'; box.style.right='auto'; box.style.transform='translate(-50%,-50%) translateY(8px)';
+    if(wantOpen && !wasOpen) openSettings();
+    else if(!wantOpen && wasOpen) closeAll();
+    if(s.acc) ACC_IDS.forEach(i=>document.getElementById('acc-'+i).classList.toggle('open', i===s.acc));
+    // 서랍이 미끄러져 들어오는 .28s 를 기다린 뒤에 측정해야 위치가 어긋나지 않는다
+    const wait=(wantOpen!==wasOpen)?320:(s.acc?60:0);
+    setTimeout(()=>{
+      if(!s.spot){ paintTourStep(s); return; }
+      const first=document.querySelector(s.spot);
+      if(first) (first.closest('.field,.grid2,.acc')||first).scrollIntoView({block:'center', behavior:'smooth'});
+      // 스크롤 거리가 길면(특히 좁은 화면) 고정 대기로는 부족해 스포트라이트가 어긋난다.
+      // 대상 좌표가 '멈출 때까지' 확인한 뒤 확정 위치에 그린다.
+      whenSettled(s.spot, ()=>paintTourStep(s));
+    }, wait);
+  }, 240);
+}
+
+/* 대상 사각형이 연속 2회 같은 값이면 스크롤이 멎은 것으로 보고 콜백.
+   상한은 '실제 경과 시간'으로 잰다 — 탭이 백그라운드면 setTimeout 이 늘어져
+   호출 횟수로 세면 영영 안 끝날 수 있기 때문(그러면 안내 박스가 안 뜬다). */
+function whenSettled(sel, cb){
+  const deadline=performance.now()+1200;
+  let prev=null, same=0;
+  (function tick(){
+    const r=tourRect(sel);
+    const key=r?Math.round(r.top)+':'+Math.round(r.left):'x';
+    same=(key===prev)?same+1:0; prev=key;
+    if(same>=2 || performance.now()>=deadline){ cb(); return; }
+    setTimeout(tick,60);
+  })();
+}
+
+function paintTourStep(s){
+  const tour=document.getElementById('tour'), box=document.getElementById('tourBox'), hole=document.getElementById('tourHole');
+  const rect=s.spot?tourRect(s.spot):null;
+  let from, to;
+  // 위치 계산 전에 내용을 먼저 넣어야 박스 높이를 알 수 있다(좁은 화면에서 위/아래 판단에 필요)
+  box.innerHTML=`<h4>${s.title}</h4><p>${s.text}</p>
+    <div class="trow"><span class="tdot">${TOUR.map((_,i)=>`<i class="${i===tourStep?'on':''}"></i>`).join('')}</span>
+    <span class="tbtns">${tourStep>0?`<button class="tskip" onclick="tourPrev()">이전</button>`:`<button class="tskip" onclick="endTour()">건너뛰기</button>`}<button class="btn" onclick="tourNext()">${s.last?'시작하기':'다음'}</button></span></div>`;
+  if(rect){
+    tour.classList.remove('dim');                     // 어둠은 hole 의 box-shadow 가 담당
+    const pad=9;
+    hole.style.display='block';
+    hole.style.left=(rect.left-pad)+'px';  hole.style.top=(rect.top-pad)+'px';
+    hole.style.width=(rect.width+pad*2)+'px'; hole.style.height=(rect.height+pad*2)+'px';
+
+    const drawer=document.getElementById('settings');
+    const drawerOpen=drawer.classList.contains('open');
+    const dw=drawer.getBoundingClientRect().width;
+    box.style.bottom='auto';
+    if(drawerOpen && window.innerWidth>900){          // 서랍 왼쪽에 나란히
+      box.style.left='auto'; box.style.right=(dw+26)+'px';
+      const top=Math.max(16, Math.min(rect.top+rect.height/2-120, window.innerHeight-250));
+      box.style.top=top+'px';
+      from='translateY(8px)'; to='none';
+    } else if(drawerOpen){                            // 좁은 화면 — 스포트라이트를 가리지 않는 쪽에
+      const boxH=box.offsetHeight||190, gap=14;
+      const below=window.innerHeight-(rect.top+rect.height+pad), above=rect.top-pad;
+      box.style.left='50%'; box.style.right='auto';
+      if(below>=boxH+gap){                            // 아래 공간이 충분하면 아래
+        box.style.top=(rect.top+rect.height+pad+gap)+'px'; box.style.bottom='auto';
+      } else if(above>=boxH+gap){                     // 아니면 위
+        box.style.top='auto'; box.style.bottom=(window.innerHeight-rect.top+pad+gap)+'px';
+      } else {                                        // 둘 다 부족하면 화면 아래 고정
+        box.style.top='auto'; box.style.bottom='18px';
+      }
+      from='translate(-50%,8px)'; to='translate(-50%,0)';
+    } else {                                          // 서랍 밖 대상 — 대상 아래
+      box.style.top=(rect.bottom+16)+'px'; box.style.right='22px'; box.style.left='auto';
+      from='translateY(8px)'; to='none';
     }
-    const centered=!t;
-    box.innerHTML=`<h4>${s.title}</h4><p>${s.text}</p>
-      <div class="trow"><span class="tdot">${TOUR.map((_,i)=>`<i class="${i===tourStep?'on':''}"></i>`).join('')}</span>
-      <span class="tbtns">${tourStep>0?`<button class="tskip" onclick="tourPrev()">이전</button>`:`<button class="tskip" onclick="endTour()">건너뛰기</button>`}<button class="btn" onclick="tourNext()">${s.last?'시작하기':'다음'}</button></span></div>`;
-    setTimeout(()=>{ box.classList.add('show'); box.style.transform=centered?'translate(-50%,-50%)':'none'; },30);
-  }, 260);
+  } else {                                            // 화면 정중앙
+    hole.style.display='none'; tour.classList.add('dim');
+    box.style.top='50%'; box.style.left='50%'; box.style.right='auto'; box.style.bottom='auto';
+    from='translate(-50%,-50%) translateY(8px)'; to='translate(-50%,-50%)';
+  }
+  box.style.transform=from;
+  // rAF 는 탭이 비활성일 때 지연돼 박스가 안 뜨는 문제가 있어 setTimeout 사용
+  setTimeout(()=>{ box.classList.add('show'); box.style.transform=to; },30);
 }
 
 load(); trackVisit(); boot();
