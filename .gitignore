@@ -3,6 +3,8 @@ bizinfo_key.txt
 anthropic_key.txt
 kstartup_key.txt
 collect_log.txt
+__pycache__/
+*.pyc
 
 # 로컬 문서·스크립트 (공개 저장소엔 불필요)
 HANDOFF.md
