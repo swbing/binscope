@@ -1,0 +1,12 @@
+# 비밀·로컬 전용 — 절대 공개 금지
+bizinfo_key.txt
+anthropic_key.txt
+collect_log.txt
+
+# 로컬 문서·스크립트 (공개 저장소엔 불필요)
+HANDOFF.md
+C_공개배포_가이드.md
+실데이터-연결-방법.md
+*.bat
+nurfit-grants-dashboard-v5.html
+서칭.html
