@@ -530,6 +530,171 @@ def normalize_kstartup(item, idx):
         "period": period,
     }
 
+# ===== 커넥트웍스 (works.connect24.kr) — 지역 테크노파크·진흥원 등 '그 외' 공고 =====
+# 목록 카드가 data-* 속성에 값을 그대로 담고 있어 본문 파싱이 필요 없다.
+# robots.txt 는 /calendar.php 만 금지하고 나머지는 Allow (2026-07 확인).
+CW_URL = "https://works.connect24.kr/"
+CW_MAX_PAGES = 80          # 실측상 접수중 공고는 1~30페이지에 몰려 있음
+CW_DRY_STOP = 3            # 접수중이 0건인 페이지가 연속 3회면 중단
+CW_ATTR = re.compile(r'(data-[a-z\-]+)="([^"]*)"')
+CW_HOSTS = {   # 자주 나오는 원출처 → 읽기 좋은 기관명
+    "www.k-startup.go.kr": "K-Startup", "www.gepa.kr": "경기도경제과학진흥원",
+    "www.jntp.or.kr": "전남테크노파크", "www.btp.or.kr": "부산테크노파크",
+    "www.bepa.kr": "부산경제진흥원", "www.ptp.or.kr": "포항테크노파크",
+    "itp.or.kr": "인천테크노파크", "www.gwtp.or.kr": "강원테크노파크",
+    "www.utp.or.kr": "울산테크노파크", "www.ttp.org": "대전테크노파크",
+    "dip.or.kr": "대구경북디자인진흥원", "www.kiat.or.kr": "한국산업기술진흥원",
+    "kotra.or.kr": "KOTRA", "kidp.or.kr": "한국디자인진흥원",
+    "www.khidi.or.kr": "한국보건산업진흥원", "www.koipa.re.kr": "한국지식재산보호원",
+    "www.mss.go.kr": "중소벤처기업부", "www.innopolis.or.kr": "연구개발특구진흥재단",
+}
+
+def cw_cards(page_html):
+    """data-id 를 가진 태그 하나가 공고 카드 하나"""
+    out = []
+    for m in re.finditer(r'<[^>]*\bdata-id="[^"]*"[^>]*>', page_html):
+        d = {k: html.unescape(v) for k, v in CW_ATTR.findall(m.group(0))}
+        if d.get("data-title"):
+            out.append(d)
+    return out
+
+def cw_money(s):
+    """'300,000,000 원' -> 300000000 (없거나 0이면 0)"""
+    n = re.sub(r"[^\d]", "", s or "")
+    return int(n) if n else 0
+
+def cw_won(n):
+    """앱의 won() 과 같은 표기 (3억원 / 2,500만원)"""
+    if n >= 100000000:
+        return ("%.1f억원" % (n / 100000000)) if n % 100000000 else ("%d억원" % (n // 100000000))
+    if n >= 10000:
+        return "{:,}만원".format(n // 10000)
+    return "{:,}원".format(n)
+
+# 커넥트웍스의 분야 분류는 앱의 분야와 거의 1:1 이라 그대로 옮긴다.
+# (본문 키워드 추정에 맡기면 '입주 모집' 공고가 혜택문구의 '수출' 때문에 글로벌로 빠진다)
+CW_FIELD = [
+    ("R&D", ["R&D", "연구개발", "기술개발"]),
+    ("창업", ["창업"]),
+    ("글로벌", ["글로벌", "수출", "해외"]),
+    ("마케팅", ["마케팅", "내수", "판로", "홍보"]),
+    ("제작", ["제작", "시제품", "제조"]),
+    ("디자인", ["디자인"]),
+    ("컨텐츠", ["콘텐츠", "컨텐츠"]),
+    ("인력", ["인력", "고용", "채용", "일자리"]),
+    ("금융", ["금융", "자금", "융자", "투자"]),
+    ("교육", ["교육"]),
+    ("네트워크", ["네트워크", "행사", "대회", "경진"]),
+    ("컨설팅", ["컨설팅", "경영"]),
+    ("기술", ["기술", "인증", "특허", "지식재산"]),
+    ("기타", ["공간", "시설", "보육", "입주"]),
+]
+
+def cw_field(supportfield, text):
+    cat = supportfield or ""
+    # '기술,제작,디자인,인력,글로벌,내수,마케팅,컨설팅' 처럼 분야를 죄다 붙여둔
+    # 뭉뚱그린 태그는 분류로서 의미가 없다(첫 항목만 집으면 엉뚱하게 빠짐).
+    if len([x for x in cat.split(",") if x.strip()]) >= 5:
+        cat = ""
+    if cat:
+        for name, keys in CW_FIELD:           # 사이트가 붙여둔 분류를 우선
+            if any(k in cat for k in keys):
+                return name
+    return map_field(cat, text)               # 분류가 없거나 뭉뚱그려졌으면 본문 추정
+
+def fetch_connectworks(max_pages=CW_MAX_PAGES):
+    """등록일 최신순이라 앞쪽부터 접수중. 마감 지난 페이지가 이어지면 멈춘다."""
+    today = date.today().isoformat()
+    ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
+    try:
+        ctx.set_ciphers("DEFAULT@SECLEVEL=1")
+    except Exception:
+        pass
+    out, seen, dry = [], set(), 0
+    for page in range(1, max_pages + 1):
+        url = CW_URL if page == 1 else CW_URL + "?page=" + str(page)
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0", "Accept": "text/html",
+                "Accept-Language": "ko-KR,ko;q=0.9"})
+            raw = urllib.request.urlopen(req, context=ctx, timeout=30).read().decode("utf-8", "replace")
+        except Exception as e:
+            log("  커넥트웍스 %d페이지 실패: %s" % (page, str(e)[:70])); break
+        cards = cw_cards(raw)
+        if not cards:
+            break
+        fresh = 0
+        for d in cards:
+            cid = d.get("data-id")
+            if not cid or cid in seen:
+                continue
+            seen.add(cid)
+            # 이 사이트는 지난 공고까지 전부 보관한다. 마감일이 비어 있는 항목은
+            # '상시'가 아니라 대개 옛 공고라, 미래 마감일이 확인된 것만 받는다.
+            dl = parse_deadline(d.get("data-deadline", ""))
+            if not dl or dl < today:
+                continue
+            d["_deadline"] = dl
+            out.append(d); fresh += 1
+        dry = 0 if fresh else dry + 1
+        if dry >= CW_DRY_STOP:
+            log("  접수중 공고가 끊겨 %d페이지에서 중단" % page); break
+    return out
+
+def normalize_connectworks(d, idx):
+    title = (d.get("data-title") or "").strip()
+    if not title:
+        return None
+    link   = (d.get("data-source-link") or d.get("data-link") or "").strip()
+    field_ = (d.get("data-supportfield") or "").replace(",", " ")
+    region = (d.get("data-region") or "").strip()
+    ctype  = (d.get("data-companytype") or "").strip()
+    period = (d.get("data-startupperiod") or "").strip()
+    benefit = (d.get("data-benefit") or "").strip()     # 지원 항목(사실 나열)
+    inst   = (d.get("data-supportinstitution") or "").strip()
+    text   = " ".join([title, field_, benefit, ctype])
+
+    m = re.match(r"https?://([^/]+)", link)
+    host = m.group(1) if m else ""
+    src = inst or CW_HOSTS.get(host) or host or "커넥트웍스"
+
+    # 기업당 지원금만 '지원규모'로 쓴다. 총사업비를 쓰면 규모가 부풀려 보인다.
+    amount = cw_money(d.get("data-supportamount"))
+    total  = cw_money(d.get("data-totalbudget"))
+    if amount:
+        money = "기업당 최대 %s 지원(공고 기준)." % cw_won(amount)
+    elif total:
+        money = "총사업비 %s 규모. 기업당 지원금은 공고 원문에서 확인하세요." % cw_won(total)
+    else:
+        money = "지원금 규모는 공고 원문에서 확인하세요."
+
+    elig = " · ".join([x for x in (ctype, period) if x and x != "전체"]) or "공고 원문 확인"
+    reg = region if region in REGIONS else "전국"      # '지역무관' 등은 전국 처리
+
+    return {
+        "id": 30000 + idx,
+        "title": title,
+        "field": cw_field(d.get("data-supportfield"), text),
+        "type": detect_type(text),
+        "amount": amount,
+        "region": reg,
+        "deadline": d.get("_deadline"),
+        "elig": elig,
+        "summary": benefit or (title + " — 상세는 공고 원문을 확인하세요."),
+        "detail": {
+            "what": benefit or (title + " 관련 지원사업입니다."),
+            "money": money,
+            "goodFit": elig,
+            "caution": "접수 마감 %s. 정확한 자격요건·제출서류는 반드시 공고 원문(%s)을 확인하세요."
+                       % (d.get("data-deadline", ""), src),
+        },
+        "link": link,
+        "source": src,
+        "req": {},
+        "real": True,
+        "period": d.get("data-deadline", ""),
+    }
+
 def main():
     key = get_key()
     if not key:
@@ -585,6 +750,24 @@ def main():
     else:
         log("(K-Startup 키 없음 → 기업마당만. 추가하려면 kstartup_key.txt 에 키 저장)")
 
+    # 커넥트웍스 — 지역 테크노파크·진흥원 등 앞의 두 소스에 없는 공고
+    log("커넥트웍스 목록 수집 중...")
+    cw_items = fetch_connectworks()
+    log(f"커넥트웍스 접수중 {len(cw_items)}건 확인")
+    seen = set(re.sub(r"\s+", "", g["title"]) for g in grants)
+    cw_add = 0
+    for j, d in enumerate(cw_items):
+        g = normalize_connectworks(d, j)
+        if not g or not g["link"]:
+            continue
+        tk = re.sub(r"\s+", "", g["title"])
+        if tk in seen:
+            continue
+        seen.add(tk)
+        grants.append(g)
+        cw_add += 1
+    log(f"커넥트웍스 추가 {cw_add}건 (기업마당·K-Startup 중복 제외)")
+
     # 마감 임박 순 정렬 (상시=맨 뒤)
     grants.sort(key=lambda x: x["deadline"] or "9999-12-31")
 
@@ -613,7 +796,8 @@ def main():
 
     meta = {
         "collectedAt": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "source": "기업마당(bizinfo)" + (" + K-Startup" if kkey else "") + " 오픈API",
+        "source": ("기업마당(bizinfo)" + (" + K-Startup" if kkey else "") + " 오픈API"
+                   + (" + 커넥트웍스" if cw_add else "")),
         "count": len(grants),
         "summaryBy": summary_by,
     }

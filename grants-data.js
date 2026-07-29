@@ -1127,6 +1127,29 @@ window.GRANTS = [
   ]
  },
  {
+  "id": 30281,
+  "title": "[국민대학교 캠퍼스타운사업단] 2026 지역 현안 문제해결 연계 \"성북 ON 창업교육 프로그램\" 참가자 모집 (~7/29)",
+  "field": "R&D",
+  "type": "지원사업",
+  "amount": 0,
+  "region": "전국",
+  "deadline": "2026-07-29",
+  "elig": "예비창업",
+  "summary": "로컬 창업 아이템 점검, 고객 검증용 PoC 웹페이지 제작, 비즈니스모델 고도화 교육과 후속 플리마켓 참여 기회 제공",
+  "detail": {
+   "what": "로컬 창업 아이템 점검, 고객 검증용 PoC 웹페이지 제작, 비즈니스모델 고도화 교육과 후속 플리마켓 참여 기회 제공",
+   "money": "총사업비 1,000만원 규모. 기업당 지원금은 공고 원문에서 확인하세요.",
+   "goodFit": "예비창업",
+   "caution": "접수 마감 2026.07.29. 정확한 자격요건·제출서류는 반드시 공고 원문(forms.gle)을 확인하세요."
+  },
+  "link": "https://forms.gle/PjvX3wvwDFEkLfnj6",
+  "source": "forms.gle",
+  "req": {},
+  "real": true,
+  "period": "2026.07.29",
+  "files": []
+ },
+ {
   "id": 10092,
   "title": "[경남] 2026년 3차 타깃마케팅(중국) 참가기업 모집 공고",
   "field": "글로벌",
@@ -7585,6 +7608,75 @@ window.GRANTS = [
   ]
  },
  {
+  "id": 30512,
+  "title": "2026 지역실증형 오픈이노베이션",
+  "field": "네트워크",
+  "type": "지원사업",
+  "amount": 0,
+  "region": "전국",
+  "deadline": "2026-07-31",
+  "elig": "공고 원문 확인",
+  "summary": "지역 현안 해결 실증 기회, 1:1 비즈니스 밋업, 지역기관·대기업·공공기관 협업 및 후속지원 연계",
+  "detail": {
+   "what": "지역 현안 해결 실증 기회, 1:1 비즈니스 밋업, 지역기관·대기업·공공기관 협업 및 후속지원 연계",
+   "money": "지원금 규모는 공고 원문에서 확인하세요.",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.07.31. 정확한 자격요건·제출서류는 반드시 공고 원문(scceioi.kr)을 확인하세요."
+  },
+  "link": "https://scceioi.kr/2026/localoi/index.php",
+  "source": "scceioi.kr",
+  "req": {},
+  "real": true,
+  "period": "2026.07.31",
+  "files": []
+ },
+ {
+  "id": 30592,
+  "title": "출연연, 대학 연구소기업 Business Development 프로그램 참여 예비창업자 모집",
+  "field": "R&D",
+  "type": "자금(출연)",
+  "amount": 10000000,
+  "region": "전국",
+  "deadline": "2026-07-31",
+  "elig": "공고 원문 확인",
+  "summary": "공공기술 기반 연구소기업 설립을 위한 사업화 진단, 전문인력 매칭, 투자유치·IR 지원, 수요기업 및 사업 파트너 연계 지원",
+  "detail": {
+   "what": "공공기술 기반 연구소기업 설립을 위한 사업화 진단, 전문인력 매칭, 투자유치·IR 지원, 수요기업 및 사업 파트너 연계 지원",
+   "money": "기업당 최대 1,000만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.07.31. 정확한 자격요건·제출서류는 반드시 공고 원문(forms.gle)을 확인하세요."
+  },
+  "link": "https://forms.gle/Jpa2jEKgYRTgfibi9",
+  "source": "forms.gle",
+  "req": {},
+  "real": true,
+  "period": "2026.07.31",
+  "files": []
+ },
+ {
+  "id": 30604,
+  "title": "2026년 모범 장애경제인 및 유공자 포상 후보자 모집 공고",
+  "field": "컨설팅",
+  "type": "지원사업",
+  "amount": 0,
+  "region": "전국",
+  "deadline": "2026-07-31",
+  "elig": "공고 원문 확인",
+  "summary": "모범 장애경제인 및 장애인기업 육성 유공자 포상 지원",
+  "detail": {
+   "what": "모범 장애경제인 및 장애인기업 육성 유공자 포상 지원",
+   "money": "지원금 규모는 공고 원문에서 확인하세요.",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.07.31. 정확한 자격요건·제출서류는 반드시 공고 원문(장애인기업종합지원센터)을 확인하세요."
+  },
+  "link": "https://www.debc.or.kr/bbs/board.php?bo_table=s2_2&wr_id=1721",
+  "source": "장애인기업종합지원센터",
+  "req": {},
+  "real": true,
+  "period": "2026.07.31",
+  "files": []
+ },
+ {
   "id": 10290,
   "title": "[대구] 2026년 노사상생 우수기업 발굴 및 지원 연장 공고",
   "field": "인력",
@@ -7843,6 +7935,52 @@ window.GRANTS = [
     "url": "https://www.k-startup.go.kr/afile/fileDownload/LHbLn"
    }
   ]
+ },
+ {
+  "id": 30584,
+  "title": "[우리금융그룹] 2026 디노랩 Tech센터 1기 모집",
+  "field": "글로벌",
+  "type": "지원사업",
+  "amount": 30000000,
+  "region": "전국",
+  "deadline": "2026-08-02",
+  "elig": "공고 원문 확인",
+  "summary": "우리금융 그룹사 금융 AX 과제 수행 스타트업 대상 개발비 3,000만 원, 클라우드 크레딧, 딥테크 펀드 투자 검토 연계 지원",
+  "detail": {
+   "what": "우리금융 그룹사 금융 AX 과제 수행 스타트업 대상 개발비 3,000만 원, 클라우드 크레딧, 딥테크 펀드 투자 검토 연계 지원",
+   "money": "기업당 최대 3,000만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.08.02. 정확한 자격요건·제출서류는 반드시 공고 원문(buly.kr)을 확인하세요."
+  },
+  "link": "https://buly.kr/31VPtsV",
+  "source": "buly.kr",
+  "req": {},
+  "real": true,
+  "period": "2026.08.02",
+  "files": []
+ },
+ {
+  "id": 30591,
+  "title": "[우리금융그룹] 2026 디노랩 Tech센터 모집",
+  "field": "R&D",
+  "type": "지원사업",
+  "amount": 30000000,
+  "region": "전국",
+  "deadline": "2026-08-02",
+  "elig": "공고 원문 확인",
+  "summary": "금융 AX 과제 PoC 수행지원금 최대 3천만원, 클라우드 인프라 크레딧, 투자 우선 검토 기회 제공",
+  "detail": {
+   "what": "금융 AX 과제 PoC 수행지원금 최대 3천만원, 클라우드 인프라 크레딧, 투자 우선 검토 기회 제공",
+   "money": "기업당 최대 3,000만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.08.02. 정확한 자격요건·제출서류는 반드시 공고 원문(buly.kr)을 확인하세요."
+  },
+  "link": "https://buly.kr/31VPtsV",
+  "source": "buly.kr",
+  "req": {},
+  "real": true,
+  "period": "2026.08.02",
+  "files": []
  },
  {
   "id": 10063,
@@ -8870,6 +9008,29 @@ window.GRANTS = [
     "url": "https://www.k-startup.go.kr/afile/fileDownload/050Ln"
    }
   ]
+ },
+ {
+  "id": 30438,
+  "title": "2026년 대만 이노테크 엑스포 참가 사업 모집 공고",
+  "field": "글로벌",
+  "type": "지원사업",
+  "amount": 1650000,
+  "region": "전국",
+  "deadline": "2026-08-03",
+  "elig": "공고 원문 확인",
+  "summary": "대만 이노테크 엑스포 출품 부스비를 최대 165만원 지원",
+  "detail": {
+   "what": "대만 이노테크 엑스포 출품 부스비를 최대 165만원 지원",
+   "money": "기업당 최대 165만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.08.03. 정확한 자격요건·제출서류는 반드시 공고 원문(한국발명진흥회)을 확인하세요."
+  },
+  "link": "https://www.kipa.org/kipa/ip003/kw_culture_1302.jsp?mode=view&article_no=126009&board_wrapper=%2Fkipa%2Fip003%2Fkw_culture_1302.jsp&pager.offset=0&board_no=28&default:category_id=19",
+  "source": "한국발명진흥회",
+  "req": {},
+  "real": true,
+  "period": "2026.08.03",
+  "files": []
  },
  {
   "id": 10012,
@@ -23913,6 +24074,61 @@ window.GRANTS = [
   ]
  },
  {
+  "id": 30252,
+  "title": "[경기] 2026년 3차 사물인터넷(IoT) 설치 지원사업 모집 공고",
+  "field": "컨설팅",
+  "type": "지원사업",
+  "amount": 0,
+  "region": "경기",
+  "deadline": "2026-09-30",
+  "elig": "공고 원문 확인",
+  "summary": "중소기업 사업장의 대기배출시설과 방지시설 운영상태를 확인하는 IoT 측정기기 및 게이트웨이 설치 지원",
+  "detail": {
+   "what": "중소기업 사업장의 대기배출시설과 방지시설 운영상태를 확인하는 IoT 측정기기 및 게이트웨이 설치 지원",
+   "money": "총사업비 10억원 규모. 기업당 지원금은 공고 원문에서 확인하세요.",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.09.30. 정확한 자격요건·제출서류는 반드시 공고 원문(경기환경에너지진흥원)을 확인하세요."
+  },
+  "link": "https://www.ggeea.or.kr/news/333",
+  "source": "경기환경에너지진흥원",
+  "req": {},
+  "real": true,
+  "period": "2026.09.30",
+  "files": []
+ },
+ {
+  "id": 30585,
+  "title": "[동국대BMC창업보육센터] 바이오ㆍ메디컬 패키지지원 프로그램 참여기업 모집(~9/30(금)까지)",
+  "field": "글로벌",
+  "type": "지원사업",
+  "amount": 5000000,
+  "region": "전국",
+  "deadline": "2026-09-30",
+  "elig": "공고 원문 확인",
+  "summary": "바이오·메디컬 분야 기업 대상 동국대학교 보유기술 매칭, 기술이전 연계, 시제품 제작, 시험분석, 인증, 지식재산권 등 사업화 패키지 지원",
+  "detail": {
+   "what": "바이오·메디컬 분야 기업 대상 동국대학교 보유기술 매칭, 기술이전 연계, 시제품 제작, 시험분석, 인증, 지식재산권 등 사업화 패키지 지원",
+   "money": "기업당 최대 500만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.09.30. 정확한 자격요건·제출서류는 반드시 공고 원문(K-Startup)을 확인하세요."
+  },
+  "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178200&page=1&schStr=regist&pbancEndYn=N",
+  "source": "K-Startup",
+  "req": {},
+  "real": true,
+  "period": "2026.09.30",
+  "files": [
+   {
+    "name": "1. 2026 바이오메디컬 맞춤형 패키지 지원 프로그램 공고_.hwp",
+    "url": "https://www.k-startup.go.kr/afile/fileDownload/djbLn"
+   },
+   {
+    "name": "2. 2026 바이오메디컬 맞춤형 패키지 지원 프로그램 제출서류 양식.hwp",
+    "url": "https://www.k-startup.go.kr/afile/fileDownload/SjbLn"
+   }
+  ]
+ },
+ {
   "id": 10515,
   "title": "[부산] 2026년 중소기업 빅데이터 분석ㆍ활용 지원사업 데이터 가치평가 수요기업 모집 공고",
   "field": "기술",
@@ -29043,6 +29259,52 @@ window.GRANTS = [
     "url": "https://www.k-startup.go.kr/afile/fileDownload/NgbLn"
    }
   ]
+ },
+ {
+  "id": 30583,
+  "title": "한국폴리텍Ⅱ대학 창업보육센터 입주기업 상시 모집",
+  "field": "기타",
+  "type": "지원사업",
+  "amount": 0,
+  "region": "인천",
+  "deadline": "2026-12-31",
+  "elig": "예비창업",
+  "summary": "창업보육공간, 회의실·스튜디오·세미나실, 3D스캐너·CNC·5축가공기 등 장비, 세무·마케팅·경영컨설팅, 특허·인증·홍보 지원",
+  "detail": {
+   "what": "창업보육공간, 회의실·스튜디오·세미나실, 3D스캐너·CNC·5축가공기 등 장비, 세무·마케팅·경영컨설팅, 특허·인증·홍보 지원",
+   "money": "총사업비 5,000만원 규모. 기업당 지원금은 공고 원문에서 확인하세요.",
+   "goodFit": "예비창업",
+   "caution": "접수 마감 2026.12.31. 정확한 자격요건·제출서류는 반드시 공고 원문(sanhak.kopo.ac.kr)을 확인하세요."
+  },
+  "link": "https://sanhak.kopo.ac.kr/incheon/selectCrseWebView.do?key=1937&gwajeongCd=0000080295&casu=1",
+  "source": "sanhak.kopo.ac.kr",
+  "req": {},
+  "real": true,
+  "period": "2026.12.31",
+  "files": []
+ },
+ {
+  "id": 30605,
+  "title": "서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내",
+  "field": "글로벌",
+  "type": "지원사업",
+  "amount": 3000000,
+  "region": "전국",
+  "deadline": "2026-12-31",
+  "elig": "공고 원문 확인",
+  "summary": "스타트업-투자자 온라인 투자밋업 기회 제공, 최종 투자유치 기업 대상 후속지원금 300만원 지급",
+  "detail": {
+   "what": "스타트업-투자자 온라인 투자밋업 기회 제공, 최종 투자유치 기업 대상 후속지원금 300만원 지급",
+   "money": "기업당 최대 300만원 지원(공고 기준).",
+   "goodFit": "공고 원문 확인",
+   "caution": "접수 마감 2026.12.31. 정확한 자격요건·제출서류는 반드시 공고 원문(커넥트웍스)을 확인하세요."
+  },
+  "link": "www.startup-plus.kr/investment?size=18&sort=investCompanyOrder&applicationStatus=A&page=0",
+  "source": "커넥트웍스",
+  "req": {},
+  "real": true,
+  "period": "2026.12.31",
+  "files": []
  },
  {
   "id": 10955,
@@ -56309,4 +56571,4 @@ window.GRANTS = [
   ]
  }
 ];
-window.GRANTS_META = {"collectedAt": "2026-07-29 16:35", "source": "기업마당(bizinfo) + K-Startup 오픈API", "count": 1710, "summaryBy": "Claude (요약 캐시)"};
+window.GRANTS_META = {"collectedAt": "2026-07-29 16:57", "source": "기업마당(bizinfo) + K-Startup 오픈API + 커넥트웍스", "count": 1721, "summaryBy": "Claude (요약 캐시)"};
