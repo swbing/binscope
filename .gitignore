@@ -3,6 +3,8 @@ bizinfo_key.txt
 anthropic_key.txt
 kstartup_key.txt
 collect_log.txt
+collect_run*.log
+*.log
 __pycache__/
 *.pyc
 
