@@ -387,6 +387,109 @@ def attach_files(grants):
     withf = sum(1 for g in grants if g.get("files"))
     log(f"첨부파일 링크 확인: {withf}/{len(grants)}건에 파일 있음")
 
+# ===== K-Startup (창업진흥원) 소스 — 창업·민간 프로그램 포함 =====
+KSTARTUP_URL = "https://apis.data.go.kr/B552735/kisedKstartupService01/getAnnouncementInformation01"
+
+def get_kstartup_key():
+    if os.environ.get("KSTARTUP_KEY"):
+        return os.environ["KSTARTUP_KEY"].strip()
+    f = os.path.join(os.path.dirname(os.path.abspath(__file__)), "kstartup_key.txt")
+    if os.path.exists(f):
+        k = open(f, encoding="utf-8").read().strip()
+        if k and not k.lower().startswith("http"):
+            return k
+    return None
+
+def _ks_items(data):
+    if isinstance(data, list):
+        return data
+    if isinstance(data, dict):
+        for k in ("data", "items", "item"):
+            v = data.get(k)
+            if isinstance(v, list):
+                return v
+            if isinstance(v, dict) and isinstance(v.get("item"), list):
+                return v["item"]
+        body = (data.get("response") or {}).get("body") or {}
+        it = body.get("items")
+        if isinstance(it, dict):
+            it = it.get("item")
+        if isinstance(it, list):
+            return it
+    return []
+
+def fetch_kstartup(key, max_items=400):
+    ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
+    sk = key if "%" in key else urllib.parse.quote(key, safe="")   # 인코딩키는 그대로, 디코딩키는 인코딩
+    out = []
+    for page in range(1, 16):
+        q = urllib.parse.urlencode({"page": str(page), "perPage": "100", "returnType": "json", "rcrt-prgs-yn": "Y"})
+        url = KSTARTUP_URL + "?serviceKey=" + sk + "&" + q
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "nurfit-collector/1.0"})
+            raw = urllib.request.urlopen(req, context=ctx, timeout=30).read().decode("utf-8", "replace")
+        except Exception as e:
+            log("  K-Startup 호출 실패: " + str(e)[:100]); break
+        try:
+            data = json.loads(raw)
+        except json.JSONDecodeError:
+            log("  K-Startup 응답이 JSON 아님(키·형식 확인): " + raw[:150].replace("\n", " ")); break
+        items = _ks_items(data)
+        if not items:
+            break
+        out.extend(items)
+        if len(items) < 100 or len(out) >= max_items:
+            break
+    return out[:max_items]
+
+def ks_norm_url(u):
+    if not u:
+        return ""
+    return u if u.startswith("http") else "https://www.k-startup.go.kr" + (u if u.startswith("/") else "/" + u)
+
+def normalize_kstartup(item, idx):
+    title = get(item, "biz_pbanc_nm", "intg_pbanc_biz_nm", "pbanc_nm", "공고명", "title")
+    if not title:
+        return None
+    begin  = get(item, "pbanc_rcpt_bgng_dt", "aply_bgng_dt", "rcpt_bgng_dt")
+    end    = get(item, "pbanc_rcpt_end_dt", "aply_end_dt", "rcpt_end_dt", "접수마감일")
+    period = ((begin + " ~ " + end).strip(" ~")) if (begin or end) else get(item, "접수기간")
+    cat    = get(item, "supt_biz_clsfc", "biz_clsfc", "supt_biz_clasf", "지원분야")
+    inst   = get(item, "pbanc_ntrp_nm", "sprv_inst", "excutInsttNm", "소관기관")
+    target = get(item, "aply_trgt_ctnt", "aply_trgt", "신청대상")
+    summary = strip_html(get(item, "pbanc_ctnt", "biz_pbanc_ctnt", "bsns_sumry", "사업개요"))
+    region  = get(item, "supt_regin", "지역")
+    url     = ks_norm_url(get(item, "detl_pg_url", "biz_gdnc_url", "pbanc_url"))
+    text    = " ".join([title, cat, summary, target, region])
+    if len(summary) > 800:
+        summary = summary[:800].rstrip() + "…"
+    deadline = parse_deadline(end) or parse_deadline(period)
+    type_ = detect_type(text)
+    core = clean_lead(summary) or (title + " 관련 창업지원사업입니다. 자세한 내용은 공고 원문을 확인하세요.")
+    detail = {
+        "what": core,
+        "money": type_ + " 형태의 지원사업입니다. 구체적인 지원금 규모는 공고 원문에서 확인하세요.",
+        "goodFit": (target or "창업기업·중소기업"),
+        "caution": (("신청 기간 " + period + ". ") if period else "") + "정확한 자격요건·제출서류는 반드시 공고 원문(K-Startup)을 확인하세요.",
+    }
+    return {
+        "id": 20000 + idx,
+        "title": title,
+        "field": map_field(cat, text),
+        "type": type_,
+        "amount": 0,
+        "region": detect_region((region or "") + " " + title + " " + inst),
+        "deadline": deadline,
+        "elig": target or "공고 원문 확인",
+        "summary": summary or (title + " — 상세는 공고 원문을 확인하세요."),
+        "detail": detail,
+        "link": url,
+        "source": inst or "K-Startup",
+        "req": {},
+        "real": True,
+        "period": period,
+    }
+
 def main():
     key = get_key()
     if not key:
@@ -416,6 +519,31 @@ def main():
         grants.append(g)
         if len(grants) >= MAX_ITEMS:
             break
+    biz_count = len(grants)
+
+    # K-Startup 추가 (선택) — 창업·민간 프로그램 포함
+    kkey = get_kstartup_key()
+    if kkey:
+        log("K-Startup 오픈API 호출 중...")
+        kitems = fetch_kstartup(kkey)
+        log(f"K-Startup 수신 {len(kitems)}건")
+        seen = set(re.sub(r"\s+", "", g["title"]) for g in grants)
+        kadd = 0
+        for j, it in enumerate(kitems):
+            g = normalize_kstartup(it, j)
+            if not g:
+                continue
+            if g["deadline"] and g["deadline"] < today:
+                continue
+            tk = re.sub(r"\s+", "", g["title"])
+            if tk in seen:
+                continue
+            seen.add(tk)
+            grants.append(g)
+            kadd += 1
+        log(f"K-Startup 추가 {kadd}건 (중복·마감 제외)")
+    else:
+        log("(K-Startup 키 없음 → 기업마당만. 추가하려면 kstartup_key.txt 에 키 저장)")
 
     # 마감 임박 순 정렬 (상시=맨 뒤)
     grants.sort(key=lambda x: x["deadline"] or "9999-12-31")
@@ -445,7 +573,7 @@ def main():
 
     meta = {
         "collectedAt": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "source": "기업마당(bizinfo) 오픈API",
+        "source": "기업마당(bizinfo)" + (" + K-Startup" if kkey else "") + " 오픈API",
         "count": len(grants),
         "summaryBy": summary_by,
     }

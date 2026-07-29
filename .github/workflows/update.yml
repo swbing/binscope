@@ -21,6 +21,7 @@ jobs:
       - name: 공고 수집 (grants-data.js 생성)
         env:
           BIZINFO_KEY: ${{ secrets.BIZINFO_KEY }}
+          KSTARTUP_KEY: ${{ secrets.KSTARTUP_KEY }}
         run: python collect.py
 
       - name: 변경사항 커밋·푸시
