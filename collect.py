@@ -388,7 +388,7 @@ def attach_files(grants):
     log(f"첨부파일 링크 확인: {withf}/{len(grants)}건에 파일 있음")
 
 # ===== K-Startup (창업진흥원) 소스 — 창업·민간 프로그램 포함 =====
-KSTARTUP_URL = "https://apis.data.go.kr/B552735/kisedKstartupService01/getAnnouncementInformation01"
+KSTARTUP_URL = "https://nidapi.k-startup.go.kr/api/kisedKstartupService/v1/getAnnouncementInformation"
 
 def get_kstartup_key():
     if os.environ.get("KSTARTUP_KEY"):
@@ -448,7 +448,7 @@ def ks_norm_url(u):
     return u if u.startswith("http") else "https://www.k-startup.go.kr" + (u if u.startswith("/") else "/" + u)
 
 def normalize_kstartup(item, idx):
-    title = get(item, "biz_pbanc_nm", "intg_pbanc_biz_nm", "pbanc_nm", "공고명", "title")
+    title = html.unescape(get(item, "biz_pbanc_nm", "intg_pbanc_biz_nm", "pbanc_nm", "공고명", "title"))
     if not title:
         return None
     begin  = get(item, "pbanc_rcpt_bgng_dt", "aply_bgng_dt", "rcpt_bgng_dt")
@@ -456,10 +456,13 @@ def normalize_kstartup(item, idx):
     period = ((begin + " ~ " + end).strip(" ~")) if (begin or end) else get(item, "접수기간")
     cat    = get(item, "supt_biz_clsfc", "biz_clsfc", "supt_biz_clasf", "지원분야")
     inst   = get(item, "pbanc_ntrp_nm", "sprv_inst", "excutInsttNm", "소관기관")
-    target = get(item, "aply_trgt_ctnt", "aply_trgt", "신청대상")
+    target = html.unescape(get(item, "aply_trgt_ctnt", "aply_trgt", "신청대상"))
     summary = strip_html(get(item, "pbanc_ctnt", "biz_pbanc_ctnt", "bsns_sumry", "사업개요"))
     region  = get(item, "supt_regin", "지역")
+    sn      = get(item, "pbanc_sn")   # 진짜 공고 일련번호 (id는 단순 순번이라 사용 안 함)
     url     = ks_norm_url(get(item, "detl_pg_url", "biz_gdnc_url", "pbanc_url"))
+    if sn and (not url or "pbancSn" not in url):
+        url = "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=" + sn
     text    = " ".join([title, cat, summary, target, region])
     if len(summary) > 800:
         summary = summary[:800].rstrip() + "…"
