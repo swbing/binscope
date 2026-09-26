@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://swbing.github.io/binscope/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://swbing.github.io/binscope/g/ks-179163.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://swbing.github.io/binscope/g/ks-179098.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/ks-179189.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000126645.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000126518.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -978,7 +976,6 @@
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123907.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123905.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123904.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123901.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123877.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123863.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://swbing.github.io/binscope/g/biz-PBLN_000000000123862.html</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
